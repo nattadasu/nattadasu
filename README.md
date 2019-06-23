@@ -8,6 +8,6 @@
     <body>
         <h2>Well....</h2>
         <p>Because sometimes I can't speak in English fluently, then I made this repo in Multilingual (yep, I can understand in some languages fyi).</p>
-        <p><a href=https://github.com/nattadasu/personal/lang/Indonesia.md>Bahasa Indonesia</a> | English | Japanese | Arabic | Filipino | Bahsa Aceh</p>
+        <p><a href=https://github.com/nattadasu/Personal/blob/master/lang/indo/aboutme.json>Bahasa Indonesia</a> | English | Japanese | Arabic | Filipino | Bahsa Aceh</p>
     </body>
 </html>
