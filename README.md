@@ -3,11 +3,12 @@
         <img align=right src="https://cdn.discordapp.com/avatars/384089845527478272/094e179c0eb28d0770e8b1ef85ebf8ed.webp">
         <h1>Hi and welcome to my "repo" >w<)/</h1>
         <p>I creating this repo is for ehm.... Marks any project(s) that I contributed to...</p>
-        <p>Plus, I'm kinda tired to creating my own website (<a href="https://natsutadama.weebly.com">here</a> and also <a href="https://endemic-kun.weebly.com">here</a>). So, here is it, my "solution" about that :v</p>
+        <p>Plus, I'm kinda tired to creating my own website (<a href="https://tadamanatsu.weebly.com">here</a> and also <a href="https://endemic-kun.weebly.com">here</a>). So, here is it, my "solution" about that :v</p>
     </header>
     <body>
         <h2>Well....</h2>
         <p>Because sometimes I can't speak in English fluently, then I made this repo in Multilingual (yep, I can understand in some languages fyi).</p>
-        <p><a href=https://github.com/nattadasu/Personal/blob/master/lang/indo/aboutme.json>Bahasa Indonesia</a> | English | Japanese | Arabic | Filipino | Bahsa Aceh</p>
+        <p><a href="https://github.com/nattadasu/Personal/tree/master/lang/indo">Bahasa Indonesia</a> | <a href="https://github.com/nattadasu/Personal/tree/master/lang/eng">English</a> | <a href="https://github.com/nattadasu/Personal/tree/master/lang/jpn">日本語</a> | <a href="https://github.com/nattadasu/Personal/tree/master/lang/arb">العربية</a> | <a href=https://github.com/nattadasu/Personal/tree/master/lang/tag">Filipino</a> | <a href="https://github.com/nattadasu/Personal/tree/master/lang/ach">Bahsa Acéh</a></p>
+            <p>P.S.: All of these shortcuts won't working, since I still creating all of them :></p>
     </body>
 </html>
