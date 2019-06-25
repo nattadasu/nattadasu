@@ -4,8 +4,9 @@
     </head>
     <body>
         <h1>Tentang Saya</h1>
-            <p> Hai! Perkenalkan, nama asli saya <b>Sultan Iskandar Maulana</b> asal dari Aceh OwO<br>Kadang saya juga dikenal dengan nama samaran, yaitu: Tadama Natsu, ENDEMIC, Tomatsu Alex, Nikolai Tolenka, dan Benedict Alex :v</p>
-            <p>Ok, <s>izinkan gw pake bahasa gaul, capek aing buat bahasa formal :')</s></p>
+            <p>Hai! Perkenalkan, nama asli saya <b>Sultan Iskandar Maulana</b> asal dari Aceh OwO<br>Kadang saya juga dikenal dengan nama samaran, yaitu: Tadama Natsu, ENDEMIC, Tomatsu Alex, Nikolai Tolenka, dan Benedict Alex :v</p>
+            <p>Seperti yang kalian lihat, saya menggunakan GitHub untuk memberikan kolaborasi saya kepada proyek yang memerlukan terjemahan dalam bahasa Indonesia maupun Melayu <s>(moga aja ngga ditabok sama orang malay gegara salah nerjemahin :v)</s>. Hal itu dikarenakan saya menyukai sastra Indonesia <s>(iya gw suka, fight me :v)</s>.</p>
+            <p>Daripada saya melanjutkan omong kosongnya, mari kita langsung ke intinya :v<br>Plus, <s>izinkan gw pake bahasa gaul, capek aing buat bahasa formal :')</s></p>
         <h2>Informasi diri:</h2>
             <ul>
                 <li><b>Nama:</b> Sultan Iskandar Maulana</li>
@@ -17,9 +18,9 @@
             <ul>
                 <li><a href="https://github.com/Zenrac/watora-translation">Zenrac/watora-translation</a> (Terjemahan ID selesai)</li>
                 <li><a href="https://github.com/lolamtisch/MALSync">lolamtisch/MALSync</a> (Tejemahan selesai: ID, Sedang: MS)</li>
-                <li><a href="https://osu.ppy.sh/">osu!player Plus</a> (Terjemahan ID selesai)</li>
+                <li><a href="https://osu.ppy.sh/community/forums/topics/660418">osu!player Plus</a> (Terjemahan ID selesai)</li>
                 <br>
-                <li><a href="https://osu.ppy.sh/">Vibrance Player</a> (Terjemahan ID sedang dalam proses)</li>
+                <li><a href="https://osu.ppy.sh/community/forums/topics/362072">Vibrance Player</a> (Terjemahan ID sedang dalam proses)</li>
                 <li><a href="https://github.com/Kodehawa/MantaroBot">Kodehawa/MantaroBot</a> (Terjemahan ID sedang dalam proses)</li>
             </ul>
     </body>
