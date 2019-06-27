@@ -22,6 +22,8 @@
                 <br>
                 <li><a href="https://osu.ppy.sh/community/forums/topics/362072">Vibrance Player</a> (Terjemahan ID sedang dalam proses)</li>
                 <li><a href="https://github.com/Kodehawa/MantaroBot">Kodehawa/MantaroBot</a> (Terjemahan ID sedang dalam proses)</li>
+                <br>
+                <li><a href="https://ryuuganime.blogspot.com">Ryuuganime - Portal Indeks Anime Sub Indonesia</a> (Dalam pengembangan>
             </ul>
     </body>
 </html>
