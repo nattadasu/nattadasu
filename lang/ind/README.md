@@ -17,13 +17,13 @@
         <h2>Proyek yang Telah/Sedang Dikerjakan:</h2>
             <ul>
                 <li><a href="https://github.com/Zenrac/watora-translation">Zenrac/watora-translation</a> (Terjemahan ID selesai)</li>
-                <li><a href="https://github.com/lolamtisch/MALSync">lolamtisch/MALSync</a> (Tejemahan selesai: ID, Sedang: MS)</li>
+                <li><a href="https://github.com/lolamtisch/MALSync">lolamtisch/MALSync</a> (Tejemahan selesai: ID dan MS)</li>
                 <li><a href="https://osu.ppy.sh/community/forums/topics/660418">osu!player Plus</a> (Terjemahan ID selesai)</li>
                 <br>
                 <li><a href="https://osu.ppy.sh/community/forums/topics/362072">Vibrance Player</a> (Terjemahan ID sedang dalam proses)</li>
                 <li><a href="https://github.com/Kodehawa/MantaroBot">Kodehawa/MantaroBot</a> (Terjemahan ID sedang dalam proses)</li>
                 <br>
-                <li><a href="https://ryuuganime.blogspot.com">Ryuuganime - Portal Indeks Anime Sub Indonesia</a> (Dalam pengembangan>
+                <li><a href="https://ryuuganime.blogspot.com">Ryuuganime - Portal Indeks Anime Sub Indonesia</a> (Dalam pengembangan)
             </ul>
     </body>
 </html>
