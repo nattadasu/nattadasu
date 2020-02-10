@@ -1,0 +1,105 @@
+{{Infobox pengguna
+|status         = Otaku
+|gambar         = Ao no Exorcist.jpg
+|caption        = Gambar sampul [[manga]] ''[[Blue Exorcist]]'' volume pertama yang diterbitkan oleh [[Shueisha]], menampilkan karakter utama [[Rin Okumura]] dengan pedang dan api birunya
+
+|nama           = Sultan Iskandar Maulana
+
+<!-- DATA DIRI -->
+
+|nama lahir     = Sultan Iskandar Maulana
+|tanggal lahir  = [[4 Juni]] [[2001]]
+|tempat lahir   = [[Jakarta]]
+|laki/perempuan = Laki-Laki
+|alias          = Natsu Tadama, Sultan Tadama, Alex Tomatsu, Nikolay Tolenka
+|ttd            = [[Pengguna:Nattadasu|nattadasu]] ([[Pembicaraan Pengguna:Nattadasu|bicara]])
+|darah          = B
+|orientasi      = Normal
+|pekerjaan      = Pelajar/Mahasiswa
+|hobi           = Menyaksikan [[Anime]], berselancar [[internet]], bermain [[osu!]]
+
+<!-- CIRI FISIK -->
+
+|ras            = [[Ras Melayu]]
+|etnis          = [[Aceh]]
+|tinggi={{height|m=1.61}}
+|massa={{weight|kg=60}}
+|rambut         = Hitam
+|mata           = Hitam
+
+<!-- KEDIAMAN -->
+
+|zona           = Asia/Jakarta, [[UTC+7]]
+|lokasi         = [[Lhokseumawe]], [[Aceh]]
+|negara         = Indonesia
+
+<!-- KELUARGA -->
+
+|menikah        = Belum
+
+<!-- PENDIDIKAN -->
+
+|pendidikan     = SMA
+|SD             = SDN 1 Banda Sakti, [[Lhokseumawe]]
+|SMP            = MTs Swasta YAPENA, [[Lhokseumawe]]
+|SMA            = MA Swasta YAPENA, [[Lhokseumawe]]
+|Universitas    = [[Universitas Islam Negeri Ar-Raniry]]
+
+<!-- PANDANGAN HIDUP -->
+
+|agama          = [[Islam]]
+|ideologi       = Pancasila
+
+<!-- HUBUNGI -->
+
+|situs          = https://natsutadama.weebly.com
+|surel= nattadasu@my.com
+|telepon        = +6285155315151
+|Facebook       = nattadasu
+|Twitter        = nattadasu
+|Instagram      = nattadasu
+|GitHub         = nattadasu
+
+<!-- INFO LAIN -->
+
+|interests      = 
+{{Pengguna otaku}}
+{{Pengguna penggemar anime}}
+{{userbox
+|logo            = [[Berkas:Osu!Logo_(2015).svg|38px]]
+|info            = <center>Pengguna ini adalah pemain '''[[osu!]]'''
+|border-color    = #18171c
+|logo-background = #18171c
+|info-background = #18171c
+|info-color      = #f3f2f9
+}}
+|userboxes      =
+<center>'''Wikipedia'''</center>
+{{userbox|#FFFF00|#ff6|[[Berkas:Gemini.svg|30px]]
+|<center>Pengguna ini [[zodiak|berzodiak]] '''[[Gemini]]'''</center>
+|category        = Pengguna Gemini
+|nocat           = {{{nocat|}}}
+}}<noinclude>
+{{userboxes|Pengguna Gemini}}
+[[Kategori:Templat userbox zodiak|Gemini]]
+</noinclude>
+<center>'''Komputer'''</center>
+{{Pengguna Windows 10}} {{Pengguna Ubuntu}}
+{{userbox
+| logo-background = #F7F7F7
+| info-background = #A5C3FF
+| logo = [[Berkas:Zorin Logomark.svg|40px]]
+| logo-size = 6
+| info = <center>Pengguna ini menggunakan sistem operasi '''[[Zorin OS]]'''
+}}
+{{#if:{{{kat|}}}||<includeonly>
+</includeonly>}}<noinclude>{{Pengguna iTunes}}{{Pengguna Laptop}}{{Pengguna Dell}}{{Pengguna Google Chrome}}
+{{clr}}
+<center>'''[[Genre]] Favorit'''</center>
+{{Pengguna animanga fantasi}}{{Pengguna animanga harem}}{{Pengguna animanga komedi}}{{Pengguna animanga komedi-romantis}}{{Pengguna ecchi}}
+{{clr}}
+<center>'''[[Media sosial]]'''</center>
+{{Pengguna Facebook|username=nattadasu}}{{Pengguna GitHub|nattadasu}}{{Pengguna Instagram|nattadasu}}{{Pengguna Twitter|nattadasu}}{{Pengguna VK|nattadasu}}{{Pengguna YouTube|channel=UCWZPuKkARt29CoqHiJLhuSw}}
+}}
+
+'''Sultan Iskandar Maulana''' ({{lahirmati|[[Kota Jakarta|Jakarta]]|4|6|2001}})
