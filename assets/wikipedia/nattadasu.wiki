@@ -11,7 +11,7 @@
 |tanggal lahir  = [[4 Juni]] [[2001]]
 |tempat lahir   = [[Jakarta]]
 |laki/perempuan = Laki-Laki
-|alias          = Natsu Tadama, Sultan Tadama, Alex Tomatsu, Nikolay Tolenka
+|alias          = Natsu TADAMA, Sultan TADAMA, Alex TOMATSU, Nikolay Tolenka, Ryuusei NEKONE, Ryuusei RYUUZAKI
 |ttd            = [[Pengguna:Nattadasu|nattadasu]] ([[Pembicaraan Pengguna:Nattadasu|bicara]])
 |darah          = B
 |orientasi      = Heteroseksual, [[Fujoshi|Fudanshi]]
@@ -22,8 +22,8 @@
 
 |ras            = [[Ras Melayu]]
 |etnis          = [[Aceh]]
-|tinggi={{height|m=1.61}}
-|massa={{weight|kg=60}}
+|tinggi         = {{height|m=1.61}}
+|massa          = {{weight|kg=60}}
 |rambut         = Hitam
 |mata           = Hitam
 
@@ -53,26 +53,20 @@
 <!-- HUBUNGI -->
 
 |situs          = https://natsutadama.weebly.com
-|surel= nattadasu@my.com
+|surel          = nattadasu@my.com
 |telepon        = +6285155315151
 |Facebook       = nattadasu
 |Twitter        = nattadasu
 |Instagram      = nattadasu
 |GitHub         = nattadasu
+|Discord        = nattadasu#3867
 
 <!-- INFO LAIN -->
 
 |interests      = 
 {{Pengguna otaku}}
 {{Pengguna penggemar anime}}
-{{userbox
-|logo            = [[Berkas:Osu!Logo_(2015).svg|38px]]
-|info            = <center>Pengguna ini adalah pemain '''[[osu!]]'''
-|border-color    = #18171c
-|logo-background = #18171c
-|info-background = #18171c
-|info-color      = #f3f2f9
-}}
+{{Pengguna osu!|9256506}}
 |userboxes      =
 <center>'''Wikipedia'''</center>
 {{userbox|#FFFF00|#ff6|[[Berkas:Gemini.svg|30px]]
@@ -99,7 +93,28 @@
 {{Pengguna animanga fantasi}}{{Pengguna animanga harem}}{{Pengguna animanga komedi}}{{Pengguna animanga komedi-romantis}}{{Pengguna ecchi}}
 {{clr}}
 <center>'''[[Media sosial]]'''</center>
-{{Pengguna Facebook|username=nattadasu}}{{Pengguna GitHub|nattadasu}}{{Pengguna Instagram|nattadasu}}{{Pengguna Twitter|nattadasu}}{{Pengguna VK|nattadasu}}{{Pengguna YouTube|channel=UCWZPuKkARt29CoqHiJLhuSw}}
+{{Pengguna Facebook|username=nattadasu}}{{Pengguna GitHub|nattadasu}}{{Pengguna Instagram|nattadasu}}{{Pengguna Twitter|nattadasu}}{{Pengguna VK|nattadasu}}{{Pengguna YouTube|channel=UCWZPuKkARt29CoqHiJLhuSw}}{{Pengguna Discord|nattadasu#3867}}
 }}
 
 '''Sultan Iskandar Maulana''' ({{lahirmati|[[Kota Jakarta|Jakarta]]|4|6|2001}})
+
+== Kotak Pengguna ==
+{{Pengguna anggota PW Animanga}}{{Pengguna monoteis}}{{pengguna muslim}}{{Pengguna percaya kiamat}}{{Pengguna percaya malaikat}}{{Pengguna percaya makhluk supranatural}}{{pengguna suka makanan halal}}{{Pengguna Nasionalis}}{{userbox|white|#addfad|[[Berkas:Flag-map-of-indonesia.png|50px]]|Pengguna ini mempunyai keinginan berkeliling '''[[Indonesia]]'''.}}
+{{Pengguna laki-laki}}{{Pengguna ultah|[[4]] [[Juni]] [[2001]]|2001 |6 |4  }}{{Pengguna anak ke|1|4}}{{Pengguna heteroseksual}}{{Pengguna Gemini}}{{Pengguna bukan perokok}}{{Pengguna bergolongan darah|B}}{{Pengguna tidak memiliki binatang}}
+
+{{User id-N}}{{User ace-4}}{{User en-4}}{{User ms-4}}{{user ar-3}}{{User ja-2}}{{User ru-1}}{{user tl-1}}{{Pengguna Abjad Fonetis Internasional}}{{Pengguna yang bisa membaca abjad Arab}}{{Pengguna yang bisa membaca Jawi}}{{Pengguna yang bisa membaca Kanji}}{{Pengguna yang bisa membaca Hiragana}}{{Pengguna yang bisa membaca Katakana}}{{Pengguna yang bisa membaca huruf Sirilik}}{{Pengguna yang bisa membaca aksara Hangul}}{{Pengguna yang bisa membaca aksara Sunda}}
+
+{{Pengguna Discord|nattadasu#3867}}{{Pengguna Facebook|username=nattadasu}}{{Pengguna GitHub|nattadasu}}{{Pengguna Instagram|nattadasu}}{{Pengguna Twitter|nattadasu}}{{Pengguna VK|nattadasu}}{{Pengguna YouTube|channel=UCWZPuKkARt29CoqHiJLhuSw}}
+
+{{Pengguna animanga fantasi}}{{Pengguna animanga harem}}{{Pengguna animanga komedi}}{{Pengguna animanga komedi-romantis}}{{Pengguna ecchi}}
+
+{{Pengguna Windows 10}} {{Pengguna Ubuntu}}
+{{userbox
+| logo-background = #F7F7F7
+| info-background = #A5C3FF
+| logo = [[Berkas:Zorin Logomark.svg|40px]]
+| logo-size = 6
+| info = <center>Pengguna ini menggunakan sistem operasi '''[[Zorin OS]]'''
+}}
+{{#if:{{{kat|}}}||<includeonly>
+</includeonly>}}<noinclude>{{Pengguna iTunes}}{{Pengguna Laptop}}{{Pengguna Dell}}{{Pengguna Google Chrome}}{{Pengguna:Nattadasu/userbox/VScode}}
