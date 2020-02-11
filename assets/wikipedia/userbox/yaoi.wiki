@@ -1,0 +1,8 @@
+{{userbox
+| logo-background = blue
+| info-background = White
+| logo-color      = white
+| logo = やおい
+| logo-size = 10
+| info = <center>Pengguna ini menyukai [[Anime|anime]]/[[Manga|manga]] [[Yaoi|yaoi]].</center>
+}}

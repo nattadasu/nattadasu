@@ -1,0 +1,8 @@
+{{userbox
+| logo-background = #1e1e1e
+| info-background = #007acd
+| info-color      = #ffffff
+| logo = [[Berkas:Visual Studio Code 1.35 icon.svg|40px]]
+| logo-size = 6
+| info = <center>Pengguna ini menggunakan aplikasi '''[[Visual Studio]] Code''' untuk Penyuntingan Wiki</center>
+}}

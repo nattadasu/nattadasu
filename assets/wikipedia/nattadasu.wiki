@@ -98,6 +98,10 @@
 
 '''Sultan Iskandar Maulana''' ({{lahirmati|[[Kota Jakarta|Jakarta]]|4|6|2001}})
 
+== Templat [[Wikipedia:Kotak Pengguna|Userbox/Kotak Pengguna]] Buatan ==
+Anda dapat melihatnya [[Pengguna:Nattadasu/userbox/|disini]].
+Untuk penggunaan [[Wikipedia:Kotak Pengguna|Userbox/Kotak Pengguna]], silahkan isi <code><nowiki>{{Pengguna:Nattadasu/userbox/(NAMA USERBOX)}}</nowiki></code>
+
 == Kotak Pengguna ==
 {{Pengguna anggota PW Animanga}}{{Pengguna monoteis}}{{pengguna muslim}}{{Pengguna percaya kiamat}}{{Pengguna percaya malaikat}}{{Pengguna percaya makhluk supranatural}}{{pengguna suka makanan halal}}{{Pengguna Nasionalis}}{{userbox|white|#addfad|[[Berkas:Flag-map-of-indonesia.png|50px]]|Pengguna ini mempunyai keinginan berkeliling '''[[Indonesia]]'''.}}
 {{Pengguna laki-laki}}{{Pengguna ultah|[[4]] [[Juni]] [[2001]]|2001 |6 |4  }}{{Pengguna anak ke|1|4}}{{Pengguna heteroseksual}}{{Pengguna Gemini}}{{Pengguna bukan perokok}}{{Pengguna bergolongan darah|B}}{{Pengguna tidak memiliki binatang}}
@@ -106,7 +110,7 @@
 
 {{Pengguna Discord|nattadasu#3867}}{{Pengguna Facebook|username=nattadasu}}{{Pengguna GitHub|nattadasu}}{{Pengguna Instagram|nattadasu}}{{Pengguna Twitter|nattadasu}}{{Pengguna VK|nattadasu}}{{Pengguna YouTube|channel=UCWZPuKkARt29CoqHiJLhuSw}}
 
-{{Pengguna animanga fantasi}}{{Pengguna animanga harem}}{{Pengguna animanga komedi}}{{Pengguna animanga komedi-romantis}}{{Pengguna ecchi}}
+{{Pengguna animanga fantasi}}{{Pengguna animanga harem}}{{Pengguna animanga komedi}}{{Pengguna animanga komedi-romantis}}{{Pengguna ecchi}}{{Pengguna:Nattadasu/userbox/yaoi}}
 
 {{Pengguna Windows 10}} {{Pengguna Ubuntu}}
 {{userbox
