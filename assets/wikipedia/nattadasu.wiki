@@ -60,40 +60,6 @@
 |Instagram      = nattadasu
 |GitHub         = nattadasu
 |Discord        = nattadasu#3867
-
-<!-- INFO LAIN -->
-
-|interests      = 
-{{Pengguna otaku}}
-{{Pengguna penggemar anime}}
-{{Pengguna osu!|9256506}}
-|userboxes      =
-<center>'''Wikipedia'''</center>
-{{userbox|#FFFF00|#ff6|[[Berkas:Gemini.svg|30px]]
-|<center>Pengguna ini [[zodiak|berzodiak]] '''[[Gemini]]'''</center>
-|category        = Pengguna Gemini
-|nocat           = {{{nocat|}}}
-}}<noinclude>
-{{userboxes|Pengguna Gemini}}
-[[Kategori:Templat userbox zodiak|Gemini]]
-</noinclude>
-<center>'''Komputer'''</center>
-{{Pengguna Windows 10}} {{Pengguna Ubuntu}}
-{{userbox
-| logo-background = #F7F7F7
-| info-background = #A5C3FF
-| logo = [[Berkas:Zorin Logomark.svg|40px]]
-| logo-size = 6
-| info = <center>Pengguna ini menggunakan sistem operasi '''[[Zorin OS]]'''
-}}
-{{#if:{{{kat|}}}||<includeonly>
-</includeonly>}}<noinclude>{{Pengguna iTunes}}{{Pengguna Laptop}}{{Pengguna Dell}}{{Pengguna Google Chrome}}
-{{clr}}
-<center>'''[[Genre]] Favorit'''</center>
-{{Pengguna animanga fantasi}}{{Pengguna animanga harem}}{{Pengguna animanga komedi}}{{Pengguna animanga komedi-romantis}}{{Pengguna ecchi}}
-{{clr}}
-<center>'''[[Media sosial]]'''</center>
-{{Pengguna Facebook|username=nattadasu}}{{Pengguna GitHub|nattadasu}}{{Pengguna Instagram|nattadasu}}{{Pengguna Twitter|nattadasu}}{{Pengguna VK|nattadasu}}{{Pengguna YouTube|channel=UCWZPuKkARt29CoqHiJLhuSw}}{{Pengguna Discord|nattadasu#3867}}
 }}
 
 '''Sultan Iskandar Maulana''' ({{lahirmati|[[Kota Jakarta|Jakarta]]|4|6|2001}})
