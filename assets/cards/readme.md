@@ -1,8 +1,12 @@
 # Natsu\'s Cards Collection
 
 ## Personal Cards
-![card #1](SSS-1-r.png)
+![card #1](SSS-1-r.png)<br />
 Card by [me](https://github.com/nattadasu) | [MyAnimeList](https://myanimelist.net/profile/nattadasu).
+
+## Personal Collection Cards
+### [fivenuckle2\'s Cards](https://myanimelist.net/blog.php?eid=829898)
+![025](fntwo042020/025.png) ![026](fntwo042020/026.png) ![042](fntwo042020/042.png) ![060](fntwo042020/060.png)
 
 ## Event-based Cards
 ### [The Newbie Club - Spring Edition](https://myanimelist.net/forum/?topicid=1830956)
