@@ -1,0 +1,8 @@
+{{userbox
+| logo-background = red
+| info-background = White
+| logo-color      = white
+| logo = '''腐男子'''
+| logo-size = 10
+| info = <center>Pengguna ini meyakini bahwa ia adalah '''[[Fujoshi|Fudanshi]]''' akut.</center>
+}}
