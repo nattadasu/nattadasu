@@ -5,4 +5,3 @@
 | logo-size = 6
 | info = <center>Pengguna ini menggunakan sistem operasi '''[[Zorin OS]]'''
 }}
-{{#if:{{{kat|}}}||<includeonly>
