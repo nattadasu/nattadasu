@@ -54,8 +54,8 @@ Here's some sites I've tested to test "is [x] site loaded perfectly on MAL?"
 | ImageShack | Yes | Yes |
 | PostImage | Yes | Yes |
 
-Note: This table will update frequently
-First submission: 16 April 2020, 10:46 PM GMT+7
-Second: 17 April 2020, 11:22 AM GMT+7
+**Note**: This table will update frequently\
+**First submission**: 16 April 2020, 10:46 PM GMT+7\
+**Second**: 17 April 2020, 11:22 AM GMT+7
 
 **[Testing blog](https://myanimelist.net/blog.php?eid=833627)**
