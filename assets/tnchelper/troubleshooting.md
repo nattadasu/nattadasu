@@ -16,7 +16,7 @@ This troubleshooting guide can also used for other type of animated GIF if you f
 
 1. Choose an animated GIF that appears corrupted, not load, or not rendered completely by MyAnimeList. For instance, I'll choose [my pre-modified card](042020-AmaneYugi/PhotoScape.gif) that doesn't load:\
 ![yugi](042020-AmaneYugi/PhotoScape.gif)\
-The size of the card is 360 px width and 240px height.\
+The size of the card is 360 px width and 240px height.
 > NOTE: If you have GIF file and it's way too big, you can resize it first using PhotoScape X for Windows 10, or PhotoScape for other Windows version.
 2. Go to [ezgif](https://ezgif.com) ([https://ezgif.com](https://ezgif.com)), and choose [GIF optimizer](https://ezgif.com/optimize). The purpose of optimizing animated GIF is to reduce the size of file with quality of image is reduced a little bit.
 3. Upload the image, or if you have uploaded to a image hosting, you can copy image URL and paste it into the box. In this case, I've uploaded my card into personal GitHub repo, and place the image url into the box, and tap `Upload!`.\
@@ -44,14 +44,18 @@ In this case, I'd say... well MAL goes weird again at this one ;-;
 
 Here's some sites I've tested to test "is [x] site loaded perfectly on MAL?"
 
-| Site | Does It Works? |
-| --: | :------------ |
-| GitHub | Yes |
-| s-ul.eu | Yes |
-| Discord CDN | No, But its should be work lol |
-| imgur | Yes |
-| FunkyIMG | Yes |
-| ImageShack | Yes |
-| PostImage | Yes |
+| Site | Does It Works? | Second Check |
+| --: | :------------: | :------------ |
+| GitHub | Yes | Yes |
+| s-ul.eu | Yes | Yes
+| Discord CDN | No, But its should be work lol | Still, No |
+| imgur | Yes | Yes |
+| FunkyIMG | Yes | No |
+| ImageShack | Yes | Yes |
+| PostImage | Yes | Yes |
+
+Note: This table will update frequently
+First submission: 16 April 2020, 10:46 PM GMT+7
+Second: 17 April 2020, 11:22 AM GMT+7
 
 **[Testing blog](https://myanimelist.net/blog.php?eid=833627)**
