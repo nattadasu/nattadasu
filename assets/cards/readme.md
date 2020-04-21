@@ -10,7 +10,7 @@ Card by [me](https://github.com/nattadasu) | [MyAnimeList](https://myanimelist.n
 
 ## Event-based Cards
 ### [The Newbie Club - Mystery Edition](https://myanimelist.net/forum/?topicid=1835337)
-![V1sion](tnc042020/V1sion.png)
+![natta](tnc042020/nattadasu-A.gif) ![natta](tnc042020/nattadasu-B.gif) ![V1sion](tnc042020/V1sion.png)
 ### [The Newbie Club - Spring Edition](https://myanimelist.net/forum/?topicid=1830956)
 ![Forbidden](tnc032020/Forbidden.png) ![Kymikx](tnc032020/Kymikx.gif) ![Naegi](tnc032020/Naegi.png) ![nattadasu](tnc032020/nattadasu.png) ![V1sion](tnc032020/V1sion.png)
 ### [Just Another Yaoi Club - Isaku Natsume Edition](url=https://myanimelist.net/forum/?topicid=1830559)
