@@ -108,11 +108,11 @@
 /* Firefox */
 
 * {
-    scrollbar-color: hsl(var(--accent)) hsl(var(--bgAlt));
+    scrollbar-color: hsl(27, 26%, 61%) hsl(var(--bgAlt));
 }
 
 .list-item * {
-    scrollbar-color: hsl(var(--accent)) hsl(var(--bg));
+    scrollbar-color: hsl(27, 26%, 61%) hsl(var(--bg));
 }
 
 .data.tags,
@@ -2705,7 +2705,7 @@ div[style^="width: 300px;"] input+input {
 /* Scrollbars */
 
 * {
-    scrollbar-color: hsl(var(--btnAccent)) hsl(var(--bgAlt));
+    scrollbar-color: hsl(27, 26%, 61%) hsl(var(--bgAlt));
 }
 
 *::-webkit-scrollbar-thumb {
