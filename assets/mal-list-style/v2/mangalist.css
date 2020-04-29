@@ -2851,3 +2851,12 @@ body #fancybox-frame {
 body {
     background: url("http://i.imgur.com/nUWFBTA.png") repeat !important;
 }
+
+
+/*------------------------------*\
+|*      Cover Image Shadow      *|
+\* - - - - - - - - - - - - - - -*/
+
+.data.image {
+    box-shadow: -1.2px 8px 10px hsla(0, 0%, 0%, 35%);
+}
