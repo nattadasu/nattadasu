@@ -348,7 +348,7 @@ body::before {
     width: 100%;
     height: 42px;
     background: hsl(var(--bgAlt));
-    box-shadow: 0 1.68px 3.36px hsla(0, 0%, 0%, 50%);
+    box-shadow: 0 1.68px 10px hsla(0, 0%, 0%, 50%);
 }
 
 .header a {
