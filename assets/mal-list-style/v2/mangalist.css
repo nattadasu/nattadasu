@@ -11,6 +11,7 @@
 
 @\import "https://malscraper.azurewebsites.net/covers/manga/nattadasu/presets/dataimagelink";
 @\import "https://fonts.googleapis.com/css?family=Sarabun:400,700";
+@\import "https://raw.githubusercontent.com/blaisck/sfwin/master/SFPro/TrueType/SFProText-Regular.ttf";
 
 /*==============================*\
   !VARIABLES @User
@@ -83,7 +84,7 @@
 	 * 
 	 * More advanced variables.
 	 */
-    --font: "Sarabun", "Segoe UI", "Arial", "FontAwesome", sans-serif;
+    --font: "SF Pro Text", "Segoe UI", "Arial", "FontAwesome", sans-serif;
     --timeText: 60ms;
     --timeButton: 160ms;
     --timeButtonLarge: 260ms;
@@ -853,29 +854,29 @@ body::before {
 }
 
 #status-menu .status-button.all_anime::before {
-    content: "ALL";
+    content: "All";
 }
 
 #status-menu .status-button.watching::before,
 #status-menu .status-button.reading::before {
-    content: "READING";
+    content: "Reading";
 }
 
 #status-menu .status-button.completed::before {
-    content: "COMPLETED";
+    content: "Completed";
 }
 
 #status-menu .status-button.onhold::before {
-    content: "PAUSED";
+    content: "Paused";
 }
 
 #status-menu .status-button.dropped::before {
-    content: "DROPPED";
+    content: "Dropped";
 }
 
 #status-menu .status-button.plantowatch::before,
 #status-menu .status-button.plantoread::before {
-    content: "PLANNED";
+    content: "Planned";
 }
 
 #status-menu .status-button.on::before {
@@ -2663,9 +2664,9 @@ div[style^="width: 300px;"] input+input {
     --btnLight: 240, 3%, 87%;
     --btnAccent: 240, 70%, 87%;
     --border: 240, 3%, 91%;
-    --textBright: 0, 0%, 10%;
-    --textMid: 0, 0%, 22%;
-    --textDim: 0, 0%, 30%;
+    --textBright: 24, 15%, 41%;
+    --textMid: 25, 15%, 56%;
+    --textDim: 29, 16%, 59%;
     --textProminent: 27, 94%, 80%;
     --textLinkHov: 240, 50%, 80%;
     --textIcon: 0, 0%, 26%;
