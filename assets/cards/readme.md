@@ -6,7 +6,7 @@ Card by [me](https://github.com/nattadasu) | [MyAnimeList](https://myanimelist.n
 
 ## Personal Collection Cards
 ### [fivenuckle2\'s Cards](https://myanimelist.net/blog.php?eid=829898)
-![005](fntwo042020/005.png) ![006o](fntwo042020/006o.png) ![016](fntwo042020/016.png) ![019o](fntwo042020/019o.png) ![025](fntwo042020/025.png) ![026](fntwo042020/026.png) ![042](fntwo042020/042.png) ![060](fntwo042020/060.png) ![066](fntwo042020/066.png) ![069](fntwo042020/069.png) ![071](fntwo042020/071.png) ![077g](fntwo042020/077g.png) ![079g](fntwo042020/079g.png) ![079o](fntwo042020/079o.png) ![083g](fntwo042020/083g.png)
+![004](fntwo/004.png) ![005](fntwo/005.png) ![006o](fntwo/006o.png) ![016](fntwo/016.png) ![019o](fntwo/019o.png) ![023](fntwo/023.png) ![025](fntwo/025.png) ![025_ggtm3](fntwo/025_ggtm3.png) ![025_n4](fntwo/025_n4.png) ![025_n10](fntwo/025_n10.png) ![026](fntwo/026.png) ![042](fntwo/042.png) ![060](fntwo/060.png) ![066](fntwo/066.png) ![069](fntwo/069.png) ![071](fntwo/071.png) ![073](fntwo/073.png) ![074a](fntwo/074a.png) ![076o](fntwo/076o.png) ![077g](fntwo/077g.png) ![078o](fntwo/078o.png) ![079g](fntwo/079g.png) ![079o](fntwo/079o.png) ![083g](fntwo/083g.png) ![091](fntwo/091.png)
 
 ## Event-based Cards
 ### [The Newbie Club - Mystery Edition](https://myanimelist.net/forum/?topicid=1835337)
