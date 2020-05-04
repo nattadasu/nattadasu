@@ -70,8 +70,9 @@
     --paused: 245, 45%, 76%;
     --dropped: 13, 100%, 93%;
     --planned: 33, 46%, 66%;
-    --goldRating: var(--textProminent);
+    --goldRating: 46, 100%, 50%;
     --silverRating: var(--textDim);
+    --bronzeRating: 30, 61%, 63%;
 }
 
 
@@ -1566,7 +1567,7 @@ body::before {
 }
 
 .data.score .link::before {
-    content: "Scored ";
+    content: "Rated ";
     font-size: 12px;
     font-weight: normal;
     vertical-align: top;
@@ -1601,6 +1602,7 @@ body::before {
 
 /* Top Rated Banners for 9 & 10 rated items. These do not display on ordered lists. */
 
+body:not([data-query*='order":4']) .score-8::before,
 body:not([data-query*='order":4']) .score-9::before,
 body:not([data-query*='order":4']) .score-10::before {
     content: "";
@@ -1621,6 +1623,12 @@ body:not([data-query*="order"]) .score-9::before {
     border-color: hsl(var(--silverRating));
 }
 
+body:not([data-query*="order"]) .score-8::before {
+    border-color: hsl(var(--bronzeRating));
+}
+
+
+body:not([data-query*='order":4']) .score-8::after,
 body:not([data-query*='order":4']) .score-9::after,
 body:not([data-query*='order":4']) .score-10::after {
     content: "TOP RATED";
@@ -1643,6 +1651,10 @@ body:not([data-query*='order":4']) .score-10::after {
 
 body:not([data-query*='order":4']) .score-9::after {
     background: hsl(var(--silverRating));
+}
+
+body:not([data-query*='order":4']) .score-8::after {
+    background: hsl(var(--bronzeRating));
 }
 
 
@@ -1677,7 +1689,7 @@ body:not([data-query*='order":4']) .score-9::after {
 .progress span:first-of-type:not(:only-of-type) a::after,
 .chapter span:first-of-type:not(:only-of-type) a::after,
 .volume span:first-of-type:not(:only-of-type) a::after {
-    content: " of ";
+    content: "/";
 }
 
 
@@ -1725,15 +1737,15 @@ body:not([data-query*='order":4']) .score-9::after {
 }
 
 .progress span:last-of-type::after {
-    content: "ep";
+    content: " ep";
 }
 
 .chapter span:last-of-type::after {
-    content: "ch";
+    content: " ch";
 }
 
 .volume span:last-of-type::after {
-    content: "vol";
+    content: " v";
 }
 
 span:nth-of-type(2)::after {
@@ -2668,9 +2680,9 @@ div[style^="width: 300px;"] input+input {
     --textMid: 25, 15%, 56%;
     --textDim: 29, 16%, 59%;
     --textProminent: 27, 94%, 80%;
-    --textLinkHov: 240, 50%, 80%;
+    --textLinkHov: 23, 24%, 80%;
     --textIcon: 0, 0%, 26%;
-    --goldRating: 27, 87%, 67%;
+    --goldRating: 46, 100%, 50%;
     --silverRating: 0, 0%, 80%;
 }
 
@@ -2681,7 +2693,7 @@ div[style^="width: 300px;"] input+input {
     --bg: 240, 1.5%, 4.5%;
     --textBright: 0, 0%, 100%;
     --textDim: 0, 0%, 80%;
-    --textLinkHov: 240, 50%, 80%;
+    --textLinkHov: 23, 24%, 80%;
     --textIcon: 0, 0%, 83%;
 }
 
@@ -2859,5 +2871,5 @@ body {
 \* - - - - - - - - - - - - - - -*/
 
 .data.image {
-    box-shadow: -1.2px 8px 10px hsla(0, 0%, 0%, 35%);
+    box-shadow: -1.2px 10px 15px hsla(0, 0%, 0%, 35%);
 }
