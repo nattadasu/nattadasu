@@ -44,19 +44,20 @@ In this case, I'd say... well MAL goes weird again at this one ;-;
 
 Here are some sites I've tested to test "is [x] site loaded perfectly on MAL?"
 
-| Site | Does It Works? | Second Check | Third Check |
-| :--: | :------------: | :----------: | :---------: |
-| GitHub | Yes | Yes | Yes |
-| s-ul.eu | Yes | Yes | Yes, but loads slower | 
-| Discord CDN | No, But it should be work lol | Still, No | nah |
-| imgur | Yes | Yes | Yes |
-| FunkyIMG | Yes | No | No |
-| ImageShack | Yes | Yes | Yes |
-| PostImage | Yes | Yes | Yes |
+| Site | Does It Works? | Second Check | Third Check | Forth Check |
+| :--: | :------------: | :----------: | :---------: | :---------: |
+| GitHub | Yes | Yes | Yes | Yes |
+| s-ul.eu | Yes | Yes | Yes, but loads slower | Yes, no issue |
+| Discord CDN | No, But it should be work lol | Still, No | nah | OMG, IT'S ALIVE |
+| imgur | Yes | Yes | Yes | Yes |
+| FunkyIMG | Yes | No | No | Yes |
+| ImageShack | Yes | Yes | Yes | Yes |
+| PostImage | Yes | Yes | Yes | Yes |
 
 **Note**: This table will update frequently\
 **First submission**: 16 April 2020, 10:46 PM GMT+7\
 **Second**: 17 April 2020, 11:22 AM GMT+7\
-**Third**: 21 April 2020, 4:00 PM GMT+7
+**Third**: 21 April 2020, 4:00 PM GMT+7\
+**Forth**: 21 May 2020, 1:31 PM GMT+7
 
 **[Testing blog](https://myanimelist.net/blog.php?eid=833627)**
