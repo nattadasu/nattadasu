@@ -1,19 +1,19 @@
 = Natsu's Cards Collection =
-_TOC_
+__TOC__
 == Personal Cards ==
-[[File:SSS-1-r.png|card #1]]
+[[File:SSS-1-r.png]]<br/>
 Card by [https://github.com/nattadasu me] | [https://myanimelist.net/profile/nattadasu MyAnimeList].
 
 == Personal Collection Cards ==
 === [https://myanimelist.net/blog.php?eid=829898 fivenuckle2's Cards] ===
-[[File:fntwo/004.png|004]] [[File:fntwo/005.png|005]] [[File:fntwo/006o.png|006o]] [[File:fntwo/016.png|016]] [[File:fntwo/019o.png|019o]] [[File:fntwo/023.png|023]] [[File:fntwo/025.png|025]] [[File:fntwo/025_ggtm3.png|025_ggtm3]] [[File:fntwo/025_n4.png|025_n4]] [[File:fntwo/025_n10.png|025_n10]] [[File:fntwo/026.png|026]] [[File:fntwo/042.png|042]] [[File:fntwo/060.png|060]] [[File:fntwo/066.png|066]] [[File:fntwo/069.png|069]] [[File:fntwo/071.png|071]] [[File:fntwo/073.png|073]] [[File:fntwo/074a.png|074a]] [[File:fntwo/076o.png|076o]] [[File:fntwo/077g.png|077g]] [[File:fntwo/078o.png|078o]] [[File:fntwo/079g.png|079g]] [[File:fntwo/079o.png|079o]] [[File:fntwo/083g.png|083g]] [[File:fntwo/091.png|091]]
+[[File:fntwo/004.png]] [[File:fntwo/005.png]] [[File:fntwo/006o.png]] [[File:fntwo/016.png]] [[File:fntwo/019o.png]] [[File:fntwo/023.png]] [[File:fntwo/025.png]] [[File:fntwo/025_ggtm3.png]] [[File:fntwo/025_n4.png]] [[File:fntwo/025_n10.png]] [[File:fntwo/026.png]] [[File:fntwo/042.png]] [[File:fntwo/060.png]] [[File:fntwo/066.png]] [[File:fntwo/069.png]] [[File:fntwo/071.png]] [[File:fntwo/073.png]] [[File:fntwo/074a.png]] [[File:fntwo/076o.png]] [[File:fntwo/077g.png]] [[File:fntwo/078o.png]] [[File:fntwo/079g.png]] [[File:fntwo/079o.png]] [[File:fntwo/083g.png]] [[File:fntwo/091.png]]
 
 == Event-based Cards ==
 === [https://myanimelist.net/forum/?topicid=1835337 The Newbie Club - Mystery Edition] ===
-[[File:tnc042020/Chibi.png|Chibi]] [[File:tnc042020/Kymikx.jpg|kymikx]] [[File:tnc042020/nattadasu-A.gif|natta]] [[File:tnc042020/nattadasu-B.gif|natta]] [[File:tnc042020/V1sion.png|V1sion]]
+[[File:tnc042020/Chibi.png]] [[File:tnc042020/Kymikx.jpg]] [[File:tnc042020/nattadasu-A.gif]] [[File:tnc042020/nattadasu-B.gif]] [[File:tnc042020/V1sion.png]]
 
 === [https://myanimelist.net/forum/?topicid=1830956 The Newbie Club - Spring Edition] ===
-[[File:tnc032020/Forbidden.png|Forbidden]] [[File:tnc032020/Kymikx.gif|Kymikx]] [[File:tnc032020/Naegi.png|Naegi]] [[File:tnc032020/nattadasu.png|nattadasu]] [[File:tnc032020/V1sion.png|V1sion]]
+[[File:tnc032020/Forbidden.png]] [[File:tnc032020/Kymikx.gif]] [[File:tnc032020/Naegi.png]] [[File:tnc032020/nattadasu.png]] [[File:tnc032020/V1sion.png]]
 
 === [https://myanimelist.net/forum/?topicid=1830559 Just Another Yaoi Club - Isaku Natsume Edition] ===
-[[File:jayc032020/Rodicilous-1.png|Rod-1]] [[File:jayc032020/Rodicilous-2.png|Rod-2]] [[File:jayc032020/Rodicilous-3.png|Rod-3]]
+[[File:jayc032020/Rodicilous-1.png]] [[File:jayc032020/Rodicilous-2.png]] [[File:jayc032020/Rodicilous-3.png]]
