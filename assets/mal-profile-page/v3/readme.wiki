@@ -1,0 +1,5 @@
+= Nattadasu's MAL Layout: Plain BBCode =
+
+'''Still WIP thou.'''
+
+In this model, it allows me to modify the text without needing any modification into image sources. Using MyAnimeList BBCode references.
