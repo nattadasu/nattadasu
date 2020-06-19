@@ -1,0 +1,44 @@
+{
+    "cSpell.words": [
+        "japanophile",
+        "natsu",
+        "nekone",
+        "otaku",
+        "otakus",
+        "ryuusei",
+        "tadama",
+        "tomatsu",
+        "wapanese",
+        "weeaboos",
+        "weeb"
+    ],
+    "cSpell.ignoreWords": [
+        "bu",
+        "feelsproudman",
+        "hehehe",
+        "ku",
+        "o",
+        "oʊˈtɑku",
+        "reee",
+        "t",
+        "taku",
+        "wi",
+        "ˈwiːəbuː"
+    ],
+    "spellright.language": [
+        "en",
+        "id"
+    ],
+    "spellright.documentTypes": [
+        "markdown",
+        "latex",
+        "plaintext",
+        "bbcode"
+    ],
+    "spellright.parserByClass": {
+        "bbcode": {
+            "parser": "markdown"
+        }
+    },
+    "cSpell.language": "en,en-US"
+}
