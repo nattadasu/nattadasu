@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name           BBCodes for MAL
-// @namespace      No Page
+// @namespace      https://github.com/nattadasu/Personal/blob/master/assets/script/bbcode-for-mal.js
 // @description    Add BBCode to MAL Forum posts, modified by nattadasu
 // @author         Al_eXs - nattadasu
 // @include        *myanimelist.net/forum/?topicid=*
@@ -33,6 +33,21 @@
 // @exclude        *myanimelist.net/editprofile.php?go=stylepref&do=cssadv&id=*
 // @version        1.0.42
 // ==/UserScript==
+
+function(){
+    "use strict";
+    const scriptInfo = {
+        "version" : "1.0.42",
+        "name" : "BBCodes for MAL",
+        "link" : "https://github.com/nattadasu/Personal/blob/master/assets/script/bbcode-for-mal.js",
+        "repo" : "https://github.com/nattadasu/Personal",
+        "firefox" : "NO KNOWN BUILDS",
+        "chrome" : "NO KNOWN BUILDS",
+        "author" : "nattadasu",
+        "authorLink" : "https://github.com/nattadasu/",
+        "license" : "MIT"
+    };
+}
 
 function addtag(snap, tag) {
     var textareaNumber = getXpathSnapNumber(snap);
