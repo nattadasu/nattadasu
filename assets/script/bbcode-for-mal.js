@@ -32,6 +32,7 @@
 // @include        *myanimelist.net/ownlist/manga/*
 // @exclude        *myanimelist.net/editprofile.php?go=stylepref&do=cssadv&id=*
 // @version        1.0.42
+// @grand          none
 // ==/UserScript==
 
 function(){
