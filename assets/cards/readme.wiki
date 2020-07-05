@@ -1,9 +1,7 @@
 = Natsu's Cards Collection =
 <div style="color:red; font-size:22px;">'''QUICK DISCLAIMER'''</div>
-<hr />
-This MediaWiki file might take a lot of data due retrieving images from image hosting/server, please keep in mind to use unmetered (unlimited) connection.
 
-[https://myanimelist.net/blog.php?eid=832980 Click here to see MyAnimeList version of my cards collection]
+This MediaWiki file might take a lot of data due retrieving images from image hosting/server, please keep in mind to use unmetered (unlimited) connection.<br/>[https://myanimelist.net/blog.php?eid=832980 Click here to see MyAnimeList version of my cards collection]
 
 __TOC__
 = Personal Cards =
