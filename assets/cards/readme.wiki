@@ -1,4 +1,10 @@
 = Natsu's Cards Collection =
+<div style="color:red; font-size:22px;">'''QUICK DISCLAIMER'''</div>
+<hr />
+This MediaWiki file might take a lot of data due retrieving images from image hosting/server, please keep in mind to use unmetered (unlimited) connection.
+
+[https://myanimelist.net/blog.php?eid=832980 Click here to see MyAnimeList version of my cards collection]
+
 __TOC__
 = Personal Cards =
 [[File:SSS-1-r.png]]<br/>
@@ -9,6 +15,9 @@ Card by [https://github.com/nattadasu me] | [https://myanimelist.net/profile/nat
 <!-- https://myanimelist.net/blog.php?eid=829898 -->[[File:fntwo/004.png]] [[File:fntwo/005.png]] [[File:fntwo/006o.png]] [[File:fntwo/016.png]] [[File:fntwo/019o.png]] [[File:fntwo/023.png]] [[File:fntwo/025_c3.png]] [[File:fntwo/025_ggtm3.png]] [[File:fntwo/025_h9.png]] [[File:fntwo/025_n4.png]] [[File:fntwo/025_n9.png]] [[File:fntwo/025_n10.png]] [[File:fntwo/026.png]] [[File:fntwo/027a.png]] [[File:fntwo/028a.png]] [[File:fntwo/033.png]] [[File:fntwo/037o.png]] [[File:fntwo/038o.png]] [[File:fntwo/042.png]] [[File:fntwo/060.png]] [[File:fntwo/066.png]] [[File:fntwo/069.png]] [[File:fntwo/071.png]] [[File:fntwo/073.png]] [[File:fntwo/074a.png]] [[File:fntwo/076o.png]] [[File:fntwo/077g.png]] [[File:fntwo/078o.png]] [[File:fntwo/079g.png]] [[File:fntwo/079o.png]] [[File:fntwo/083g.png]] [[File:fntwo/091.png]] [[File:fntwo/095.png]] [[File:fntwo/099.png]] [[File:fntwo/102.png]] [[File:fntwo/103g.png]] [[File:fntwo/104.png]] [[File:fntwo/105o.png]] [[File:fntwo/109.png]] [[File:fntwo/112.png]] [[File:fntwo/113.png]] [[File:fntwo/117.png]] [[File:fntwo/118.png]] [[File:fntwo/121.png]] [[File:fntwo/125.png]] [[File:fntwo/127o.png]] [[File:fntwo/129.png]] [[File:fntwo/131o.png]]
 
 = Event-based Cards =
+== Animanga Card Empire (A.C.E) ✦ - Food SE==
+<!-- https://myanimelist.net/forum/?topicid=1846824 -->[[File:Aelyriel-1.png]] [[File:Aelyriel-2.png]] [[File:xiulaces.png]]
+
 == The Newbie Club - Red Edition ==
 <!--https://myanimelist.net/forum/?topicid=1846557-->[[File:tnc062020-b/Annie-chi.jpg]] [[File:tnc062020-b/Chibi.png]] [[File:tnc062020-b/lEpikSl-1.png]] [[File:tnc062020-b/lEpikSl-2.png]] [[File:tnc062020-b/lEpikSl-3.png]] [[File:tnc062020-b/V1sion.png]]
 
