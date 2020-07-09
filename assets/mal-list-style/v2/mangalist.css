@@ -19,25 +19,25 @@
 
 :root {
     /* USER OPTIONS
-	 * 
-	 * toggleStats / Toggles list statistics (found in the footer)
-	 * valid values: visible / hidden
-	 * 
-	 * togglePV / Toggles anime preview & video links.
-	 * valid values: visible / hidden
-	 * 
-	 * toggleInfoBG / Toggles background on list items for improved readability.
-	 * valid values: visible / hidden
-	 * 
-	 * toggleTopRatings / Toggles banners on top of highly rated items.
-	 * valid values: visible / hidden
-	 * 
-	 * bgDimness / Changes dimming of background / Higher = Dimmer.
-	 * min value: 0% / max value: 100%
-	 * 
-	 * imageBrightness(Hov) / Changes lightness of cover images / Higher = Brighter.
-	 * min value: 0% / max value: 100%
-	 */
+     * 
+     * toggleStats / Toggles list statistics (found in the footer)
+     * valid values: visible / hidden
+     * 
+     * togglePV / Toggles anime preview & video links.
+     * valid values: visible / hidden
+     * 
+     * toggleInfoBG / Toggles background on list items for improved readability.
+     * valid values: visible / hidden
+     * 
+     * toggleTopRatings / Toggles banners on top of highly rated items.
+     * valid values: visible / hidden
+     * 
+     * bgDimness / Changes dimming of background / Higher = Dimmer.
+     * min value: 0% / max value: 100%
+     * 
+     * imageBrightness(Hov) / Changes lightness of cover images / Higher = Brighter.
+     * min value: 0% / max value: 100%
+     */
     --toggleStats: visible;
     --togglePV: hidden;
     --toggleInfoBG: visible;
@@ -46,12 +46,12 @@
     --imageBrightness: 63%;
     --imageBrightnessHov: 32%;
     /* THEME COLOURS
-	 * 
-	 * Colours are HSL values but without their surrounding parentheses.
-	 * To get the correct values, simply strip away the surrounding parentheses and blurb.
-	 * For instance, "hsl(244, 42%, 82%)" would simply become "244, 42%, 82%".
-	 * For help with HSL: https://www.w3schools.com/colors/colors_hsl.asp
-	 */
+     * 
+     * Colours are HSL values but without their surrounding parentheses.
+     * To get the correct values, simply strip away the surrounding parentheses and blurb.
+     * For instance, "hsl(244, 42%, 82%)" would simply become "244, 42%, 82%".
+     * For help with HSL: https://www.w3schools.com/colors/colors_hsl.asp
+     */
     --bg: 240, 3%, 9%;
     --bgAlt: 240, 3%, 14%;
     --btn: 240, 3%, 16%;
@@ -82,9 +82,9 @@
 
 :root {
     /* INTERNALS
-	 * 
-	 * More advanced variables.
-	 */
+     * 
+     * More advanced variables.
+     */
     --font: "SF Pro Text", "Segoe UI", "Arial", "FontAwesome", sans-serif;
     --timeText: 60ms;
     --timeButton: 160ms;
@@ -2872,4 +2872,90 @@ body {
 
 .data.image {
     box-shadow: -1.2px 10px 15px hsla(0, 0%, 0%, 35%);
+}
+
+/*------------------------------*\
+|*      Hide Hentai Covers      *|
+\* - - - - - - - - - - - - - - -*/
+
+.data.tags {
+    overflow: initial;
+    opacity: 1;
+}
+
+.data.tags span {
+    min-height: initial;
+    margin-bottom: 0;
+}
+
+.data.tags a {
+    min-height: 15px;
+    margin-bottom: 4px;
+    opacity: 0;
+    transition:
+        color var(--timeText) var(--bezierFast),
+        opacity calc(var(--timeItem) * 1.5) var(--bezierFast);
+} .list-item:hover .data.tags a {
+    opacity: 1;
+}
+
+.data.tags a[href$="tag=Hentai"] {
+    position: absolute;
+    z-index: 5;
+    top: -51px;
+    right: -12px;
+    width: 210px;
+    height: 300px;
+    padding: 105px 0 0;
+    background: hsla(var(--bgAlt), 70%);
+    border-radius: 6px;
+    color: hsl(var(--accent)) !important;
+    font: 18px/22px var(--font) !important;
+    text-align: center;
+    text-transform: uppercase;
+    opacity: 1;
+    -webkit-backdrop-filter: blur(4px);
+    -moz-backdrop-filter: blur(4px);
+    backdrop-filter: blur(4px);
+    transition: opacity calc(var(--timeItem) * 1.5) var(--bezierFast);
+    pointer-events: none;
+} .list-item:hover .data.tags a[href$="tag=Hentai"] {
+    opacity: 0;
+}
+
+@supports not (backdrop-filter: blur(4px)) {
+    .data.tags a[href$="tag=Hentai"] {
+        background: hsla(var(--bgAlt), 95%);
+    }
+}
+
+.data.tags a[href$="tag=Hentai"]::before {
+    content: "Explicit Content";
+    display: block;
+    border-bottom: 2px solid hsl(var(--accent));
+    padding-bottom: 4px;
+}
+
+.data.tags a[href$="tag=Hentai"]::after {
+    content: none;
+}
+
+/*------------------------------*\
+|* - Rename  Unscored  Items  - *|
+\* - - - - - - - - - - - - - - -*/
+
+.data.score a {
+    height: 15px;
+    flex-wrap: wrap;
+    overflow: hidden;
+}
+
+.data .score-na {
+    display: block;
+    width: 100%;
+    flex: 0 0 auto;
+}
+
+.data .score-na::before {
+    content: "Meh, no score";
 }
