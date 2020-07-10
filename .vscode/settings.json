@@ -10,7 +10,8 @@
         "tomatsu",
         "wapanese",
         "weeaboos",
-        "weeb"
+        "weeb",
+        "animanga"
     ],
     "cSpell.ignoreWords": [
         "bu",
@@ -25,20 +26,59 @@
         "wi",
         "ˈwiːəbuː"
     ],
-    "spellright.language": [
-        "en",
-        "id"
-    ],
-    "spellright.documentTypes": [
-        "markdown",
-        "latex",
-        "plaintext",
-        "bbcode"
-    ],
-    "spellright.parserByClass": {
-        "bbcode": {
-            "parser": "markdown"
+    "cSpell.dictionaryDefinitions": [
+        
+        //Animanga dictionary defs
+        {
+            "name": "anime",
+            "path": "C:/Users/Ridwa/Sultan/git/Ryuuganime/lib/database/.dictionary/animanga/anime/anime-062020.rydict"
+        },
+        {
+            "name": "charas",
+            "path": "C:/Users/Ridwa/Sultan/git/Ryuuganime/lib/database/.dictionary/animanga/charas/charas-062020.rydict"
+        },
+        {
+            "name": "manga",
+            "path": "C:/Users/Ridwa/Sultan/git/Ryuuganime/lib/database/.dictionary/animanga/manga/manga-062020.rydict"
+        },
+        {
+            "name": "sites",
+            "path": "C:/Users/Ridwa/Sultan/git/Ryuuganime/lib/database/.dictionary/animanga/sites/sites.rydict"
+        },
+        {
+            "name": "studios",
+            "path": "C:/Users/Ridwa/Sultan/git/Ryuuganime/lib/database/.dictionary/animanga/studios/animePlanet-062020.txt"
+        },
+        //Arabic dictionary defs.
+        {
+            "name": "ar_001",
+            "path": "C:/Users/Ridwa/Sultan/git/Ryuuganime/lib/database/.dictionary/ar_001/ar_001.rydict"
+        },
+        //Indonesian dictionary defs.
+        {
+            "name": "id_ID",
+            "path": "C:/Users/Ridwa/Sultan/git/Ryuuganime/lib/database/.dictionary/id_ID/id_ID.rydict"
+        },
+        //Japanese dictionary defs.
+        {
+            "name": "ja_JP",
+            "path": "C:/Users/Ridwa/Sultan/git/Ryuuganime/lib/database/.dictionary/ja_JP/ja_JP.rydict"
         }
-    },
-    "cSpell.language": "en,en-US"
+    ],
+    "cSpell.dictionaries": [
+        //Calls Animanga dictionaries
+        "anime",
+        "charas",
+        "manga",
+        "sites",
+        "studios",
+        //Calls Arabic dictionaries
+        "ar_001",
+        //Calls Indonesian dictionaries
+        "id_ID",
+        //Calls Japanese dictionaries
+        "ja_JP"
+    ],
+    //Calls dictionaries from various languages
+    "cSpell.language": "en,en-US,fr,fr-FR,de,de-DE,en-GB,pt,pt-PT,pt-BR,ru,es,es-ES"
 }

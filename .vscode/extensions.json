@@ -1,0 +1,40 @@
+{
+    /* DISCLAIMER!!!
+     * This file is only intended for my extension backup,
+     * so don't send me an issue regarding this, ok?! >:3
+     * Don't be a baka peeps.
+     */
+    "recommendations": [
+        "bierner.emojisense",
+        "rickvansloten.bbcode",
+        "ms-vscode.cpptools",
+        "wmaurer.change-case",
+        "equinusocio.vsc-material-theme",
+        "icrawl.discord-vscode",
+        "tht13.html-preview-vscode",
+        "ecmel.vscode-html-css",
+        "khaeransori.json2csv",
+        "alanwalk.markdown-toc",
+        "zz5840.minecraft-lang-colorizer",
+        "mechatroner.rainbow-csv",
+        "cssho.vscode-svgviewer",
+        "streetsidesoftware.code-spell-checker",
+        "laktak.hjson",
+        "pkief.material-icon-theme",
+        "jasew.mediawiki",
+        "natqe.reload",
+        "funkyremi.vscode-google-translate",
+        "compulim.compulim-vscode-closetag",
+        "formulahendry.auto-rename-tag",
+        //Basically, those are for Spelling Checker
+        "streetsidesoftware.code-spell-checker-russian",
+        "streetsidesoftware.code-spell-checker-spanish",
+        "streetsidesoftware.code-spell-checker-french",
+        "streetsidesoftware.code-spell-checker-portuguese",
+        "streetsidesoftware.code-spell-checker-portuguese-brazilian",
+        "streetsidesoftware.code-spell-checker-german"
+    ],
+    "unwantedRecommendations": [
+        "jakeboone02.mediawiki"
+    ]
+}
