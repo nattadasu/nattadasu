@@ -2968,8 +2968,8 @@ body {
 .data.tags a[href$="tag=Nudity"]::before  {
     content: "Explicit Content";
 } .data.tags a[href$="tag=Shounen-Ai"]::before, 
-.data.tags a[href$="tag=Shotacon"]::before
-.data.tags a[href$="tag=Questionable"]::before{
+.data.tags a[href$="tag=Shotacon"]::before,
+.data.tags a[href$="tag=Questionable"]::before {
     content: "Content Warning";
 }
 
