@@ -2899,7 +2899,12 @@ body {
     opacity: 1;
 }
 
-.data.tags a[href$="tag=Hentai"] {
+.data.tags a[href$="tag=Hentai"],
+.data.tags a[href$="tag=Yaoi"],
+.data.tags a[href$="tag=Yuri"],
+.data.tags a[href$="tag=Shounen-Ai"], 
+.data.tags a[href$="tag=Shotacon"],
+.data.tags a[href$="tag=Gore"] {
     position: absolute;
     z-index: 5;
     top: -51px;
@@ -2919,24 +2924,51 @@ body {
     backdrop-filter: blur(4px);
     transition: opacity calc(var(--timeItem) * 1.5) var(--bezierFast);
     pointer-events: none;
-} .list-item:hover .data.tags a[href$="tag=Hentai"] {
+} .list-item:hover .data.tags a[href$="tag=Hentai"],
+.list-item:hover .data.tags a[href$="tag=Yaoi"],
+.list-item:hover .data.tags a[href$="tag=Yuri"],
+.list-item:hover .data.tags a[href$="tag=Shounen-Ai"], 
+.list-item:hover .data.tags a[href$="tag=Shotacon"],
+.list-item:hover .data.tags a[href$="tag=Gore"] {
     opacity: 0;
 }
 
 @supports not (backdrop-filter: blur(4px)) {
-    .data.tags a[href$="tag=Hentai"] {
+    .data.tags a[href$="tag=Hentai"],
+    .data.tags a[href$="tag=Yaoi"],
+    .data.tags a[href$="tag=Yuri"],
+    .data.tags a[href$="tag=Shounen-Ai"], 
+    .data.tags a[href$="tag=Shotacon"],
+    .data.tags a[href$="tag=Gore"] {
         background: hsla(var(--bgAlt), 95%);
     }
 }
 
-.data.tags a[href$="tag=Hentai"]::before {
-    content: "Explicit Content";
+.data.tags a[href$="tag=Hentai"]::before,
+.data.tags a[href$="tag=Yaoi"]::before,
+.data.tags a[href$="tag=Yuri"]::before,
+.data.tags a[href$="tag=Shounen-Ai"]::before, 
+.data.tags a[href$="tag=Shotacon"]::before,
+.data.tags a[href$="tag=Gore"]::before {
     display: block;
     border-bottom: 2px solid hsl(var(--accent));
     padding-bottom: 4px;
+} .data.tags a[href$="tag=Hentai"]::before,
+.data.tags a[href$="tag=Yaoi"]::before,
+.data.tags a[href$="tag=Yuri"]::before {
+    content: "Explicit Content";
+} .data.tags a[href$="tag=Shounen-Ai"]::before, 
+.data.tags a[href$="tag=Shotacon"]::before,
+.data.tags a[href$="tag=Gore"]::before {
+    content: "Content Warning";
 }
 
-.data.tags a[href$="tag=Hentai"]::after {
+.data.tags a[href$="tag=Hentai"]::after,
+.data.tags a[href$="tag=Yaoi"]::after,
+.data.tags a[href$="tag=Yuri"]::after,
+.data.tags a[href$="tag=Shounen-Ai"]::after,
+.data.tags a[href$="tag=Shotacon"]::after,
+.data.tags a[href$="tag=Gore"]::before {
     content: none;
 }
 
