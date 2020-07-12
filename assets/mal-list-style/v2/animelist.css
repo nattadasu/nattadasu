@@ -2904,7 +2904,8 @@ body {
 .data.tags a[href$="tag=Yuri"],
 .data.tags a[href$="tag=Shounen-Ai"], 
 .data.tags a[href$="tag=Shotacon"],
-.data.tags a[href$="tag=Gore"] {
+.data.tags a[href$="tag=Gore"],
+.data.tags a[href$="tag=Questionable"] {
     position: absolute;
     z-index: 5;
     top: -51px;
@@ -2917,7 +2918,7 @@ body {
     color: hsl(var(--accent)) !important;
     font: 18px/22px var(--font) !important;
     text-align: center;
-    text-transform: uppercase;
+    text-transform: capitalize;
     opacity: 1;
     -webkit-backdrop-filter: blur(4px);
     -moz-backdrop-filter: blur(4px);
@@ -2929,7 +2930,8 @@ body {
 .list-item:hover .data.tags a[href$="tag=Yuri"],
 .list-item:hover .data.tags a[href$="tag=Shounen-Ai"], 
 .list-item:hover .data.tags a[href$="tag=Shotacon"],
-.list-item:hover .data.tags a[href$="tag=Gore"] {
+.list-item:hover .data.tags a[href$="tag=Gore"],
+.list-item:hover .data.tags a[href$="tag=Questionable"] {
     opacity: 0;
 }
 
@@ -2939,7 +2941,8 @@ body {
     .data.tags a[href$="tag=Yuri"],
     .data.tags a[href$="tag=Shounen-Ai"], 
     .data.tags a[href$="tag=Shotacon"],
-    .data.tags a[href$="tag=Gore"] {
+    .data.tags a[href$="tag=Gore"],
+    .data.tags a[href$="tag=Questionable"] {
         background: hsla(var(--bgAlt), 95%);
     }
 }
@@ -2949,7 +2952,8 @@ body {
 .data.tags a[href$="tag=Yuri"]::before,
 .data.tags a[href$="tag=Shounen-Ai"]::before, 
 .data.tags a[href$="tag=Shotacon"]::before,
-.data.tags a[href$="tag=Gore"]::before {
+.data.tags a[href$="tag=Gore"]::before,
+.data.tags a[href$="tag=Questionable"]::before {
     display: block;
     border-bottom: 2px solid hsl(var(--accent));
     padding-bottom: 4px;
@@ -2959,7 +2963,8 @@ body {
     content: "Explicit Content";
 } .data.tags a[href$="tag=Shounen-Ai"]::before, 
 .data.tags a[href$="tag=Shotacon"]::before,
-.data.tags a[href$="tag=Gore"]::before {
+.data.tags a[href$="tag=Gore"]::before,
+.data.tags a[href$="tag=Questionable"]::before {
     content: "Content Warning";
 }
 
@@ -2968,7 +2973,8 @@ body {
 .data.tags a[href$="tag=Yuri"]::after,
 .data.tags a[href$="tag=Shounen-Ai"]::after,
 .data.tags a[href$="tag=Shotacon"]::after,
-.data.tags a[href$="tag=Gore"]::before {
+.data.tags a[href$="tag=Gore"]::before,
+.data.tags a[href$="tag=Questionable"]::before {
     content: none;
 }
 
@@ -2989,5 +2995,5 @@ body {
 }
 
 .data .score-na::before {
-    content: "Meh, no score";
+    content: "Rated Null";
 }
