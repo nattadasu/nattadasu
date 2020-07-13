@@ -1,118 +1,117 @@
+<div style="text-align:center;">
 = Natsu's Cards Collection =
-== QUICK DISCLAIMER ==
+My personal collection cards from MyAnimeList clubs on GitHub repository :D
+
+<div style="text-align:center;">__TOC__</div>
+
+== Information center ==
+=== Quick Disclaimer ===
 
 This MediaWiki file might take a lot of data due retrieving images, please keep in mind to use unmetered (unlimited) connection.<br/>[https://myanimelist.net/blog.php?eid=832980 Click here to see MyAnimeList version of my cards collection]
 
-== Status Information ==
-{|
-! Emoji
-! Description
+=== Status Information ===
+{| style="text-align:center;" align="center"
+|✅|| style="color:#1ac310;" |All cards from ''this edition'' were received successfully.
 |-
-|✅
-|All cards from this edition were received successfully.
+|🚚|| style="color:blue;" |Some cards from ''this edition'' were received successfully.
 |-
-|🚚
-|Some cards from this edition were received successfully.
+|⏳|| style="color:orange;" |Cards from ''this edition'' have been not received yet.
 |-
-|⏳
-|Cards from this edition have been not received yet.
-|-
-|❌
-|This card edition was aborted by Event or Club Coordinator.
+|❌|| style="color:maroon;" |This card edition '''was aborted by Event or Club Coordinator'''.
 |}
 
-__TOC__
-= Personal Cards =
+== Personal Cards ==
 [[File:SSS-1-r.png]]<br/>
 Card by [https://github.com/nattadasu me] | [https://myanimelist.net/profile/nattadasu MyAnimeList].
 
-= Club Membership Cards =
-== ♦ Just Another Yaoi Club ♦ ⏳ ==
+== Club Membership Cards ==
+=== ♦ Just Another Yaoi Club ♦ ⏳ ===
 
-== - Sound of Souls - ⏳ ==
+=== - Sound of Souls - ⏳ ===
 
-== Animanga Card Empire (A.C.E) ✦ ⏳ ==
+=== Animanga Card Empire (A.C.E) ✦ ⏳ ===
 
-== Anime Watching Challenges Club [AWCc] ⏳ ==
+=== Anime Watching Challenges Club [AWCc] ⏳ ===
 
-== Club of Culture ⏳ ==
+=== Club of Culture ⏳ ===
 
-== Harem&Ecchi CLub ⏳ ==
+=== Harem&Ecchi CLub ⏳ ===
 
-== Indonesian Anime Lovers Club ⏳ ==
+=== Indonesian Anime Lovers Club ⏳ ===
 
-== Ｌｕｘｕｒｉａ ⏳ ==
+=== Ｌｕｘｕｒｉａ ⏳ ===
 
-= Personal Collection Cards =
-== fivenuckle2's Cards 🚚 ==
+== Personal Collection Cards ==
+=== fivenuckle2's Cards 🚚 ===
 <!-- https://myanimelist.net/blog.php?eid=829898 -->[[File:fntwo/004.png]] [[File:fntwo/005.png]] [[File:fntwo/006o.png]] [[File:fntwo/016.png]] [[File:fntwo/019o.png]] [[File:fntwo/023.png]] [[File:fntwo/025_c3.png]] [[File:fntwo/025_c5.png]] [[File:fntwo/025_d9.png]] [[File:fntwo/025_ggtm3.png]] [[File:fntwo/025_h9.png]] [[File:fntwo/025_n4.png]] [[File:fntwo/025_n9.png]] [[File:fntwo/025_n10.png]] [[File:fntwo/026.png]] [[File:fntwo/027a.png]] [[File:fntwo/028a.png]] [[File:fntwo/033.png]] [[File:fntwo/037a.png]] [[File:fntwo/037o.png]] [[File:fntwo/038o.png]] [[File:fntwo/042.png]] [[File:fntwo/051a.png]] [[File:fntwo/060.png]] [[File:fntwo/066.png]] [[File:fntwo/069.png]] [[File:fntwo/071.png]] [[File:fntwo/073.png]] [[File:fntwo/074a.png]] [[File:fntwo/076o.png]] [[File:fntwo/077g.png]] [[File:fntwo/078o.png]] [[File:fntwo/079g.png]] [[File:fntwo/079o.png]] [[File:fntwo/083g.png]] [[File:fntwo/091.png]] [[File:fntwo/095.png]] [[File:fntwo/099.png]] [[File:fntwo/101.png]] [[File:fntwo/102.png]] [[File:fntwo/103g.png]] [[File:fntwo/104.png]] [[File:fntwo/105o.png]] [[File:fntwo/109.png]] [[File:fntwo/112.png]] [[File:fntwo/113.png]] [[File:fntwo/117.png]] [[File:fntwo/118.png]] [[File:fntwo/121.png]] [[File:fntwo/125.png]] [[File:fntwo/127o.png]] [[File:fntwo/129.png]] [[File:fntwo/131o.png]] [[File:fntwo/133.png]] [[File:fntwo/135.png]] [[File:fntwo/138.png]] [[File:fntwo/139.png]] [[File:fntwo/140.png]] [[File:fntwo/142m.png]] [[File:fntwo/143o.png]] [[File:fntwo/145g.png]] [[File:fntwo/145o.png]]
 
-= Event-based Cards =
-== - Sound of Souls - - - Mermaid Edition - ⏳ ==
+== Event-based Cards ==
+=== - Sound of Souls - - - Mermaid Edition - ⏳ ===
 <!-- https://myanimelist.net/forum/?topicid=1851398#msg60193616 -->
 
-== Animanga Card Empire (A.C.E) ✦ - U-1146 Comeback Solo Edition ⏳ ==
+=== Animanga Card Empire (A.C.E) ✦ - U-1146 Comeback Solo Edition ⏳ ===
 <!-- https://myanimelist.net/forum/?topicid=1851350#msg60197084 -->
 
-== Animanga Card Empire (A.C.E) ✦ - Suits SE ⏳ ==
+=== Animanga Card Empire (A.C.E) ✦ - Suits SE ⏳ ===
 <!-- https://myanimelist.net/forum/?topicid=1851301&show=0#msg60185336 -->
 
-== Ｌｕｘｕｒｉａ - Eeveelutions S.E ⏳ ==
+=== Ｌｕｘｕｒｉａ - Eeveelutions S.E ⏳ ===
 <!-- https://myanimelist.net/forum/?topicid=1851006&show=0#msg60187152 -->
 
-== The Newbie Club - Quarantine Edition 🚚 ==
+=== The Newbie Club - Quarantine Edition 🚚 ===
 <!-- https://myanimelist.net/forum/?topicid=1850550 -->[[File:tnc072020-a/V1sion.png]]
 
-== - Sound of Souls - - - Gothic Edition - ⏳ ==
+=== - Sound of Souls - - - Gothic Edition - ⏳ ===
 <!-- https://myanimelist.net/forum/?topicid=1850471&show=0#msg60167112 -->
 
-== Animanga Card Empire (A.C.E) ✦ - Celebrate! LE (600+ Members ~) 🚚 ==
-<!-- https://myanimelist.net/forum/?topicid=1850289 -->[[File:ace072020-a/ZoSanBamf-1.png]] [[File:ace072020-a/ZoSanBamf-2.png]]
+=== Animanga Card Empire (A.C.E) ✦ - Celebrate! LE (600+ Members ~) 🚚 ===
+<!-- https://myanimelist.net/forum/?topicid=1850289 -->[[File:ace072020-a/LuffyTheStrawHat.png]] [[File:ace072020-a/ZoSanBamf-1.png]] [[File:ace072020-a/ZoSanBamf-2.png]]
 
-== - Sound of Souls - - - Azur Lane Edition - ⏳ ==
+=== - Sound of Souls - - - Azur Lane Edition - ⏳ ===
 <!-- https://myanimelist.net/forum/?topicid=1849244&show=0#msg60116570 -->
 
-== Animanga Card Empire (A.C.E) ✦ - Friendship SE 🚚 ==
-<!-- https://myanimelist.net/forum/?topicid=1848917 -->[[File:ace062020-c/ZoSanBamf.png]]
+=== Animanga Card Empire (A.C.E) ✦ - Friendship SE 🚚 ===
+<!-- https://myanimelist.net/forum/?topicid=1848917 -->[[File:ace062020-c/LuffyTheStrawHat-1.png]] [[File:ace062020-c/LuffyTheStrawHat-2.png]] [[File:ace062020-c/ZoSanBamf.png]]
 
-== Animanga Card Empire (A.C.E) ✦ - Agathokakological SE 🚚 ==
+=== Animanga Card Empire (A.C.E) ✦ - Agathokakological SE 🚚 ===
 <!-- https://myanimelist.net/forum/?topicid=1847485 -->[[File:ace062020-b/LuffyTheStrawHat-1.png]] [[File:ace062020-b/LuffyTheStrawHat-2.png]]
 
-== Animanga Card Empire (A.C.E) ✦ - Food SE 🚚 ==
+=== Animanga Card Empire (A.C.E) ✦ - Food SE 🚚 ===
 <!-- https://myanimelist.net/forum/?topicid=1846824 -->[[File:ace062020-a/Aelyriel-1.png]] [[File:ace062020-a/Aelyriel-2.png]] [[File:ace062020-a/RachelPanda.jpg]] [[File:ace062020-a/xiulaces.png]]
 
-== ♦ Just Another Yaoi Club ♦ - ♦ Super Lovers Edition ♦ ✅ ==
+=== ♦ Just Another Yaoi Club ♦ - ♦ Super Lovers Edition ♦ ✅ ===
 <!-- https://myanimelist.net/forum/?topicid=1844665 -->[[File:jayc062020/RachelPanda-1.jpg]] [[File:jayc062020/RachelPanda-2.jpg]]
 
-== The Newbie Club - Pride Edition ✅ ==
+=== The Newbie Club - Pride Edition ✅ ===
 <!-- https://myanimelist.net/forum/?topicid=1846561 -->[[File:tnc062020-a/Booksy-1.gif]] [[File:tnc062020-a/Booksy-2.gif]] [[File:tnc062020-a/Booksy-3.gif]] [[File:tnc062020-a/Booksy-4.gif]] [[File:tnc062020-a/Booksy-5.gif]] [[File:tnc062020-a/Booksy-6.gif]] [[File:tnc062020-a/Evans.png]] [[File:tnc062020-a/nattadasu-1.png]] [[File:tnc062020-a/nattadasu-2.png]] [[File:tnc062020-a/nattadasu-3.png]] [[File:tnc062020-a/nattadasu-4.png]] [[File:tnc062020-a/nattadasu-5.png]] [[File:tnc062020-a/nattadasu-6.png]] [[File:tnc062020-a/nattadasu-7.png]] [[File:tnc062020-a/V1sion.png]]
 
-== The Newbie Club - Red Edition ✅ ==
+=== The Newbie Club - Red Edition ✅ ===
 <!-- https://myanimelist.net/forum/?topicid=1846557 -->[[File:tnc062020-b/Annie-chi.jpg]] [[File:tnc062020-b/Chibi.png]] [[File:tnc062020-b/lEpikSl-1.png]] [[File:tnc062020-b/lEpikSl-2.png]] [[File:tnc062020-b/lEpikSl-3.png]] [[File:tnc062020-b/V1sion.png]]
 
-== ♦ Just Another Yaoi Club ♦ - ♦ Random Edition ♦ ✅ ==
+=== ♦ Just Another Yaoi Club ♦ - ♦ Random Edition ♦ ✅ ===
 <!-- https://myanimelist.net/forum/?topicid=1843702 -->[[File:jayc052020/linette.gif]] [[File:jayc052020/RachelPanda-1.jpg]] [[File:jayc052020/RachelPanda-2.jpg]]
 
-== The Newbie Club - 10K Edition ✅ ==
+=== The Newbie Club - 10K Edition ✅ ===
 <!-- https://myanimelist.net/forum/?topicid=1842352 -->[[File:tnc052020/Chibi.png]] [[File:tnc052020/Naegi.png]] [[File:tnc052020/nattadasu-1.png]] [[File:tnc052020/nattadasu-2.png]] [[File:tnc052020/nattadasu-3.png]] [[File:tnc052020/nattadasu-4.png]] [[File:tnc052020/V1sion.png]]
 
-== Anime Watching Challenges Club - Staff Birthdays: May Edition SE 🚚 ==
+=== Anime Watching Challenges Club - Staff Birthdays: May Edition SE 🚚 ===
 <!-- https://myanimelist.net/forum/?topicid=1837840 -->[[File:awc052020/Rinarin-1.png]] [[File:awc052020/Rinarin-2.png]] [[File:awc052020/Rinarin-3.png]] [[File:awc052020/tamochinnn-1.png]] [[File:awc052020/tamochinnn-2.png]] [[File:awc052020/tamochinnn-3.png]] [[File:awc052020/tamochinnn-4.png]]
 
-== Club of Culture - VILLAINS EDITION ~ ⏳ ==
+=== Club of Culture - VILLAINS EDITION ~ ⏳ ===
 <!-- https://myanimelist.net/forum/?topicid=1836442#msg60149284 -->
 
-== Club of Culture - HAPPY BIRTHDAY VIRUSUNGEN 🚚 ==
+=== Club of Culture - HAPPY BIRTHDAY VIRUSUNGEN 🚚 ===
 <!-- https://myanimelist.net/forum/?topicid=1836268 -->[[File:coc042020/-Tony-.png]]
 
-== The Newbie Club - Mystery Edition ✅ ==
+=== The Newbie Club - Mystery Edition ✅ ===
 <!-- https://myanimelist.net/forum/?topicid=1835337 -->[[File:tnc042020/Chibi.png]] [[File:tnc042020/Kymikx.jpg]] [[File:tnc042020/nattadasu-A.gif]] [[File:tnc042020/nattadasu-B.gif]] [[File:tnc042020/V1sion.png]]
 
-== ♦ Just Another Yaoi Club ♦ - ♦ Omairi desu yo Edition ♦ ✅ ==
+=== ♦ Just Another Yaoi Club ♦ - ♦ Omairi desu yo Edition ♦ ✅ ===
 <!-- https://myanimelist.net/forum/?topicid=1831860 -->[[File:jayc042020/k3ti.png]] [[File:jayc042020/RachelPanda.jpg]]
 
-== The Newbie Club - Spring Edition ✅ ==
+=== The Newbie Club - Spring Edition ✅ ===
 <!-- https://myanimelist.net/forum/?topicid=1830956 -->[[File:tnc032020/Forbidden.png]] [[File:tnc032020/Kymikx.gif]] [[File:tnc032020/Naegi.png]] [[File:tnc032020/nattadasu.png]] [[File:tnc032020/V1sion.png]]
 
-== ♦ Just Another Yaoi Club ♦ - ♦ Isaku Natsume Edition ♦ ✅ ==
+=== ♦ Just Another Yaoi Club ♦ - ♦ Isaku Natsume Edition ♦ ✅ ===
 <!-- https://myanimelist.net/forum/?topicid=1830559 -->[[File:jayc032020/k3ti.png]] [[File:jayc032020/Rodicilous-1.png]] [[File:jayc032020/Rodicilous-2.png]] [[File:jayc032020/Rodicilous-3.png]]
+</div>
