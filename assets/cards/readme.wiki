@@ -1,37 +1,43 @@
 <div style="text-align:center;">
-= Natsu's Cards Collection =
+= Natsu's cards collection =
 My personal collection cards from MyAnimeList clubs on GitHub repository :D
+
+== Information center ==
+=== Quick disclaimer ===
+
+This MediaWiki file might take a lot of data due retrieving images from this folder. Please keep in mind to use unmetered (unlimited) connection.<br/>[https://myanimelist.net/blog.php?eid=832980 Click here to see MyAnimeList version of my cards collection]
+
+=== Status information ===
+{|
+| style="text-align:center;" |✅
+| style="text-align:center;" |All cards from ''this edition'' were received successfully.
+|-
+| style="text-align:center;" |🚚
+| style="text-align:center;" |Some cards from ''this edition'' were received successfully.
+|-
+| style="text-align:center;" |⏳
+| style="text-align:center;" |Cards from ''this edition'' have been not received yet.
+|-
+| style="text-align:center;" |❌
+| style="text-align:center;" |This card edition '''was aborted or abandoned by Event or Club Coordinator'''.
+|}
 
 <div style="text-align:center;">__TOC__</div>
 
-== Information center ==
-=== Quick Disclaimer ===
-
-This MediaWiki file might take a lot of data due retrieving images, please keep in mind to use unmetered (unlimited) connection.<br/>[https://myanimelist.net/blog.php?eid=832980 Click here to see MyAnimeList version of my cards collection]
-
-=== Status Information ===
-{| style="text-align:center;" align="center"
-|✅|| style="color:#1ac310;" |All cards from ''this edition'' were received successfully.
-|-
-|🚚|| style="color:blue;" |Some cards from ''this edition'' were received successfully.
-|-
-|⏳|| style="color:orange;" |Cards from ''this edition'' have been not received yet.
-|-
-|❌|| style="color:maroon;" |This card edition '''was aborted by Event or Club Coordinator'''.
-|}
-
-== Personal Cards ==
+== Personal cards ==
 [[File:SSS-1-r.png]]<br/>
 Card by [https://github.com/nattadasu me] | [https://myanimelist.net/profile/nattadasu MyAnimeList].
 
-== Club Membership Cards ==
+== Club membership cards ==
 === ♦ Just Another Yaoi Club ♦ ⏳ ===
 
 === - Sound of Souls - ⏳ ===
 
-=== Animanga Card Empire (A.C.E) ✦ ⏳ ===
+=== Animanga Card Empire (A.C.E) ✦ ✅ ===
+[[File:memberCards/ace_ZoSanBamf.png]]
 
-=== Anime Watching Challenges Club [AWCc] ⏳ ===
+=== Anime Watching Challenges Club [AWCc] ✅ ===
+[[File:memberCards/awc_Imyreld.png]] [[File:memberCards/awc_riho88riho.png]]
 
 === Club of Culture ⏳ ===
 
@@ -39,15 +45,25 @@ Card by [https://github.com/nattadasu me] | [https://myanimelist.net/profile/nat
 
 === Indonesian Anime Lovers Club ⏳ ===
 
-=== Ｌｕｘｕｒｉａ ⏳ ===
+=== Ｌｕｘｕｒｉａ ✅ ===
+[[File:memberCards/lux_xHecate-1.png]] [[File:memberCards/lux_xHecate-2.png]]
 
-== Personal Collection Cards ==
+== Personal collection cards ==
 === fivenuckle2's Cards 🚚 ===
 <!-- https://myanimelist.net/blog.php?eid=829898 -->[[File:fntwo/004.png]] [[File:fntwo/005.png]] [[File:fntwo/006o.png]] [[File:fntwo/016.png]] [[File:fntwo/019o.png]] [[File:fntwo/023.png]] [[File:fntwo/025_c3.png]] [[File:fntwo/025_c5.png]] [[File:fntwo/025_d9.png]] [[File:fntwo/025_ggtm3.png]] [[File:fntwo/025_h9.png]] [[File:fntwo/025_n4.png]] [[File:fntwo/025_n9.png]] [[File:fntwo/025_n10.png]] [[File:fntwo/026.png]] [[File:fntwo/027a.png]] [[File:fntwo/028a.png]] [[File:fntwo/033.png]] [[File:fntwo/037a.png]] [[File:fntwo/037o.png]] [[File:fntwo/038o.png]] [[File:fntwo/042.png]] [[File:fntwo/051a.png]] [[File:fntwo/060.png]] [[File:fntwo/066.png]] [[File:fntwo/069.png]] [[File:fntwo/071.png]] [[File:fntwo/073.png]] [[File:fntwo/074a.png]] [[File:fntwo/076o.png]] [[File:fntwo/077g.png]] [[File:fntwo/078o.png]] [[File:fntwo/079g.png]] [[File:fntwo/079o.png]] [[File:fntwo/083g.png]] [[File:fntwo/091.png]] [[File:fntwo/095.png]] [[File:fntwo/099.png]] [[File:fntwo/101.png]] [[File:fntwo/102.png]] [[File:fntwo/103g.png]] [[File:fntwo/104.png]] [[File:fntwo/105o.png]] [[File:fntwo/109.png]] [[File:fntwo/112.png]] [[File:fntwo/113.png]] [[File:fntwo/117.png]] [[File:fntwo/118.png]] [[File:fntwo/121.png]] [[File:fntwo/125.png]] [[File:fntwo/127o.png]] [[File:fntwo/129.png]] [[File:fntwo/131o.png]] [[File:fntwo/133.png]] [[File:fntwo/135.png]] [[File:fntwo/138.png]] [[File:fntwo/139.png]] [[File:fntwo/140.png]] [[File:fntwo/142m.png]] [[File:fntwo/143o.png]] [[File:fntwo/145g.png]] [[File:fntwo/145o.png]]
 
-== Event-based Cards ==
+== Event-based cards ==
+=== The Newbie Club - Haikyuu Edition ⏳ ===
+<!-- https://myanimelist.net/forum/?topicid=1852179#msg60221538 -->
+
+=== Animanga Card Empire (A.C.E) ✦ - Mystic Messenger SE ⏳ ===
+<!-- https://myanimelist.net/forum/?topicid=1851795#msg60224967 -->
+
 === - Sound of Souls - - - Mermaid Edition - ⏳ ===
 <!-- https://myanimelist.net/forum/?topicid=1851398#msg60193616 -->
+
+=== ♦ Just Another Yaoi Club ♦ - ♦ Manga Chibi Series ♦ ⏳ ===
+<!-- https://myanimelist.net/forum/?topicid=1851246#msg60225004 -->
 
 === Animanga Card Empire (A.C.E) ✦ - U-1146 Comeback Solo Edition ⏳ ===
 <!-- https://myanimelist.net/forum/?topicid=1851350#msg60197084 -->
@@ -55,8 +71,8 @@ Card by [https://github.com/nattadasu me] | [https://myanimelist.net/profile/nat
 === Animanga Card Empire (A.C.E) ✦ - Suits SE ⏳ ===
 <!-- https://myanimelist.net/forum/?topicid=1851301&show=0#msg60185336 -->
 
-=== Ｌｕｘｕｒｉａ - Eeveelutions S.E ⏳ ===
-<!-- https://myanimelist.net/forum/?topicid=1851006&show=0#msg60187152 -->
+=== Ｌｕｘｕｒｉａ - Eeveelutions S.E 🚚 ===
+<!-- https://myanimelist.net/forum/?topicid=1851006&show=0#msg60187152 -->[[File:lux072020/xHecate.png]]
 
 === The Newbie Club - Quarantine Edition 🚚 ===
 <!-- https://myanimelist.net/forum/?topicid=1850550 -->[[File:tnc072020-a/V1sion.png]]
@@ -67,13 +83,16 @@ Card by [https://github.com/nattadasu me] | [https://myanimelist.net/profile/nat
 === Animanga Card Empire (A.C.E) ✦ - Celebrate! LE (600+ Members ~) 🚚 ===
 <!-- https://myanimelist.net/forum/?topicid=1850289 -->[[File:ace072020-a/LuffyTheStrawHat.png]] [[File:ace072020-a/ZoSanBamf-1.png]] [[File:ace072020-a/ZoSanBamf-2.png]]
 
-=== - Sound of Souls - - - Azur Lane Edition - ⏳ ===
-<!-- https://myanimelist.net/forum/?topicid=1849244&show=0#msg60116570 -->
+=== ♦ Just Another Yaoi Club ♦ - ♦ Beauty Mark Edition ♦ ⏳ ===
+<!-- https://myanimelist.net/forum/?topicid=1850056#msg60149294 -->
+
+=== - Sound of Souls - - - Azur Lane Edition - 🚚 ===
+<!-- https://myanimelist.net/forum/?topicid=1849244&show=0#msg60116570 -->[[File:sos062020/chibister-1.png]] [[File:sos062020/chibister-2.png]] [[File:sos062020/Zarcy.png]]
 
 === Animanga Card Empire (A.C.E) ✦ - Friendship SE 🚚 ===
 <!-- https://myanimelist.net/forum/?topicid=1848917 -->[[File:ace062020-c/LuffyTheStrawHat-1.png]] [[File:ace062020-c/LuffyTheStrawHat-2.png]] [[File:ace062020-c/ZoSanBamf.png]]
 
-=== Animanga Card Empire (A.C.E) ✦ - Agathokakological SE 🚚 ===
+=== Animanga Card Empire (A.C.E) ✦ - Agathokakological SE ✅ ===
 <!-- https://myanimelist.net/forum/?topicid=1847485 -->[[File:ace062020-b/LuffyTheStrawHat-1.png]] [[File:ace062020-b/LuffyTheStrawHat-2.png]]
 
 === Animanga Card Empire (A.C.E) ✦ - Food SE 🚚 ===
