@@ -1,0 +1,13 @@
+{{userbox
+| border-c      = #3f3f3f
+| id            = [[Berkas:Osu!Logo_(2019).svg|50px]]
+| id-a          = center
+| id-c          = #3f3f3f
+| info          = Pengguna ini adalah pemain '''[[osu!|<span style="color: white;">osu!</span>]]'''{{#if:{{{1|}}}|<br /><span class="plainlinks">([https://osu.ppy.sh/users/{{{1}}} <span style="color: white;">'''Ikuti'''</span>])</span>|}}
+| info-a        = center
+| info-c        = #3f3f3f
+| info-fc       = #f3f2f9
+| usercategory  = Pengguna pemain osu!
+| nocat = {{{nocat|}}}
+</includeonly>
+}}<noinclude>{{Documentation}}</noinclude>

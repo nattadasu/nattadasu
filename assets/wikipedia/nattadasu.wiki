@@ -1,3 +1,5 @@
+= Pengguna:Nattadasu =
+
 {{inuseuntil|24 September 2020}}
 
 {{Infobox pengguna
@@ -75,6 +77,30 @@ __TOC__
 == Kontribusi Wiki ==
 * [[IGTV]] pada 22 Mei 2020 02.36 WIB
 * [[MyAnimeList]] pada 4 Juni 2020 02.36 WIB
+* [[Afghanistan]]<sup>k</sup> pada 18 Juni 2020 13.54 WIB
+* [[Akhlak]] pada 18 Juni 2020 21.10 WIB
+
+=== Sedang Dalam Tahap Translasi ===
+* [[Daisuki (website)]]
+* [[Yandex Music]]
+* [[Monstercat]]
+
+== Proyek ==
+Sultan memiliki beberapa proyek yang telah, sedang, dan akan dilakukannya. Berikut adalah daftar proyek yang ia ikuti, baik dalam penerjemahan hingga penyelarasan situs:
+
+=== Translasi Aplikasi/Layanan ===
+# [https://malsync.moe MALSync] oleh [https://github.com/lolamtisch lolamtisch], ektensi tambahan peramban untuk melacak [[Anime]] dan [[Manga]] yang sedang diakses menggunakan [[MyAnimeList]], [[AniList]], [[Kitsu]], dan [[SIMKL]]. Translasi ke [[Bahasa Indonesia]] dan [[Bahasa Melayu]]
+# [https://mikazuki.moe Mikazuki] oleh [https://github.com/NicoAiko Nico Linnemann], aplikasi pihak ketiga untuk [[AniList]] menggunakan teknologi [[Vue.js]]. Translasi ke [[Bahasa Indonesia]], [[Bahasa Arab]], dan [[Bahasa Melayu]].
+# [https://kitsu.io Kitsu] oleh Josh Fabian, adalah platform pencari konten yang membantu penggemar anime dan manga melacak, berbagi, dan menemukan lebih banyak hal yang mereka sukai. Translasi ke [[Bahasa Indonesia]].
+# [https://watora.xyz/ Watora] oleh [https://github.com/Zenrac Zenrac], adalah Bot Musik [[Discord]] Gratis. Dengan fitur Volume, Peningkatan Bass, Ekualiser, [[Spotify]], [[YouTube]], [[Monstercat]], [[Listen.moe]]. Translasi ke [[Bahasa Indonesia]].
+# [https://osu.ppy.sh/community/forums/topics/660418 osu!player Plus] oleh [https://osu.ppy.sh/users/5105217 - Founntain -], merupakan aplikasi pemutar musik berdasarkan beatmap [[osu!]] yang tersedia dalam mesin. Translasi ke [[Bahasa Indonesia]].
+
+=== Proyek Dalam Pengerjaan ===
+* [[Pengguna:Nattadasu/Ryuuganime|Ryuuganime]], merupakan situs pangkalan data informasi animasi dunia dalam bahasa Indonesia. Tersedia dalam bentuk Fake API dan VisualPreview. '''Status Proyek: Sedang Dikerjakan'''.
+
+=== Karya [[Audiovisual]] Statis dan Dinamis ===
+# [[Pengguna:Nattadasu/Endemic|ENDEMIC]] (digayakan sebagai ΞNDΞMIC) merupakan kanal [[YouTube]] yang menampilkan [[video musik]] [[Nightcore|nightcore]] bergaya anime dan [[daur ulang (musik)]] menggunakan peranti lunak [[Vocaloid|VOCALOID]], [[Utau|UTAU]], dan [[SynthV]].
+# Menjadi ''staff'' efek grafis (''Graphic Effect'') di salah satu klub [[MyAnimeList]], [https://myanimelist.net/clubs.php?cid=70668 The Newbie Club].
 
 == Templat [[Wikipedia:Kotak Pengguna|Userbox/Kotak Pengguna]] Buatan ==
 Anda dapat melihatnya [[Pengguna:Nattadasu/userbox/|disini]].
@@ -86,17 +112,8 @@ Untuk penggunaan [[Wikipedia:Kotak Pengguna|Userbox/Kotak Pengguna]], silahkan i
 
 {{User id-N}}{{User ace-4}}{{User en-4}}{{User ms-4}}{{user ar-3}}{{User ja-2}}{{User ru-1}}{{user tl-1}}{{Pengguna Abjad Fonetis Internasional}}{{Pengguna yang bisa membaca abjad Arab}}{{Pengguna yang bisa membaca Jawi}}{{Pengguna yang bisa membaca Kanji}}{{Pengguna yang bisa membaca Hiragana}}{{Pengguna yang bisa membaca Katakana}}{{Pengguna yang bisa membaca huruf Sirilik}}{{Pengguna yang bisa membaca aksara Hangul}}{{Pengguna yang bisa membaca aksara Sunda}}
 
-{{Pengguna Discord|nattadasu#3867}}{{Pengguna Facebook|username=nattadasu}}{{Pengguna GitHub|nattadasu}}{{Pengguna Instagram|nattadasu}}{{Pengguna Twitter|nattadasu}}{{Pengguna VK|nattadasu}}{{Pengguna YouTube|channel=UCWZPuKkARt29CoqHiJLhuSw}}
+{{Pengguna Discord|nattadasu#3867}}{{Pengguna Facebook|username=nattadasu}}{{Pengguna GitHub|nattadasu}}{{Pengguna Instagram|nattadasu}}{{Pengguna Twitter|nattadasu}}{{Pengguna VK|nattadasu}}{{Pengguna YouTube|channel=UCWZPuKkARt29CoqHiJLhuSw}} {{Pengguna osu!|9256506}}
 
 {{Pengguna animanga fantasi}}{{Pengguna animanga harem}}{{Pengguna animanga komedi}}{{Pengguna animanga komedi-romantis}}{{Pengguna ecchi}}{{Pengguna:Nattadasu/userbox/yaoi}}{{Pengguna:Nattadasu/userbox/fudanshi/}}
 
-{{Pengguna Windows 10}} {{Pengguna Ubuntu}}
-{{userbox
-| logo-background = #F7F7F7
-| info-background = #A5C3FF
-| logo = [[Berkas:Zorin Logomark.svg|40px]]
-| logo-size = 6
-| info = <center>Pengguna ini menggunakan sistem operasi '''[[Zorin OS]]'''
-}}
-{{#if:{{{kat|}}}||<includeonly>
-</includeonly>}}<noinclude>{{Pengguna iTunes}}{{Pengguna Laptop}}{{Pengguna Dell}}{{Pengguna Google Chrome}}{{Pengguna:Nattadasu/userbox/VScode}}
+{{Pengguna Windows 10}} {{Pengguna Ubuntu}} {{Pengguna iTunes}}{{Pengguna Laptop}}{{Pengguna Dell}}{{Pengguna Google Chrome}}{{Pengguna:Nattadasu/userbox/VScode}}
