@@ -89,7 +89,7 @@ I do a lot of contributions on GitHub and others platform. Here's some of my con
 
 ## Guestbook
 
-Try to sign on my guestbook at nattadasu/nattadasu#1 (ﾉ◕ヮ◕)ﾉ\*:･ﾟ✧
+Try to sign on my guestbook at [nattadasu/nattadasu#1](https://github.com/nattadasu/nattadasu/issues/1) (ﾉ◕ヮ◕)ﾉ\*:･ﾟ✧
 
 <!--START:guestbook-->
 
