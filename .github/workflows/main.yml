@@ -3,8 +3,8 @@ name: 🧪
 on:
   push:
     branches: [ main ]
-  pull_request:
-    branches: [ main ]
+  schedule:
+  - cron: "0 */3 * * *"
 
 jobs:
   main:
@@ -12,7 +12,7 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
-    - uses: ./
+    - uses: joshmgross/guestbook@main
       with:
         issue: 1
         approvers: |
