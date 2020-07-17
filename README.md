@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/nattadasu/Personal/master/assets/readmeAssets/natsuTadamaGlasses.jpg" align="right">
 
-*Read Indonesian version at [README.id.wiki](README.id.wiki)*
+*Read Indonesian version at [README.id.wiki](https://github.com/nattadasu/nattadasu/blob/master/README.id.wiki)*
 
 **Hello, and welcome to my profile!**
 
