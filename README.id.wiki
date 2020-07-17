@@ -60,9 +60,6 @@ __TOC__
 |Yandex.Money
 |https://money.yandex.ru/to/4100115392446184
 |-
-|donate.stream
-|https://donate.stream/en/ryuuganime
-|-
 |Ko-Fi
 |https://ko-fi.com/nattadasu
 |-
