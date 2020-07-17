@@ -6,17 +6,12 @@
 
 **Hello, and welcome to my profile!**
 
-<div align="justify">
   I am Sultan Iskandar Maulana (a.k.a Natsu Tadama), and I am "he/him." 19 years old, and also Islamic Communication and Broadcasting student in Ar-Raniry Islamic State University, Banda Aceh, Indonesia. Came from Indonesia, so if you notice I spoke so weirdly (like this sentence lol), please forgive me and correct my spelling :')
-</div>
 
-<div align="justify">
   I can speak in more than 5 languages: Acehnese, Indonesian, Malay, English, Arabic, and Japanese... With some plot twists, I can read the Cyrillic alphabet and Hangul. I love learning foreign languages, especially Japanese; video editing, watching anime (sometimes, donghua) and western cartoon, and creating internet sites using HTML. Now I have an open source project regarding database of information on animation shows from various countries and sites, called [Ryuuganime](https://github.com/ryuuganime). ~~Oh, Fun fact: I am also Fudanshi, hehehe.~~
-</div>
 
-<div align="justify">
   Btw, I do have a ton of pseudonyms aside from my legal name thou, and its related to Japanese names; Natsu TADAMA, Alex TOMATSU, Nikolay Tolenka, Ryuusei NEKONE, and Ryuusei RYUUZAKI.
-</div>
+
 
 ## Stats
 
@@ -27,8 +22,11 @@
 ## Donate
 
 > *Hi.*
+>
 > *Me open donations. Okay, poke?*
+>
 > *Come to old old old tabl, poke. Bring coines.*
+>
 >   —hat mouse
 
 |                         |                                                   |
