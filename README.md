@@ -114,7 +114,8 @@
 ## Contributions
 
 I do a lot of contributions on GitHub and others platform. Here's some of my contributions ☆ ～('▽^人)
-
+<details><summary>See contributions</summary>
+  
 ### Ryuuganime
 
 [![](https://gitreadme.nattadasu.my.id/api/pin/?username=ryuuganime&repo=Ryuuganime)](https://github.com/ryuuganime/Ryuuganime) [![](https://gitreadme.nattadasu.my.id/api/pin/?username=ryuuganime&repo=ryuuganime-db)](https://github.com/ryuuganime/ryuuganime-db) [![](https://gitreadme.nattadasu.my.id/api/pin/?username=ryuuganime&repo=animanga-wordlist)](https://github.com/ryuuganime/animanga-wordlist)
@@ -145,6 +146,8 @@ I do a lot of contributions on GitHub and others platform. Here's some of my con
 
 ### Beta testing
 [![](https://github-readme-stats.vercel.app/api/pin/?username=PreMiD&repo=Linux&show_owner=true)](https://github.com/PreMiD/Linux)
+
+</details>
 
 ## Userboxes
 
