@@ -45,7 +45,7 @@ I'm level <img src="http://www.mal-badges.net/users/nattadasu/level"> on [mal-ba
 
 ## 1.6. MyAnimeList Anime Watching Club Challenges
 ### 1.6.1. Challenges Participant
-<a href="http://myanimelist.net/forum/?topicid=1748492&show=150=post185"><img src="https://i.imgur.com/eX2Cd3r.png"></a><a href="https://myanimelist.net/forum/?topicid=1489554&show=450=msg59639980"><img src="https://imagizer.imageshack.com/v2/xq90/923/50HzkK.png"><img src="https://imagizer.imageshack.com/v2/xq90/923/hw6XmW.png"></a>
+<a href="http://myanimelist.net/forum/?topicid=1748492&show=150=post185"><img src="https://i.imgur.com/eX2Cd3r.png"></a> <a href="https://myanimelist.net/forum/?topicid=1489554&show=450=msg59639980"><img src="malAwcc/franchise/hetalia.gif"> <img src="https://imagizer.imageshack.com/v2/xq90/923/hw6XmW.png"></a>
 
 ### 1.6.2. Specific Elements, Genres, or Tags
 <img src="https://i.imgur.com/Sem5gEy.png">
