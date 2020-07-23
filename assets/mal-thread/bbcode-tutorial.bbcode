@@ -1,0 +1,137 @@
+  If you wonder why I'm creating BBCode tutorial even several tutorials were available in MyAnimeList forum thread it's because there some tips and hacks you need to know about :3
+
+  Let's begin, the tips!
+
+  [i]Oh btw, this thread available on my GitHub repository as MediaWiki file, so you can see "interactively."[/i]
+
+[quote][size=120][b]Note:[/b][/size]
+This is not newbie-friendly thread for learning BBCode-ing on MAL. Instead, this tutorial is intended for advanced users.
+If you want to learn on how to BBCode-ing on MAL, you can read [url=https://myanimelist.net/forum/?topicid=398185]this thread by Shishio from Shishio's Custom Lists & Profiles[/url] and [url=https://myanimelist.net/forum/?topicid=1844723]this thread by Allegedshrimp from The Newbie Club[/url].[/quote]
+
+[size=140][b]Creating <hr> HTML Tag Equivalent on BBCode Format[/b][/size]
+[color=#aeaeae][size=20][u]                                                                                                                                                                                                                                                                                                                                                                           [/u][/size][/color]
+
+  The <hr> tag in HTML stands for horizontal rule and is used to insert a horizontal rule or a thematic break in an HTML page to divide or separate document sections. 
+
+  But here's spin-off: BBCode can't parse HTML tags... So, several tags in HTML are not accessible for using it. Anyways, we can "cheating" on it with existing BBCode tag.
+
+[quote][color=#aeaeae][size=20][u]                                                                                                                                                                                                                                                                                                                                                                 [/u][/size][/color]
+
+^ This is what it should be appears when using <hr /> tag in HTML[/quote]
+  And this is what you should add on bbcode:
+[code][color=#aeaeae][size=20][u]                                                                                                                                                                                                                                                                                                                                                                 [/u][/size][/color]
+
+^ This is what it should be appears when using <hr /> tag in HTML[/code]  The keys is only adding some em spaces (see [i]Adding Indent to Text[/i] section for learn more about em space), make it [u]underline[/u], resize it as small as it should be, and make the color to [color=#aeaeae]grey-ish[/color] looking.
+
+Or, for alternative one (and I'm not recommending this method if you do have colored texts), you can use striking dashes:
+[quote][s]---------------------------------------------------[/s]
+[code][s]---------------------------------------------------[/s][/code][/quote]
+
+[size=140][b]Ignore/Escape BBCode Tags and URLs from Parsing[/b][/size]
+[color=#aeaeae][size=20][u]                                                                                                                                                                                                                                                                                                                                                                           [/u][/size][/color]
+
+  [[i][/i]b]Noticed something weird with this?[[i][/i]/b] Yes, your mind is working as well! XD
+
+  To ignore BBCode tag without using [[i][/i]code][[i][/i]/code] tag, you need to add another tag inside the tag itself. Here is an example for ignoring BBCode tag:
+[code][[i][/i]b]Noticed something weird with this?[[i][/i]/b][/code]
+  For make it more unnoticeable, use [[i][/i]i][[i][/i]/i] tag for tag that need to be ignored. Note that you also need to add ignore tag ([[i][/i]i][[i][/i]/i]) on the end tag for compatibility fix (see "[i]this?[[[i][/i]i][[i][/i]/i]/b][/i]" on blockcode).
+
+  This method is also works well to ignore [[i][/i]quote][[i][/i]/quote], [[i][/i]url][[i][/i]/url], [[i][/i]yt][[i][/i]/yt], and else. Even this method is also can used for removing hyperlink from standalone https!
+[quote]ht[i][/i]tps://myanimelist.net[/quote][code]ht[i][/i]tps://myanimelist.net[/code]
+[size=140][b]Adding Indent to Text[/b][/size]
+[color=#aeaeae][size=20][u]                                                                                                                                                                                                                                                                                                                                                                           [/u][/size][/color]
+
+  Indentation sometimes needed when you want to write text with "clutter-free" looking. All you need is add 2x Em Space on beginning of paragraph. Em space is accessible by adding [b]&#8195;[/b] or [b]&emsp;[/b] on your HTML document.
+
+  Here is technical info about em space:
+[code]Name			:	Em Space
+Unicode Version		:	1.1 (June 1993)
+Block			:	General Punctuation, U+2000 - U+206F
+Plane			:	Basic Multilingual Plane, U+0000 - U+FFFF
+Script			:	Code for undetermined script (Zyyy)
+Category		:	Space Separator (Zs)
+Bidirectional Class	:	White Space (WS)
+Combining Class		:	Not Reordered (0)
+Character is Mirrored	:	No
+HTML Entity		:	&#8195;
+				&#x2003;
+				&emsp;
+UTF-8 Encoding		:	0xE2 0x80 0x83
+UTF-16 Encoding		:	0x2003
+UTF-32 Encoding		:	0x00002003
+Decomposition		:	(U+0020)[/code]
+  To add em space manually from keyboard, tap [b]Alt[/b], followed by type [b]8195[/b] from your numpad. If your keyboard does not have numpad, you need to open [url=https://www.compart.com/en/unicode/U+2003]this site [img]https://id.wikipedia.org/w/skins/Vector/resources/skins.vector.styles/images/external-link-ltr-icon.svg?b4b84[/img][/url] to helps you copying em space.
+
+[quote][size=120][b]Pro tip:[/b][/size]
+Use this method if you want to use it to comment, blog post, and forum thread. Otherwise, you can still use &emsp; on messages[/quote]
+
+[size=140][b]Adding External Link Icon[/b][/size]
+[color=#aeaeae][size=20][u]                                                                                                                                                                                                                                                                                                                                                                           [/u][/size][/color]
+
+  Want to tell other that this link will redirect to another site outside MAL? You can add this icon ([img]https://en.wikipedia.org/w/skins/Vector/resources/skins.vector.styles/images/external-link-ltr-icon.svg?b4b84[/img]) by Wikipedia to helps you. Oh also, that icon is under [url=https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License]Creative Commons Attribution-ShareAlike 3.0 Unported License [img]https://en.wikipedia.org/w/skins/Vector/resources/skins.vector.styles/images/external-link-ltr-icon.svg?b4b84[/img][/url].
+[list][*]For left-to-right writing system/script version:
+[code][img]https://en.wikipedia.org/w/skins/Vector/resources/skins.vector.styles/images/external-link-ltr-icon.svg?b4b84[/img][/code]
+Example: [quote]Click [url=https://myanimelist.net/]this link [img]https://en.wikipedia.org/w/skins/Vector/resources/skins.vector.styles/images/external-link-ltr-icon.svg?b4b84[/img][/url] to continue[/quote][code]Click [url=https://myanimelist.net/]this link [img]https://en.wikipedia.org/w/skins/Vector/resources/skins.vector.styles/images/external-link-ltr-icon.svg?b4b84[/img][/url] to continue[/code]
+[*]For right-to-left writing system/script version:
+[code][img]https://ar.wikipedia.org/w/skins/Vector/resources/skins.vector.styles/images/external-link-rtl-icon.svg?b4b84[/img][/code]
+Example: 
+[quote][right]أضغط على [url=https://myanimelist.net]هذا الرابط [img]https://ar.wikipedia.org/w/skins/Vector/resources/skins.vector.styles/images/external-link-rtl-icon.svg?b4b84[/img][/url] للمتابعة[/right][/quote][code][right]أضغط على [url=https://myanimelist.net]هذا الرابط [img]https://ar.wikipedia.org/w/skins/Vector/resources/skins.vector.styles/images/external-link-rtl-icon.svg?b4b84[/img][/url] للمتابعة[/right][/code]
+Note: Because MAL is mainly using LTR (left-to-right) writing system, this preview is buggy if there is no text after image tag.
+[/list]
+
+[size=140][b]BBCode Default Color Values Preset[/b][/size]
+[color=#aeaeae][size=20][u]                                                                                                                                                                                                                                                                                                                                                                           [/u][/size][/color]
+
+  Tired on typing hex value to color tags? Now... don't worry! MAL does have several color presets to helps you figuring out what color is the best for your text. XD
+
+  Here's some list of available color presets in MyAnimeList. 
+
+  List of color presets source is taken from [url=https://myanimelist.net/blog.php?eid=736085]BBCode Color Reference Blog by Xerallite[/url]. Click [url=https://myanimelist.net/blog.php?eid=736085]this link[/url] to preview the colors.
+
+[spoiler="list of color codes"][code]aliceblue		ghostwhite		navy		
+antiquewhite		gold			oldlace		
+aqua			goldenrod		olive		
+aquamarine		gray			olivedrab		
+azure			green			orange		
+beige			greenyellow		orangered		
+bisque			honeydew		orchid		
+black			hotpink			palegoldenrod		
+blanchedalmond		indianred		palegreen		
+blue			indigo			paleturquoise		
+blueviolet		ivory			palevioletred		
+brown			khaki			papayawhip		
+burlywood		lavender		peachpuff		
+cadetblue		lavenderblush		peru		
+chartreuse		lawngreen		pink		
+chocolate		lemonchiffon		plum		
+coral			lightblue		powderblue		
+cornflowerblue		lightcora		purple		
+cornsilk		lightcyan		red		
+crimson			lightgoldenrodyellow	rosybrown		
+cyan			lightgray		royalblue		
+darkblue		lightpink		saddlebrown		
+darkcyan		lightsalmon		salmon		
+darkgoldenrod		lightseagreen		sandybrown		
+darkgray		lightskyblue		seagreen		
+darkgreen		lightslategray		seashell		
+darkkhaki		lightsteelblue		sienna		
+darkmagenta		lightyellow		silver		
+darkolivegreen		lime			skyblue		
+darkorange		limegreen		slateblue		
+darkorchid		linen			slategray		
+darkred			magenta			snow		
+darksalmon		maroon			springgreen		
+darkseagreen		mediumaquamarine	steelblue		
+darkslateblue		mediumblue		tan		
+darkslategray		mediumorchid		teal		
+darkturquoise		mediumpurple		thistle		
+darkviolet		mediumseagreen		tomato		
+deeppink		mediumslateblue		turquoise		
+deepskyblue		mediumspringgreen	violet		
+dimgray			mediumturquoise		wheat		
+dodgerblue		mediumvioletred		white		
+firebrick		midnightblue		whitesmoke		
+floralwhite		mintcream		yellow		
+forestgreen		mistyrose		yellowgreen		
+fuchsia			moccasin
+gainsboro		navajowhite[/code][/spoiler]
