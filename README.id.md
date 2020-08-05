@@ -12,9 +12,11 @@
   Btw, saya punya banyak nama samaran selain dari nama asli saya; Natsu TADAMA, Alex TOMATSU, Nikolay Tolenka, Ryuusei NEKONE, dan Ryuusei RYUUZAKI.
 
 ## Statistik
-![](https://gitreadme.nattadasu.my.id/api?username=nattadasu&show_icons=true)
+![](https://gitreadme.vercel.app/api?username=nattadasu&show_icons=true)
 
 [![](https://img.shields.io/badge/HTML-277%20commits-orange.svg)](https://sourcerer.io/nattadasu) [![](https://img.shields.io/badge/CSS-33%20commits-orange.svg)](https://sourcerer.io/nattadasu) [![](https://img.shields.io/badge/JavaScript-27%20commits-orange.svg)](https://sourcerer.io/nattadasu) [![](https://img.shields.io/badge/TypeScript-18%20commits-orange.svg)](https://sourcerer.io/nattadasu)
+
+![](https://gitreadme.vercel.app/api/top-langs/?username=nattadasu&show_icons=true)
 
 ## Donasi
 > *Hai.*
@@ -23,7 +25,7 @@
 >
 > *Datang ka meja meja meja lami, bro. Bawa duid.*
 >
->  —kucing garong
+>  — kucing garong
 
 <details><summary>Liat "meja" yang dibilang sama kucing garong</summary>
 <table>
@@ -112,25 +114,25 @@
 Saya melakukan banyak kontribusi pada platform GitHub dan lainnya. Inilah beberapa kontribusi saya ☆ ～('▽^人)
 
 ### Ryuuganime
-[![](https://gitreadme.nattadasu.my.id/api/pin/?username=ryuuganime&repo=Ryuuganime)](https://github.com/ryuuganime/Ryuuganime) [![](https://gitreadme.nattadasu.my.id/api/pin/?username=ryuuganime&repo=ryuuganime-db)](https://github.com/ryuuganime/ryuuganime-db) [![](https://gitreadme.nattadasu.my.id/api/pin/?username=ryuuganime&repo=animanga-wordlist)](https://github.com/ryuuganime/animanga-wordlist)
+[![](https://gitreadme.vercel.app/api/pin/?username=ryuuganime&repo=Ryuuganime)](https://github.com/ryuuganime/Ryuuganime) [![](https://gitreadme.vercel.app/api/pin/?username=ryuuganime&repo=ryuuganime-db)](https://github.com/ryuuganime/ryuuganime-db) [![](https://gitreadme.vercel.app/api/pin/?username=ryuuganime&repo=animanga-wordlist)](https://github.com/ryuuganime/animanga-wordlist)
 
 ### Daftar
-[![](https://gitreadme.nattadasu.my.id/api/pin/?username=otakulogy&repo=anime-streaming&show_owner=true)](https://github.com/otakulogy/anime-streaming)
+[![](https://gitreadme.vercel.app/api/pin/?username=otakulogy&repo=anime-streaming&show_owner=true)](https://github.com/otakulogy/anime-streaming)
 
 ### Personalisasi
-[![](https://gitreadme.nattadasu.my.id/api/pin/?username=nattadasu&repo=mal-blockquote-template)](https://github.com/nattadasu/mal-blockquote-template) [![](https://gitreadme.nattadasu.my.id/api/pin/?username=PKief&repo=vscode-material-icon-theme&show_owner=true)](https://github.com/PKief/vscode-material-icon-theme)
+[![](https://gitreadme.vercel.app/api/pin/?username=nattadasu&repo=mal-blockquote-template)](https://github.com/nattadasu/mal-blockquote-template) [![](https://gitreadme.vercel.app/api/pin/?username=PKief&repo=vscode-material-icon-theme&show_owner=true)](https://github.com/PKief/vscode-material-icon-theme)
 
 ### Terjemahan
 #### Bahasa Indonesia
-[![](https://gitreadme.nattadasu.my.id/api/pin/?username=MALSync&repo=MALSync&show_owner=true)](https://github.com/MALSync/MALSync) [![](https://gitreadme.nattadasu.my.id/api/pin/?username=NicoAiko&repo=mikazuki&show_owner=true)](https://github.com/NicoAiko/mikazuki) [![](https://gitreadme.nattadasu.my.id/api/pin/?username=hummingbird-me&repo=hummingbird-client&show_owner=true)](https://github.com/hummingbird-me/hummingbird-client) [![](https://gitreadme.nattadasu.my.id/api/pin/?username=Zenrac&repo=Watora&show_owner=true)](https://github.com/Zenrac/Watora) [![](https://gitreadme.nattadasu.my.id/api/pin/?username=ContributorCovenant&repo=contributor_covenant&show_owner=true)](https://github.com/ContributorCovenant/contributor_covenant) [![](https://gitreadme.nattadasu.my.id/api/pin/?username=ytmdesktop&repo=ytmdesktop)](https://github.com/ytmdesktop/ytmdesktop)
+[![](https://gitreadme.vercel.app/api/pin/?username=MALSync&repo=MALSync&show_owner=true)](https://github.com/MALSync/MALSync) [![](https://gitreadme.vercel.app/api/pin/?username=NicoAiko&repo=mikazuki&show_owner=true)](https://github.com/NicoAiko/mikazuki) [![](https://gitreadme.vercel.app/api/pin/?username=hummingbird-me&repo=hummingbird-client&show_owner=true)](https://github.com/hummingbird-me/hummingbird-client) [![](https://gitreadme.vercel.app/api/pin/?username=Zenrac&repo=Watora&show_owner=true)](https://github.com/Zenrac/Watora) [![](https://gitreadme.vercel.app/api/pin/?username=ContributorCovenant&repo=contributor_covenant&show_owner=true)](https://github.com/ContributorCovenant/contributor_covenant) [![](https://gitreadme.vercel.app/api/pin/?username=ytmdesktop&repo=ytmdesktop)](https://github.com/ytmdesktop/ytmdesktop)
 
 -   [osu!player Plus](https://osu.ppy.sh/community/forums/topics/660418) oleh [- Founntain -](https://osu.ppy.sh/users/5105217), merupakan aplikasi pemutar musik berdasarkan beatmap osu! yang tersedia dalam mesin. Translasi ke Bahasa Indonesia.
 
 #### Bahasa Melayu
-[![](https://gitreadme.nattadasu.my.id/api/pin/?username=MALSync&repo=MALSync&show_owner=true)](https://github.com/MALSync/MALSync) [![](https://gitreadme.nattadasu.my.id/api/pin/?username=NicoAiko&repo=mikazuki&show_owner=true)](https://github.com/NicoAiko/mikazuki)
+[![](https://gitreadme.vercel.app/api/pin/?username=MALSync&repo=MALSync&show_owner=true)](https://github.com/MALSync/MALSync) [![](https://gitreadme.vercel.app/api/pin/?username=NicoAiko&repo=mikazuki&show_owner=true)](https://github.com/NicoAiko/mikazuki)
 
 #### Bahasa Arab
-[![](https://gitreadme.nattadasu.my.id/api/pin/?username=NicoAiko&repo=mikazuki&show_owner=true)](https://github.com/NicoAiko/mikazuki)
+[![](https://gitreadme.vercel.app/api/pin/?username=NicoAiko&repo=mikazuki&show_owner=true)](https://github.com/NicoAiko/mikazuki)
 
 ### Penguji coba versi 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=PreMiD&repo=Linux&show_owner=true)](https://github.com/PreMiD/Linux)
