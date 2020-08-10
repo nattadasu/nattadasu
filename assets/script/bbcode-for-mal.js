@@ -32,23 +32,7 @@
 // @include        *myanimelist.net/ownlist/manga/*
 // @exclude        *myanimelist.net/editprofile.php?go=stylepref&do=cssadv&id=*
 // @version        1.0.42
-// @grand          none
 // ==/UserScript==
-
-function(){
-    "use strict";
-    const scriptInfo = {
-        "version" : "1.0.42",
-        "name" : "BBCodes for MAL",
-        "link" : "https://github.com/nattadasu/Personal/blob/master/assets/script/bbcode-for-mal.js",
-        "repo" : "https://github.com/nattadasu/Personal",
-        "firefox" : "NO KNOWN BUILDS",
-        "chrome" : "NO KNOWN BUILDS",
-        "author" : "nattadasu",
-        "authorLink" : "https://github.com/nattadasu/",
-        "license" : "MIT"
-    };
-}
 
 function addtag(snap, tag) {
     var textareaNumber = getXpathSnapNumber(snap);
@@ -322,6 +306,12 @@ function addtag(snap, tag) {
 
             newText = beforeText + selectedText + tagOpen + afterText;
             break;
+        
+        case "blogPost":
+            tagOpen = "[url=https://myanimelist.net/blog.php?eid=833019#comment]Blog Post[/url]";
+            tagClose = "";
+
+            newText = beforeText + selectedText + tagOpen + afterText
     }
 
     if (newText != null) {
@@ -637,6 +627,11 @@ function createButtons() {
         post.type = "button";
         post.value = "( ͡° ͜ʖ ͡°)";
         post.addEventListener('click', function() {addtag(xpathSnapCur,'lenny face');}, false);
+        div1.appendChild(post);
+    var post = document.createElement("input");
+        post.type = "button";
+        post.value = "blogPost";
+        post.addEventListener('click', function() {addtag(xpathSnapCur,'blogPost');}, false);
         div1.appendChild(post);
     }
 }
