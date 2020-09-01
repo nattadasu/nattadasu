@@ -142,3 +142,19 @@ Saya melakukan banyak kontribusi pada platform GitHub dan lainnya. Inilah bebera
 ## Kotak pengguna 
 
 ![](assets/mal-profile-page/v3/assets/babel/languages/id-n.png) ![](assets/mal-profile-page/v3/assets/babel/languages/ace-4.png) ![](assets/mal-profile-page/v3/assets/babel/languages/en-4.png) ![](assets/mal-profile-page/v3/assets/babel/languages/ms-4.png) ![](assets/mal-profile-page/v3/assets/babel/languages/ar-3.png) ![](assets/mal-profile-page/v3/assets/babel/languages/ja-2.png) ![](assets/mal-profile-page/v3/assets/babel/languages/ru-1.png) ![](assets/mal-profile-page/v3/assets/babel/languages/tl-1.png) ![](assets/mal-profile-page/v3/assets/babel/programming/html.png) ![](assets/mal-profile-page/v3/assets/babel/programming/js-1.png) ![](assets/mal-profile-page/v3/assets/babel/programming/md.png) ![](assets/mal-profile-page/v3/assets/babel/programming/mediawiki.png) ![](assets/mal-profile-page/v3/assets/babel/programming/xml.png) ![](assets/mal-profile-page/v3/assets/babel/script/arab-N.png) ![](assets/mal-profile-page/v3/assets/babel/script/jawi-N.png) ![](assets/mal-profile-page/v3/assets/babel/script/kana-N.png) ![](assets/mal-profile-page/v3/assets/babel/script/Cyrl-5.png) ![](assets/mal-profile-page/v3/assets/babel/script/ipa-3.png) ![](assets/mal-profile-page/v3/assets/babel/script/sund-3.png) ![](assets/mal-profile-page/v3/assets/babel/script/kanji-1.png) ![](assets/mal-profile-page/v3/assets/babel/script/coptic.png) ![](assets/mal-profile-page/v3/assets/babel/script/greek.png) ![](assets/mal-profile-page/v3/assets/babel/script/han.png) ![](assets/mal-profile-page/v3/assets/babel/script/java-0.png) ![](assets/mal-profile-page/v3/assets/babel/cyberbullying.png) ![](assets/mal-profile-page/v3/assets/babel/email.png) ![](assets/mal-profile-page/v3/assets/babel/im.png) ![](assets/mal-profile-page/v3/assets/babel/netAddict.png) ![](assets/mal-profile-page/v3/assets/babel/languages/1337-4.png) ![](assets/mal-profile-page/v3/assets/babel/languages/cat-n.png) ![](assets/mal-profile-page/v3/assets/babel/languages/conLang.png) ![](assets/mal-profile-page/v3/assets/babel/languages/gibberish.png) ![](assets/mal-profile-page/v3/assets/babel/languages/internetSlang-3.png) ![](assets/mal-profile-page/v3/assets/babel/languages/language.png) ![](assets/mal-profile-page/v3/assets/babel/languages/lazyEnglish-3.png) ![](assets/mal-profile-page/v3/assets/babel/languages/lolcat-5.png) ![](assets/mal-profile-page/v3/assets/babel/languages/sarcasm.png) ![](assets/mal-profile-page/v3/assets/babel/languages/ubbi-n.png) ![](assets/mal-profile-page/v3/assets/babel/languages/urbanEnglish.png)
+
+## Buku Tamu
+
+Coba tandatangani ke buku tamu saya di [nattadasu/nattadasu#1](https://github.com/nattadasu/nattadasu/issues/1) (ﾉ◕ヮ◕)ﾉ\*:･ﾟ✧
+
+<!--START:guestbook-->
+> Teeestt 👋 
+> -[@nattadasu](https://github.com/nattadasu)
+
+> Tutturu~  here is my sign.. :smiley_cat: 
+> -[@yeheizkiel](https://github.com/yeheizkiel)
+<!--END:guestbook-->
+
+## Aktivitas GitHub
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
