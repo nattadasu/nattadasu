@@ -15,11 +15,9 @@
 
 ## Stats
 
-![](https://gitreadme.vercel.app/api?username=nattadasu&show_icons=true)
+[![](https://img.shields.io/badge/HTML-277%20commits-orange.svg)](https://sourcerer.io/nattadasu) [![](https://img.shields.io/badge/CSS-33%20commits-orange.svg)](https://sourcerer.io/nattadasu) [![](https://img.shields.io/badge/JavaScript-27%20commits-orange.svg)](https://sourcerer.io/nattadasu) [![](https://img.shields.io/badge/TypeScript-18%20commits-orange.svg)](https://sourcerer.io/nattadasu) <img src="https://komarev.com/ghpvc/?username=nattadasu" alt="nattadasu" />
 
-[![](https://img.shields.io/badge/HTML-277%20commits-orange.svg)](https://sourcerer.io/nattadasu) [![](https://img.shields.io/badge/CSS-33%20commits-orange.svg)](https://sourcerer.io/nattadasu) [![](https://img.shields.io/badge/JavaScript-27%20commits-orange.svg)](https://sourcerer.io/nattadasu) [![](https://img.shields.io/badge/TypeScript-18%20commits-orange.svg)](https://sourcerer.io/nattadasu)
-
-![](https://gitreadme.vercel.app/api/top-langs/?username=nattadasu&show_icons=true)
+![](https://gitreadme.vercel.app/api?username=nattadasu&show_icons=true) ![](https://gitreadme.vercel.app/api/top-langs/?username=nattadasu&show_icons=true)
 
 ## Donate
 
@@ -168,3 +166,7 @@ Try to sign on my guestbook at [nattadasu/nattadasu#1](https://github.com/nattad
 > Tutturu~  here is my sign.. :smiley_cat: 
 > -[@yeheizkiel](https://github.com/yeheizkiel)
 <!--END:guestbook-->
+
+## GitHub Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
