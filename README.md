@@ -17,7 +17,10 @@
 
 [![](https://img.shields.io/badge/HTML-277%20commits-orange.svg)](https://sourcerer.io/nattadasu) [![](https://img.shields.io/badge/CSS-33%20commits-orange.svg)](https://sourcerer.io/nattadasu) [![](https://img.shields.io/badge/JavaScript-27%20commits-orange.svg)](https://sourcerer.io/nattadasu) [![](https://img.shields.io/badge/TypeScript-18%20commits-orange.svg)](https://sourcerer.io/nattadasu) <img src="https://komarev.com/ghpvc/?username=nattadasu" alt="nattadasu" />
 
-![](https://gitreadme.vercel.app/api?username=nattadasu&show_icons=true) ![](https://gitreadme.vercel.app/api/top-langs/?username=nattadasu&show_icons=true)
+![](https://githubstats.nattadeploy.my.id/api?username=nattadasu&show_icons=true) ![](https://githubstats.nattadeploy.my.id/api/top-langs/?username=nattadasu&show_icons=true)
+
+### Spotify currently playing
+[![Spotify](https://spotify.nattadeploy.my.id/api/spotify)](https://open.spotify.com/user/nattadasu)
 
 ## Donate
 
@@ -118,34 +121,34 @@ I do a lot of contributions on GitHub and others platform. Here's some of my con
   
 ### Ryuuganime
 
-[![](https://gitreadme.vercel.app/api/pin/?username=ryuuganime&repo=Ryuuganime)](https://github.com/ryuuganime/Ryuuganime) [![](https://gitreadme.vercel.app/api/pin/?username=ryuuganime&repo=ryuuganime-db)](https://github.com/ryuuganime/ryuuganime-db) [![](https://gitreadme.vercel.app/api/pin/?username=ryuuganime&repo=animanga-wordlist)](https://github.com/ryuuganime/animanga-wordlist)
+[![](https://githubstats.nattadeploy.my.id/api/pin/?username=ryuuganime&repo=Ryuuganime)](https://github.com/ryuuganime/Ryuuganime) [![](https://githubstats.nattadeploy.my.id/api/pin/?username=ryuuganime&repo=ryuuganime-db)](https://github.com/ryuuganime/ryuuganime-db) [![](https://githubstats.nattadeploy.my.id/api/pin/?username=ryuuganime&repo=animanga-wordlist)](https://github.com/ryuuganime/animanga-wordlist)
 
 ### List
 
-[![](https://gitreadme.vercel.app/api/pin/?username=otakulogy&repo=anime-streaming&show_owner=true)](https://github.com/otakulogy/anime-streaming)
+[![](https://githubstats.nattadeploy.my.id/api/pin/?username=otakulogy&repo=anime-streaming&show_owner=true)](https://github.com/otakulogy/anime-streaming)
 
 ### Personalization
 
-[![](https://gitreadme.vercel.app/api/pin/?username=nattadasu&repo=mal-blockquote-template)](https://github.com/nattadasu/mal-blockquote-template) [![](https://gitreadme.vercel.app/api/pin/?username=PKief&repo=vscode-material-icon-theme&show_owner=true)](https://github.com/PKief/vscode-material-icon-theme)
+[![](https://githubstats.nattadeploy.my.id/api/pin/?username=nattadasu&repo=mal-blockquote-template)](https://github.com/nattadasu/mal-blockquote-template) [![](https://githubstats.nattadeploy.my.id/api/pin/?username=PKief&repo=vscode-material-icon-theme&show_owner=true)](https://github.com/PKief/vscode-material-icon-theme)
 
 ### Translations
 
 #### Indonesian
 
-[![](https://gitreadme.vercel.app/api/pin/?username=MALSync&repo=MALSync&show_owner=true)](https://github.com/MALSync/MALSync) [![](https://gitreadme.vercel.app/api/pin/?username=NicoAiko&repo=mikazuki&show_owner=true)](https://github.com/NicoAiko/mikazuki) [![](https://gitreadme.vercel.app/api/pin/?username=hummingbird-me&repo=hummingbird-client&show_owner=true)](https://github.com/hummingbird-me/hummingbird-client) [![](https://gitreadme.vercel.app/api/pin/?username=Zenrac&repo=Watora&show_owner=true)](https://github.com/Zenrac/Watora) [![](https://gitreadme.vercel.app/api/pin/?username=ContributorCovenant&repo=contributor_covenant&show_owner=true)](https://github.com/ContributorCovenant/contributor_covenant) [![](https://gitreadme.vercel.app/api/pin/?username=ytmdesktop&repo=ytmdesktop)](https://github.com/ytmdesktop/ytmdesktop)
+[![](https://githubstats.nattadeploy.my.id/api/pin/?username=MALSync&repo=MALSync&show_owner=true)](https://github.com/MALSync/MALSync) [![](https://githubstats.nattadeploy.my.id/api/pin/?username=NicoAiko&repo=mikazuki&show_owner=true)](https://github.com/NicoAiko/mikazuki) [![](https://githubstats.nattadeploy.my.id/api/pin/?username=hummingbird-me&repo=kitsu-web&show_owner=true)](https://github.com/hummingbird-me/hummingbird-client) [![](https://githubstats.nattadeploy.my.id/api/pin/?username=Zenrac&repo=Watora&show_owner=true)](https://github.com/Zenrac/Watora) [![](https://githubstats.nattadeploy.my.id/api/pin/?username=ContributorCovenant&repo=contributor_covenant&show_owner=true)](https://github.com/ContributorCovenant/contributor_covenant) [![](https://githubstats.nattadeploy.my.id/api/pin/?username=ytmdesktop&repo=ytmdesktop)](https://github.com/ytmdesktop/ytmdesktop)
 
 -   [osu!player Plus](https://osu.ppy.sh/community/forums/topics/660418) by [- Founntain -](https://osu.ppy.sh/users/5105217), is a music player application based on osu! beatmap available in the personal computer. Translations to Indonesian.
 
 #### Malay
 
-[![](https://gitreadme.vercel.app/api/pin/?username=MALSync&repo=MALSync&show_owner=true)](https://github.com/MALSync/MALSync) [![](https://gitreadme.vercel.app/api/pin/?username=NicoAiko&repo=mikazuki&show_owner=true)](https://github.com/NicoAiko/mikazuki)
+[![](https://githubstats.nattadeploy.my.id/api/pin/?username=MALSync&repo=MALSync&show_owner=true)](https://github.com/MALSync/MALSync) [![](https://githubstats.nattadeploy.my.id/api/pin/?username=NicoAiko&repo=mikazuki&show_owner=true)](https://github.com/NicoAiko/mikazuki)
 
 #### Arabic
 
-[![](https://gitreadme.vercel.app/api/pin/?username=NicoAiko&repo=mikazuki&show_owner=true)](https://github.com/NicoAiko/mikazuki)
+[![](https://githubstats.nattadeploy.my.id/api/pin/?username=NicoAiko&repo=mikazuki&show_owner=true)](https://github.com/NicoAiko/mikazuki)
 
 ### Beta testing
-[![](https://github-readme-stats.vercel.app/api/pin/?username=PreMiD&repo=Linux&show_owner=true)](https://github.com/PreMiD/Linux)
+[![](https://githubstats.nattadeploy.my.id/api/pin/?username=PreMiD&repo=Linux&show_owner=true)](https://github.com/PreMiD/Linux)
 
 </details>
 
