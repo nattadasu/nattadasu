@@ -148,9 +148,6 @@ Saya melakukan banyak kontribusi pada platform GitHub dan lainnya. Inilah bebera
 Coba tandatangani ke buku tamu saya di [nattadasu/nattadasu#1](https://github.com/nattadasu/nattadasu/issues/1) (ﾉ◕ヮ◕)ﾉ\*:･ﾟ✧
 
 <!--START:guestbook-->
-> Teeestt 👋 
-> -[@nattadasu](https://github.com/nattadasu)
-
 > Tutturu~  here is my sign.. :smiley_cat: 
 > -[@yeheizkiel](https://github.com/yeheizkiel)
 <!--END:guestbook-->
