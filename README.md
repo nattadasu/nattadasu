@@ -170,8 +170,8 @@ Try to sign on my guestbook at [nattadasu/nattadasu#1](https://github.com/nattad
 ## GitHub Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#17](https://github.com//ryuuganime/Ryuuganime/issues/17) in [ryuuganime/Ryuuganime](https://github.com//ryuuganime/Ryuuganime)
-2. 🎉 Merged PR [#17](https://github.com//ryuuganime/Ryuuganime/pull/17) in [ryuuganime/Ryuuganime](https://github.com//ryuuganime/Ryuuganime)
-3. 💪 Opened PR [#17](https://github.com//ryuuganime/Ryuuganime/pull/17) in [ryuuganime/Ryuuganime](https://github.com//ryuuganime/Ryuuganime)
-4. 💪 Opened PR [#201](https://github.com//NicoAiko/mikazuki/pull/201) in [NicoAiko/mikazuki](https://github.com//NicoAiko/mikazuki)
-5. ❗️ Opened issue [#200](https://github.com//NicoAiko/mikazuki/issues/200) in [NicoAiko/mikazuki](https://github.com//NicoAiko/mikazuki)
+2. 🗣 Commented on [#17](https://github.com//ryuuganime/Ryuuganime/issues/17) in [ryuuganime/Ryuuganime](https://github.com//ryuuganime/Ryuuganime)
+3. 🎉 Merged PR [#17](https://github.com//ryuuganime/Ryuuganime/pull/17) in [ryuuganime/Ryuuganime](https://github.com//ryuuganime/Ryuuganime)
+4. 💪 Opened PR [#17](https://github.com//ryuuganime/Ryuuganime/pull/17) in [ryuuganime/Ryuuganime](https://github.com//ryuuganime/Ryuuganime)
+5. 💪 Opened PR [#201](https://github.com//NicoAiko/mikazuki/pull/201) in [NicoAiko/mikazuki](https://github.com//NicoAiko/mikazuki)
 <!--END_SECTION:activity-->
