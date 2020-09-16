@@ -32,7 +32,7 @@ Doesn't work? Open Context menu on save button with clicking right button on you
 The result? Here:\
 ![optimized](042020-AmaneYugi/ezgif.gif)\
 Comparison? here lol\
-![optimized](042020-AmaneYugi/ezgif.gif)![yugi](042020-AmaneYugi/PhotoScape.gif)
+<table><tr><td><img src="042020-AmaneYugi/ezgif.gif" /><br><span style="text-align: center;">Optimized</span></td><td><img src="042020-AmaneYugi/PhotoScape.gif" /><br><span style="text-align: center;">Original</span></td></tr></table>
 
 As you can see here, the optimized version is having a lot of noise compared by "original" one... ~~but welp, I don't judge about that lmao~~.
 
