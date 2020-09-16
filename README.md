@@ -169,9 +169,9 @@ Try to sign on my guestbook at [nattadasu/nattadasu#1](https://github.com/nattad
 
 ## GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com//nattadasu/novatorem/pull/1) in [nattadasu/novatorem](https://github.com//nattadasu/novatorem)
-2. 💪 Opened PR [#1](https://github.com//nattadasu/novatorem/pull/1) in [nattadasu/novatorem](https://github.com//nattadasu/novatorem)
-3. 🎉 Merged PR [#17](https://github.com//ryuuganime/ryuuganime-db/pull/17) in [ryuuganime/ryuuganime-db](https://github.com//ryuuganime/ryuuganime-db)
-4. 💪 Opened PR [#17](https://github.com//ryuuganime/ryuuganime-db/pull/17) in [ryuuganime/ryuuganime-db](https://github.com//ryuuganime/ryuuganime-db)
-5. 🗣 Commented on [#17](https://github.com//ryuuganime/Ryuuganime/issues/17) in [ryuuganime/Ryuuganime](https://github.com//ryuuganime/Ryuuganime)
+1. 💪 Opened PR [#18](https://github.com//ryuuganime/ryuuganime-db/pull/18) in [ryuuganime/ryuuganime-db](https://github.com//ryuuganime/ryuuganime-db)
+2. 🎉 Merged PR [#1](https://github.com//nattadasu/novatorem/pull/1) in [nattadasu/novatorem](https://github.com//nattadasu/novatorem)
+3. 💪 Opened PR [#1](https://github.com//nattadasu/novatorem/pull/1) in [nattadasu/novatorem](https://github.com//nattadasu/novatorem)
+4. 🎉 Merged PR [#17](https://github.com//ryuuganime/ryuuganime-db/pull/17) in [ryuuganime/ryuuganime-db](https://github.com//ryuuganime/ryuuganime-db)
+5. 💪 Opened PR [#17](https://github.com//ryuuganime/ryuuganime-db/pull/17) in [ryuuganime/ryuuganime-db](https://github.com//ryuuganime/ryuuganime-db)
 <!--END_SECTION:activity-->
