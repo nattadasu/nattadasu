@@ -169,9 +169,9 @@ Try to sign on my guestbook at [nattadasu/nattadasu#1](https://github.com/nattad
 
 ## GitHub Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#210](https://github.com/NicoAiko/mikazuki/pull/210) in [NicoAiko/mikazuki](https://github.com/NicoAiko/mikazuki)
-2. 🎉 Merged PR [#18](https://github.com/ryuuganime/ryuuganime-db/pull/18) in [ryuuganime/ryuuganime-db](https://github.com/ryuuganime/ryuuganime-db)
-3. 💪 Opened PR [#18](https://github.com/ryuuganime/ryuuganime-db/pull/18) in [ryuuganime/ryuuganime-db](https://github.com/ryuuganime/ryuuganime-db)
-4. 🎉 Merged PR [#1](https://github.com/nattadasu/novatorem/pull/1) in [nattadasu/novatorem](https://github.com/nattadasu/novatorem)
-5. 💪 Opened PR [#1](https://github.com/nattadasu/novatorem/pull/1) in [nattadasu/novatorem](https://github.com/nattadasu/novatorem)
+1. 🎉 Merged PR [#19](https://github.com/ryuuganime/ryuuganime-db/pull/19) in [ryuuganime/ryuuganime-db](https://github.com/ryuuganime/ryuuganime-db)
+2. 💪 Opened PR [#19](https://github.com/ryuuganime/ryuuganime-db/pull/19) in [ryuuganime/ryuuganime-db](https://github.com/ryuuganime/ryuuganime-db)
+3. 💪 Opened PR [#210](https://github.com/NicoAiko/mikazuki/pull/210) in [NicoAiko/mikazuki](https://github.com/NicoAiko/mikazuki)
+4. 🎉 Merged PR [#18](https://github.com/ryuuganime/ryuuganime-db/pull/18) in [ryuuganime/ryuuganime-db](https://github.com/ryuuganime/ryuuganime-db)
+5. 💪 Opened PR [#18](https://github.com/ryuuganime/ryuuganime-db/pull/18) in [ryuuganime/ryuuganime-db](https://github.com/ryuuganime/ryuuganime-db)
 <!--END_SECTION:activity-->
