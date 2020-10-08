@@ -8,7 +8,7 @@
 
   I am Sultan Iskandar Maulana (a.k.a Natsu Tadama), and I am "he/him." 19 years old, and also Islamic Communication and Broadcasting student in Ar-Raniry Islamic State University, Banda Aceh, Indonesia. Came from Indonesia, so if you notice I spoke so weirdly (like this sentence lol), please forgive me and correct my spelling :')
 
-  I can speak in more than 5 languages: Acehnese, Indonesian, Malay, English, Arabic, and Japanese... With some plot twists, I can read the Cyrillic alphabet and Hangul. I love learning foreign languages, especially Japanese; video editing, watching anime (sometimes, donghua) and western cartoon, and creating internet sites using HTML. Now I have an open source project regarding database of information on animation shows from various countries and sites, called [Ryuuganime](https://github.com/ryuuganime). ~~Oh, Fun fact: I am also Fudanshi, hehehe.~~
+  I can speak in more than 5 languages: Acehnese, Indonesian, Malay, English, Arabic, and Japanese... With some plot twists, I can read the Cyrillic alphabet and Hangul. I love learning foreign languages, especially Japanese; video editing, watching anime (sometimes, donghua) and western cartoon, and creating internet sites using HTML. Now I have an open source project regarding database of information on animation shows from various countries and sites, called [Ryuuganime](https://github.com/ryuuganime).
 
   Btw, I do have a ton of pseudonyms aside from my legal name thou, and its related to Japanese names; Natsu TADAMA, Alex TOMATSU, Nikolay Tolenka, Ryuusei NEKONE, and Ryuusei RYUUZAKI.
 
@@ -17,10 +17,13 @@
 
 [![](https://img.shields.io/badge/HTML-277%20commits-orange.svg)](https://sourcerer.io/nattadasu) [![](https://img.shields.io/badge/CSS-33%20commits-orange.svg)](https://sourcerer.io/nattadasu) [![](https://img.shields.io/badge/JavaScript-27%20commits-orange.svg)](https://sourcerer.io/nattadasu) [![](https://img.shields.io/badge/TypeScript-18%20commits-orange.svg)](https://sourcerer.io/nattadasu) <img src="https://komarev.com/ghpvc/?username=nattadasu" alt="nattadasu" />
 
-![](https://githubstats.nattadeploy.my.id/api?username=nattadasu&show_icons=true) ![](https://githubstats.nattadeploy.my.id/api/top-langs/?username=nattadasu&show_icons=true)
+![](https://githubstats.nattadeploy.my.id/api?username=nattadasu&show_icons=true) ![](https://githubstats.nattadeploy.my.id/api/top-langs/?username=nattadasu&layout=compact&langs_count=8) [![](https://raw.githubusercontent.com/nattadasu/github-stats/master/generated/languages.svg)](https://github.com/jstrieb/github-stats)
 
 ### Spotify currently playing
 [![Spotify](https://spotify.nattadeploy.my.id/api/spotify)](https://open.spotify.com/user/nattadasu)
+
+### Last&period;FM recently played
+[![My Last.fm](https://lastfm.nattadeploy.my.id/api?user=nattadasu)](https://www.last.fm/user/nattadasu)
 
 ## Donate
 

@@ -7,7 +7,7 @@
 
   Saya Sultan Iskandar Maulana (alias Natsu Tadama), dan saya *cowo*. Berusia 19 tahun, dan juga seorang mahasiswa di prodi Komunikasi dan Penyiaran Islam di Universitas Islam Negeri Ar-Raniry, Banda Aceh, Indonesia.
 
-  Saya dapat berbicara dalam lebih dari 5 bahasa: Aceh, Indonesia, Melayu, Inggris, Arab, dan Jepang... Dengan *plot twist*, saya dapat membaca alfabet Sirilik dan Hangul. Saya suka belajar bahasa asing, terutama bahasa Jepang; mengedit video, menonton anime (terkadang donghua) dan kartun barat, dan membuat situs internet menggunakan bahasa markah HTML. Sekarang saya memiliki proyek sumber terbuka mengenai basis data informasi tentang penayangan animasi dari berbagai negara dan situs, yakni [Ryuuganime](https://github.com/ryuuganime). ~~Oh, *fun fact*: saya juga seorang fudanshi.~~
+  Saya dapat berbicara dalam lebih dari 5 bahasa: Aceh, Indonesia, Melayu, Inggris, Arab, dan Jepang... Dengan *plot twist*, saya dapat membaca alfabet Sirilik dan Hangul. Saya suka belajar bahasa asing, terutama bahasa Jepang; mengedit video, menonton anime (terkadang donghua) dan kartun barat, dan membuat situs internet menggunakan bahasa markah HTML. Sekarang saya memiliki proyek sumber terbuka mengenai basis data informasi tentang penayangan animasi dari berbagai negara dan situs, yakni [Ryuuganime](https://github.com/ryuuganime).
 
   Btw, saya punya banyak nama samaran selain dari nama asli saya; Natsu TADAMA, Alex TOMATSU, Nikolay Tolenka, Ryuusei NEKONE, dan Ryuusei RYUUZAKI.
 
@@ -15,10 +15,13 @@
 
 [![](https://img.shields.io/badge/HTML-277%20commits-orange.svg)](https://sourcerer.io/nattadasu) [![](https://img.shields.io/badge/CSS-33%20commits-orange.svg)](https://sourcerer.io/nattadasu) [![](https://img.shields.io/badge/JavaScript-27%20commits-orange.svg)](https://sourcerer.io/nattadasu) [![](https://img.shields.io/badge/TypeScript-18%20commits-orange.svg)](https://sourcerer.io/nattadasu) <img src="https://komarev.com/ghpvc/?username=nattadasu" alt="nattadasu" />
 
-![](https://githubstats.nattadeploy.my.id/api?username=nattadasu&show_icons=true) ![](https://githubstats.nattadeploy.my.id/api/top-langs/?username=nattadasu&show_icons=true)
+![](https://githubstats.nattadeploy.my.id/api?username=nattadasu&show_icons=true) ![](https://githubstats.nattadeploy.my.id/api/top-langs/?username=nattadasu&layout=compact) ![](https://raw.githubusercontent.com/) [![](https://raw.githubusercontent.com/nattadasu/github-stats/master/generated/languages.svg)](https://github.com/jstrieb/github-stats)
 
 ### Spotify: sedang diputar
 [![Spotify](https://spotify.nattadeploy.my.id/api/spotify)](https://open.spotify.com/user/nattadasu)
+
+### Last&period;FM: baru diputar
+[![My Last.fm](https://lastfm.nattadeploy.my.id/api?user=nattadasu)](https://www.last.fm/user/nattadasu)
 
 ## Donasi
 > *Hai.*
