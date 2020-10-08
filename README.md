@@ -172,9 +172,9 @@ Try to sign on my guestbook at [nattadasu/nattadasu#1](https://github.com/nattad
 
 ## GitHub Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/nattadasu/cardscollection/issues/1) in [nattadasu/cardscollection](https://github.com/nattadasu/cardscollection)
-2. ❗️ Opened issue [#1](https://github.com/nattadasu/cardscollection/issues/1) in [nattadasu/cardscollection](https://github.com/nattadasu/cardscollection)
-3. 🎉 Merged PR [#1](https://github.com/nattadasu/github-stats/pull/1) in [nattadasu/github-stats](https://github.com/nattadasu/github-stats)
-4. 💪 Opened PR [#1](https://github.com/nattadasu/github-stats/pull/1) in [nattadasu/github-stats](https://github.com/nattadasu/github-stats)
-5. 🎉 Merged PR [#19](https://github.com/ryuuganime/ryuuganime-db/pull/19) in [ryuuganime/ryuuganime-db](https://github.com/ryuuganime/ryuuganime-db)
+1. ❗️ Opened issue [#2](https://github.com/nattadasu/cardscollection/issues/2) in [nattadasu/cardscollection](https://github.com/nattadasu/cardscollection)
+2. ❗️ Closed issue [#1](https://github.com/nattadasu/cardscollection/issues/1) in [nattadasu/cardscollection](https://github.com/nattadasu/cardscollection)
+3. ❗️ Opened issue [#1](https://github.com/nattadasu/cardscollection/issues/1) in [nattadasu/cardscollection](https://github.com/nattadasu/cardscollection)
+4. 🎉 Merged PR [#1](https://github.com/nattadasu/github-stats/pull/1) in [nattadasu/github-stats](https://github.com/nattadasu/github-stats)
+5. 💪 Opened PR [#1](https://github.com/nattadasu/github-stats/pull/1) in [nattadasu/github-stats](https://github.com/nattadasu/github-stats)
 <!--END_SECTION:activity-->
