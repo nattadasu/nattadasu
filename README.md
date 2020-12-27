@@ -172,9 +172,9 @@ Try to sign on my guestbook at [nattadasu/nattadasu#1](https://github.com/nattad
 
 ## GitHub Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#214](https://github.com/NicoAiko/mikazuki/issues/214) in [NicoAiko/mikazuki](https://github.com/NicoAiko/mikazuki)
-2. 🗣 Commented on [#214](https://github.com/NicoAiko/mikazuki/issues/214) in [NicoAiko/mikazuki](https://github.com/NicoAiko/mikazuki)
-3. 🗣 Commented on [#218](https://github.com/NicoAiko/mikazuki/issues/218) in [NicoAiko/mikazuki](https://github.com/NicoAiko/mikazuki)
-4. ❗️ Opened issue [#214](https://github.com/NicoAiko/mikazuki/issues/214) in [NicoAiko/mikazuki](https://github.com/NicoAiko/mikazuki)
-5. 🗣 Commented on [#4206](https://github.com/kelseyhightower/nocode/issues/4206) in [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode)
+1. 💪 Opened PR [#543](https://github.com/MALSync/MALSync/pull/543) in [MALSync/MALSync](https://github.com/MALSync/MALSync)
+2. ❗️ Closed issue [#214](https://github.com/NicoAiko/mikazuki/issues/214) in [NicoAiko/mikazuki](https://github.com/NicoAiko/mikazuki)
+3. 🗣 Commented on [#214](https://github.com/NicoAiko/mikazuki/issues/214) in [NicoAiko/mikazuki](https://github.com/NicoAiko/mikazuki)
+4. 🗣 Commented on [#218](https://github.com/NicoAiko/mikazuki/issues/218) in [NicoAiko/mikazuki](https://github.com/NicoAiko/mikazuki)
+5. ❗️ Opened issue [#214](https://github.com/NicoAiko/mikazuki/issues/214) in [NicoAiko/mikazuki](https://github.com/NicoAiko/mikazuki)
 <!--END_SECTION:activity-->
