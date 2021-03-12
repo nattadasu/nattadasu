@@ -172,9 +172,9 @@ Try to sign on my guestbook at [nattadasu/nattadasu#1](https://github.com/nattad
 
 ## GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/nattadasu/github-stats/pull/2) in [nattadasu/github-stats](https://github.com/nattadasu/github-stats)
-2. 💪 Opened PR [#2](https://github.com/nattadasu/github-stats/pull/2) in [nattadasu/github-stats](https://github.com/nattadasu/github-stats)
-3. ❗️ Opened issue [#1](https://github.com/nattadasu/tncGfx-Encyclopedia/issues/1) in [nattadasu/tncGfx-Encyclopedia](https://github.com/nattadasu/tncGfx-Encyclopedia)
-4. ❗️ Opened issue [#14](https://github.com/Founntain/osuplayer-issues/issues/14) in [Founntain/osuplayer-issues](https://github.com/Founntain/osuplayer-issues)
-5. 💪 Opened PR [#543](https://github.com/MALSync/MALSync/pull/543) in [MALSync/MALSync](https://github.com/MALSync/MALSync)
+1. 🗣 Commented on [#314](https://github.com/bebasid/bebasid/issues/314) in [bebasid/bebasid](https://github.com/bebasid/bebasid)
+2. ❗️ Opened issue [#314](https://github.com/bebasid/bebasid/issues/314) in [bebasid/bebasid](https://github.com/bebasid/bebasid)
+3. 🎉 Merged PR [#2](https://github.com/nattadasu/github-stats/pull/2) in [nattadasu/github-stats](https://github.com/nattadasu/github-stats)
+4. 💪 Opened PR [#2](https://github.com/nattadasu/github-stats/pull/2) in [nattadasu/github-stats](https://github.com/nattadasu/github-stats)
+5. ❗️ Opened issue [#1](https://github.com/nattadasu/tncGfx-Encyclopedia/issues/1) in [nattadasu/tncGfx-Encyclopedia](https://github.com/nattadasu/tncGfx-Encyclopedia)
 <!--END_SECTION:activity-->
