@@ -173,8 +173,8 @@ Try to sign on my guestbook at [nattadasu/nattadasu#1](https://github.com/nattad
 ## GitHub Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#16](https://github.com/Founntain/osuplayer-issues/issues/16) in [Founntain/osuplayer-issues](https://github.com/Founntain/osuplayer-issues)
-2. ❗️ Opened issue [#16](https://github.com/Founntain/osuplayer-issues/issues/16) in [Founntain/osuplayer-issues](https://github.com/Founntain/osuplayer-issues)
-3. 💪 Opened PR [#2522](https://github.com/rms-support-letter/rms-support-letter.github.io/pull/2522) in [rms-support-letter/rms-support-letter.github.io](https://github.com/rms-support-letter/rms-support-letter.github.io)
-4. 🗣 Commented on [#314](https://github.com/bebasid/bebasid/issues/314) in [bebasid/bebasid](https://github.com/bebasid/bebasid)
-5. ❗️ Opened issue [#314](https://github.com/bebasid/bebasid/issues/314) in [bebasid/bebasid](https://github.com/bebasid/bebasid)
+2. ❗️ Opened issue [#17](https://github.com/Founntain/osuplayer-issues/issues/17) in [Founntain/osuplayer-issues](https://github.com/Founntain/osuplayer-issues)
+3. 🗣 Commented on [#16](https://github.com/Founntain/osuplayer-issues/issues/16) in [Founntain/osuplayer-issues](https://github.com/Founntain/osuplayer-issues)
+4. ❗️ Opened issue [#16](https://github.com/Founntain/osuplayer-issues/issues/16) in [Founntain/osuplayer-issues](https://github.com/Founntain/osuplayer-issues)
+5. 💪 Opened PR [#2522](https://github.com/rms-support-letter/rms-support-letter.github.io/pull/2522) in [rms-support-letter/rms-support-letter.github.io](https://github.com/rms-support-letter/rms-support-letter.github.io)
 <!--END_SECTION:activity-->
