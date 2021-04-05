@@ -172,9 +172,9 @@ Try to sign on my guestbook at [nattadasu/nattadasu#1](https://github.com/nattad
 
 ## GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#16](https://github.com/Founntain/osuplayer-issues/issues/16) in [Founntain/osuplayer-issues](https://github.com/Founntain/osuplayer-issues)
-2. ❗️ Opened issue [#17](https://github.com/Founntain/osuplayer-issues/issues/17) in [Founntain/osuplayer-issues](https://github.com/Founntain/osuplayer-issues)
+1. 🎉 Merged PR [#1](https://github.com/ryuuganime/mediaKit/pull/1) in [ryuuganime/mediaKit](https://github.com/ryuuganime/mediaKit)
+2. 💪 Opened PR [#1](https://github.com/ryuuganime/mediaKit/pull/1) in [ryuuganime/mediaKit](https://github.com/ryuuganime/mediaKit)
 3. 🗣 Commented on [#16](https://github.com/Founntain/osuplayer-issues/issues/16) in [Founntain/osuplayer-issues](https://github.com/Founntain/osuplayer-issues)
-4. ❗️ Opened issue [#16](https://github.com/Founntain/osuplayer-issues/issues/16) in [Founntain/osuplayer-issues](https://github.com/Founntain/osuplayer-issues)
-5. 💪 Opened PR [#2522](https://github.com/rms-support-letter/rms-support-letter.github.io/pull/2522) in [rms-support-letter/rms-support-letter.github.io](https://github.com/rms-support-letter/rms-support-letter.github.io)
+4. ❗️ Opened issue [#17](https://github.com/Founntain/osuplayer-issues/issues/17) in [Founntain/osuplayer-issues](https://github.com/Founntain/osuplayer-issues)
+5. 🗣 Commented on [#16](https://github.com/Founntain/osuplayer-issues/issues/16) in [Founntain/osuplayer-issues](https://github.com/Founntain/osuplayer-issues)
 <!--END_SECTION:activity-->
