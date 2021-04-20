@@ -172,9 +172,9 @@ Try to sign on my guestbook at [nattadasu/nattadasu#1](https://github.com/nattad
 
 ## GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/ryuuganime/mediaKit/pull/1) in [ryuuganime/mediaKit](https://github.com/ryuuganime/mediaKit)
-2. 💪 Opened PR [#1](https://github.com/ryuuganime/mediaKit/pull/1) in [ryuuganime/mediaKit](https://github.com/ryuuganime/mediaKit)
-3. 🗣 Commented on [#16](https://github.com/Founntain/osuplayer-issues/issues/16) in [Founntain/osuplayer-issues](https://github.com/Founntain/osuplayer-issues)
-4. ❗️ Opened issue [#17](https://github.com/Founntain/osuplayer-issues/issues/17) in [Founntain/osuplayer-issues](https://github.com/Founntain/osuplayer-issues)
-5. 🗣 Commented on [#16](https://github.com/Founntain/osuplayer-issues/issues/16) in [Founntain/osuplayer-issues](https://github.com/Founntain/osuplayer-issues)
+1. 💪 Opened PR [#194](https://github.com/Discord-Custom-Covers/usrbg/pull/194) in [Discord-Custom-Covers/usrbg](https://github.com/Discord-Custom-Covers/usrbg)
+2. 🎉 Merged PR [#1](https://github.com/ryuuganime/mediaKit/pull/1) in [ryuuganime/mediaKit](https://github.com/ryuuganime/mediaKit)
+3. 💪 Opened PR [#1](https://github.com/ryuuganime/mediaKit/pull/1) in [ryuuganime/mediaKit](https://github.com/ryuuganime/mediaKit)
+4. 🗣 Commented on [#16](https://github.com/Founntain/osuplayer-issues/issues/16) in [Founntain/osuplayer-issues](https://github.com/Founntain/osuplayer-issues)
+5. ❗️ Opened issue [#17](https://github.com/Founntain/osuplayer-issues/issues/17) in [Founntain/osuplayer-issues](https://github.com/Founntain/osuplayer-issues)
 <!--END_SECTION:activity-->
