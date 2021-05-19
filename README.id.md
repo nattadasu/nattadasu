@@ -152,7 +152,7 @@ Coba tandatangani ke buku tamu saya di [nattadasu/nattadasu#1](https://github.co
 
 <!--START:guestbook-->
 > Tutturu~  here is my sign.. :smiley_cat: 
-> -[@yeheizkielgb](https://github.com/yeheizkielgb)
+> -[@yezki](https://github.com/yezki)
 <!--END:guestbook-->
 
 ## Aktivitas GitHub
