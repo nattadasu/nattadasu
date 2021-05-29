@@ -172,9 +172,9 @@ Try to sign on my guestbook at [nattadasu/nattadasu#1](https://github.com/nattad
 
 ## GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/nattadasu/tncGfx-Encyclopedia/pull/2) in [nattadasu/tncGfx-Encyclopedia](https://github.com/nattadasu/tncGfx-Encyclopedia)
-2. 🎉 Merged PR [#1](https://github.com/nattadasu/mal-blockquote-template/pull/1) in [nattadasu/mal-blockquote-template](https://github.com/nattadasu/mal-blockquote-template)
-3. ❌ Closed PR [#1](https://github.com/nattadasu/mushozoku/pull/1) in [nattadasu/mushozoku](https://github.com/nattadasu/mushozoku)
-4. 🎉 Merged PR [#3](https://github.com/nattadasu/cardscollection/pull/3) in [nattadasu/cardscollection](https://github.com/nattadasu/cardscollection)
-5. 🗣 Commented on [#194](https://github.com/Discord-Custom-Covers/usrbg/issues/194) in [Discord-Custom-Covers/usrbg](https://github.com/Discord-Custom-Covers/usrbg)
+1. 🎉 Merged PR [#3](https://github.com/nattadasu/tncGfx-Encyclopedia/pull/3) in [nattadasu/tncGfx-Encyclopedia](https://github.com/nattadasu/tncGfx-Encyclopedia)
+2. 🎉 Merged PR [#2](https://github.com/nattadasu/tncGfx-Encyclopedia/pull/2) in [nattadasu/tncGfx-Encyclopedia](https://github.com/nattadasu/tncGfx-Encyclopedia)
+3. 🎉 Merged PR [#1](https://github.com/nattadasu/mal-blockquote-template/pull/1) in [nattadasu/mal-blockquote-template](https://github.com/nattadasu/mal-blockquote-template)
+4. ❌ Closed PR [#1](https://github.com/nattadasu/mushozoku/pull/1) in [nattadasu/mushozoku](https://github.com/nattadasu/mushozoku)
+5. 🎉 Merged PR [#3](https://github.com/nattadasu/cardscollection/pull/3) in [nattadasu/cardscollection](https://github.com/nattadasu/cardscollection)
 <!--END_SECTION:activity-->
