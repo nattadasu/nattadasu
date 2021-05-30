@@ -172,9 +172,9 @@ Try to sign on my guestbook at [nattadasu/nattadasu#1](https://github.com/nattad
 
 ## GitHub Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#4](https://github.com/nattadasu/tncGfx-Encyclopedia/issues/4) in [nattadasu/tncGfx-Encyclopedia](https://github.com/nattadasu/tncGfx-Encyclopedia)
-2. ❗️ Closed issue [#5](https://github.com/nattadasu/tncGfx-Encyclopedia/issues/5) in [nattadasu/tncGfx-Encyclopedia](https://github.com/nattadasu/tncGfx-Encyclopedia)
-3. ❗️ Closed issue [#7](https://github.com/nattadasu/tncGfx-Encyclopedia/issues/7) in [nattadasu/tncGfx-Encyclopedia](https://github.com/nattadasu/tncGfx-Encyclopedia)
-4. ❗️ Closed issue [#6](https://github.com/nattadasu/tncGfx-Encyclopedia/issues/6) in [nattadasu/tncGfx-Encyclopedia](https://github.com/nattadasu/tncGfx-Encyclopedia)
-5. 🎉 Merged PR [#3](https://github.com/nattadasu/tncGfx-Encyclopedia/pull/3) in [nattadasu/tncGfx-Encyclopedia](https://github.com/nattadasu/tncGfx-Encyclopedia)
+1. 🎉 Merged PR [#11](https://github.com/nattadasu/tncGfx-Encyclopedia/pull/11) in [nattadasu/tncGfx-Encyclopedia](https://github.com/nattadasu/tncGfx-Encyclopedia)
+2. 💪 Opened PR [#11](https://github.com/nattadasu/tncGfx-Encyclopedia/pull/11) in [nattadasu/tncGfx-Encyclopedia](https://github.com/nattadasu/tncGfx-Encyclopedia)
+3. ❗️ Closed issue [#4](https://github.com/nattadasu/tncGfx-Encyclopedia/issues/4) in [nattadasu/tncGfx-Encyclopedia](https://github.com/nattadasu/tncGfx-Encyclopedia)
+4. ❗️ Closed issue [#5](https://github.com/nattadasu/tncGfx-Encyclopedia/issues/5) in [nattadasu/tncGfx-Encyclopedia](https://github.com/nattadasu/tncGfx-Encyclopedia)
+5. ❗️ Closed issue [#7](https://github.com/nattadasu/tncGfx-Encyclopedia/issues/7) in [nattadasu/tncGfx-Encyclopedia](https://github.com/nattadasu/tncGfx-Encyclopedia)
 <!--END_SECTION:activity-->
