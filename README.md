@@ -172,9 +172,9 @@ Try to sign on my guestbook at [nattadasu/nattadasu#1](https://github.com/nattad
 
 ## GitHub Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#116](https://github.com/Discord-Theme-Addons/name-badges/pull/116) in [Discord-Theme-Addons/name-badges](https://github.com/Discord-Theme-Addons/name-badges)
-2. 🎉 Merged PR [#14](https://github.com/nattadasu/tncGfx-Encyclopedia/pull/14) in [nattadasu/tncGfx-Encyclopedia](https://github.com/nattadasu/tncGfx-Encyclopedia)
-3. 💪 Opened PR [#14](https://github.com/nattadasu/tncGfx-Encyclopedia/pull/14) in [nattadasu/tncGfx-Encyclopedia](https://github.com/nattadasu/tncGfx-Encyclopedia)
-4. 🎉 Merged PR [#13](https://github.com/nattadasu/tncGfx-Encyclopedia/pull/13) in [nattadasu/tncGfx-Encyclopedia](https://github.com/nattadasu/tncGfx-Encyclopedia)
-5. ❗️ Closed issue [#10](https://github.com/nattadasu/tncGfx-Encyclopedia/issues/10) in [nattadasu/tncGfx-Encyclopedia](https://github.com/nattadasu/tncGfx-Encyclopedia)
+1. 🗣 Commented on [#764](https://github.com/PKief/vscode-material-icon-theme/issues/764) in [PKief/vscode-material-icon-theme](https://github.com/PKief/vscode-material-icon-theme)
+2. 💪 Opened PR [#116](https://github.com/Discord-Theme-Addons/name-badges/pull/116) in [Discord-Theme-Addons/name-badges](https://github.com/Discord-Theme-Addons/name-badges)
+3. 🎉 Merged PR [#14](https://github.com/nattadasu/tncGfx-Encyclopedia/pull/14) in [nattadasu/tncGfx-Encyclopedia](https://github.com/nattadasu/tncGfx-Encyclopedia)
+4. 💪 Opened PR [#14](https://github.com/nattadasu/tncGfx-Encyclopedia/pull/14) in [nattadasu/tncGfx-Encyclopedia](https://github.com/nattadasu/tncGfx-Encyclopedia)
+5. 🎉 Merged PR [#13](https://github.com/nattadasu/tncGfx-Encyclopedia/pull/13) in [nattadasu/tncGfx-Encyclopedia](https://github.com/nattadasu/tncGfx-Encyclopedia)
 <!--END_SECTION:activity-->
