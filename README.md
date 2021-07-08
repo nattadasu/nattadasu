@@ -172,9 +172,9 @@ Try to sign on my guestbook at [nattadasu/nattadasu#1](https://github.com/nattad
 
 ## GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#16](https://github.com/nattadasu/tncGfx-Encyclopedia/pull/16) in [nattadasu/tncGfx-Encyclopedia](https://github.com/nattadasu/tncGfx-Encyclopedia)
-2. 🎉 Merged PR [#15](https://github.com/nattadasu/tncGfx-Encyclopedia/pull/15) in [nattadasu/tncGfx-Encyclopedia](https://github.com/nattadasu/tncGfx-Encyclopedia)
-3. 🗣 Commented on [#764](https://github.com/PKief/vscode-material-icon-theme/issues/764) in [PKief/vscode-material-icon-theme](https://github.com/PKief/vscode-material-icon-theme)
-4. 💪 Opened PR [#116](https://github.com/Discord-Theme-Addons/name-badges/pull/116) in [Discord-Theme-Addons/name-badges](https://github.com/Discord-Theme-Addons/name-badges)
-5. 🎉 Merged PR [#14](https://github.com/nattadasu/tncGfx-Encyclopedia/pull/14) in [nattadasu/tncGfx-Encyclopedia](https://github.com/nattadasu/tncGfx-Encyclopedia)
+1. ❗️ Closed issue [#20](https://github.com/nattadasu/tncGfx-Encyclopedia/issues/20) in [nattadasu/tncGfx-Encyclopedia](https://github.com/nattadasu/tncGfx-Encyclopedia)
+2. ❗️ Closed issue [#19](https://github.com/nattadasu/tncGfx-Encyclopedia/issues/19) in [nattadasu/tncGfx-Encyclopedia](https://github.com/nattadasu/tncGfx-Encyclopedia)
+3. ❗️ Closed issue [#18](https://github.com/nattadasu/tncGfx-Encyclopedia/issues/18) in [nattadasu/tncGfx-Encyclopedia](https://github.com/nattadasu/tncGfx-Encyclopedia)
+4. ❗️ Closed issue [#17](https://github.com/nattadasu/tncGfx-Encyclopedia/issues/17) in [nattadasu/tncGfx-Encyclopedia](https://github.com/nattadasu/tncGfx-Encyclopedia)
+5. 🎉 Merged PR [#16](https://github.com/nattadasu/tncGfx-Encyclopedia/pull/16) in [nattadasu/tncGfx-Encyclopedia](https://github.com/nattadasu/tncGfx-Encyclopedia)
 <!--END_SECTION:activity-->
