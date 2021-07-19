@@ -153,6 +153,9 @@ Coba tandatangani ke buku tamu saya di [nattadasu/nattadasu#1](https://github.co
 <!--START:guestbook-->
 > Tutturu~  here is my sign.. :smiley_cat: 
 > -[@yezki](https://github.com/yezki)
+
+> Signed by barbarbar338 :D
+> -[@barbarbar338](https://github.com/barbarbar338)
 <!--END:guestbook-->
 
 ## Aktivitas GitHub
