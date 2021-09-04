@@ -175,9 +175,9 @@ Try to sign on my guestbook at [nattadasu/nattadasu#1](https://github.com/nattad
 
 ## GitHub Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#18](https://github.com/TaiAurori/custom-timestamps/issues/18) in [TaiAurori/custom-timestamps](https://github.com/TaiAurori/custom-timestamps)
-2. ❗️ Opened issue [#388](https://github.com/bebasid/bebasid/issues/388) in [bebasid/bebasid](https://github.com/bebasid/bebasid)
-3. 🗣 Commented on [#157](https://github.com/Aliucord/plugin-requests/issues/157) in [Aliucord/plugin-requests](https://github.com/Aliucord/plugin-requests)
-4. ❗️ Opened issue [#156](https://github.com/Aliucord/plugin-requests/issues/156) in [Aliucord/plugin-requests](https://github.com/Aliucord/plugin-requests)
-5. ❗️ Closed issue [#23](https://github.com/theNewbieClub-MAL/gfxEncyclopedia/issues/23) in [theNewbieClub-MAL/gfxEncyclopedia](https://github.com/theNewbieClub-MAL/gfxEncyclopedia)
+1. 🗣 Commented on [#388](https://github.com/bebasid/bebasid/issues/388) in [bebasid/bebasid](https://github.com/bebasid/bebasid)
+2. ❗️ Opened issue [#18](https://github.com/TaiAurori/custom-timestamps/issues/18) in [TaiAurori/custom-timestamps](https://github.com/TaiAurori/custom-timestamps)
+3. ❗️ Opened issue [#388](https://github.com/bebasid/bebasid/issues/388) in [bebasid/bebasid](https://github.com/bebasid/bebasid)
+4. 🗣 Commented on [#157](https://github.com/Aliucord/plugin-requests/issues/157) in [Aliucord/plugin-requests](https://github.com/Aliucord/plugin-requests)
+5. ❗️ Opened issue [#156](https://github.com/Aliucord/plugin-requests/issues/156) in [Aliucord/plugin-requests](https://github.com/Aliucord/plugin-requests)
 <!--END_SECTION:activity-->
