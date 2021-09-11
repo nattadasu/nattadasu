@@ -175,9 +175,9 @@ Try to sign on my guestbook at [nattadasu/nattadasu#1](https://github.com/nattad
 
 ## GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#388](https://github.com/bebasid/bebasid/issues/388) in [bebasid/bebasid](https://github.com/bebasid/bebasid)
-2. ❗️ Opened issue [#18](https://github.com/TaiAurori/custom-timestamps/issues/18) in [TaiAurori/custom-timestamps](https://github.com/TaiAurori/custom-timestamps)
-3. ❗️ Opened issue [#388](https://github.com/bebasid/bebasid/issues/388) in [bebasid/bebasid](https://github.com/bebasid/bebasid)
-4. 🗣 Commented on [#157](https://github.com/Aliucord/plugin-requests/issues/157) in [Aliucord/plugin-requests](https://github.com/Aliucord/plugin-requests)
-5. ❗️ Opened issue [#156](https://github.com/Aliucord/plugin-requests/issues/156) in [Aliucord/plugin-requests](https://github.com/Aliucord/plugin-requests)
+1. ❗️ Closed issue [#27](https://github.com/theNewbieClub-MAL/gfxEncyclopedia/issues/27) in [theNewbieClub-MAL/gfxEncyclopedia](https://github.com/theNewbieClub-MAL/gfxEncyclopedia)
+2. ❗️ Closed issue [#26](https://github.com/theNewbieClub-MAL/gfxEncyclopedia/issues/26) in [theNewbieClub-MAL/gfxEncyclopedia](https://github.com/theNewbieClub-MAL/gfxEncyclopedia)
+3. ❗️ Closed issue [#25](https://github.com/theNewbieClub-MAL/gfxEncyclopedia/issues/25) in [theNewbieClub-MAL/gfxEncyclopedia](https://github.com/theNewbieClub-MAL/gfxEncyclopedia)
+4. ❗️ Closed issue [#24](https://github.com/theNewbieClub-MAL/gfxEncyclopedia/issues/24) in [theNewbieClub-MAL/gfxEncyclopedia](https://github.com/theNewbieClub-MAL/gfxEncyclopedia)
+5. 🗣 Commented on [#388](https://github.com/bebasid/bebasid/issues/388) in [bebasid/bebasid](https://github.com/bebasid/bebasid)
 <!--END_SECTION:activity-->
