@@ -175,9 +175,9 @@ Try to sign on my guestbook at [nattadasu/nattadasu#1](https://github.com/nattad
 
 ## GitHub Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#31](https://github.com/theNewbieClub-MAL/gfxEncyclopedia/issues/31) in [theNewbieClub-MAL/gfxEncyclopedia](https://github.com/theNewbieClub-MAL/gfxEncyclopedia)
-2. 🗣 Commented on [#31](https://github.com/theNewbieClub-MAL/gfxEncyclopedia/issues/31) in [theNewbieClub-MAL/gfxEncyclopedia](https://github.com/theNewbieClub-MAL/gfxEncyclopedia)
-3. ❗️ Closed issue [#30](https://github.com/theNewbieClub-MAL/gfxEncyclopedia/issues/30) in [theNewbieClub-MAL/gfxEncyclopedia](https://github.com/theNewbieClub-MAL/gfxEncyclopedia)
-4. ❗️ Closed issue [#29](https://github.com/theNewbieClub-MAL/gfxEncyclopedia/issues/29) in [theNewbieClub-MAL/gfxEncyclopedia](https://github.com/theNewbieClub-MAL/gfxEncyclopedia)
-5. ❗️ Closed issue [#28](https://github.com/theNewbieClub-MAL/gfxEncyclopedia/issues/28) in [theNewbieClub-MAL/gfxEncyclopedia](https://github.com/theNewbieClub-MAL/gfxEncyclopedia)
+1. 🎉 Merged PR [#32](https://github.com/theNewbieClub-MAL/gfxEncyclopedia/pull/32) in [theNewbieClub-MAL/gfxEncyclopedia](https://github.com/theNewbieClub-MAL/gfxEncyclopedia)
+2. ❗️ Closed issue [#31](https://github.com/theNewbieClub-MAL/gfxEncyclopedia/issues/31) in [theNewbieClub-MAL/gfxEncyclopedia](https://github.com/theNewbieClub-MAL/gfxEncyclopedia)
+3. 🗣 Commented on [#31](https://github.com/theNewbieClub-MAL/gfxEncyclopedia/issues/31) in [theNewbieClub-MAL/gfxEncyclopedia](https://github.com/theNewbieClub-MAL/gfxEncyclopedia)
+4. ❗️ Closed issue [#30](https://github.com/theNewbieClub-MAL/gfxEncyclopedia/issues/30) in [theNewbieClub-MAL/gfxEncyclopedia](https://github.com/theNewbieClub-MAL/gfxEncyclopedia)
+5. ❗️ Closed issue [#29](https://github.com/theNewbieClub-MAL/gfxEncyclopedia/issues/29) in [theNewbieClub-MAL/gfxEncyclopedia](https://github.com/theNewbieClub-MAL/gfxEncyclopedia)
 <!--END_SECTION:activity-->
