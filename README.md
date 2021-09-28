@@ -175,9 +175,9 @@ Try to sign on my guestbook at [nattadasu/nattadasu#1](https://github.com/nattad
 
 ## GitHub Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#156](https://github.com/Aliucord/plugin-requests/issues/156) in [Aliucord/plugin-requests](https://github.com/Aliucord/plugin-requests)
-2. 🗣 Commented on [#156](https://github.com/Aliucord/plugin-requests/issues/156) in [Aliucord/plugin-requests](https://github.com/Aliucord/plugin-requests)
-3. 🗣 Commented on [#261](https://github.com/Aliucord/plugin-requests/issues/261) in [Aliucord/plugin-requests](https://github.com/Aliucord/plugin-requests)
+1. 🗣 Commented on [#4923](https://github.com/d4rken/sdmaid-public/issues/4923) in [d4rken/sdmaid-public](https://github.com/d4rken/sdmaid-public)
+2. ❗️ Closed issue [#156](https://github.com/Aliucord/plugin-requests/issues/156) in [Aliucord/plugin-requests](https://github.com/Aliucord/plugin-requests)
+3. 🗣 Commented on [#156](https://github.com/Aliucord/plugin-requests/issues/156) in [Aliucord/plugin-requests](https://github.com/Aliucord/plugin-requests)
 4. 🗣 Commented on [#261](https://github.com/Aliucord/plugin-requests/issues/261) in [Aliucord/plugin-requests](https://github.com/Aliucord/plugin-requests)
-5. 🎉 Merged PR [#32](https://github.com/theNewbieClub-MAL/gfxEncyclopedia/pull/32) in [theNewbieClub-MAL/gfxEncyclopedia](https://github.com/theNewbieClub-MAL/gfxEncyclopedia)
+5. 🗣 Commented on [#261](https://github.com/Aliucord/plugin-requests/issues/261) in [Aliucord/plugin-requests](https://github.com/Aliucord/plugin-requests)
 <!--END_SECTION:activity-->
