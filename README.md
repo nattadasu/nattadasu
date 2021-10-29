@@ -175,9 +175,9 @@ Try to sign on my guestbook at [nattadasu/nattadasu#1](https://github.com/nattad
 
 ## GitHub Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/nattadasu/emergencyWebPage-template/issues/1) in [nattadasu/emergencyWebPage-template](https://github.com/nattadasu/emergencyWebPage-template)
-2. ❗️ Closed issue [#33](https://github.com/theNewbieClub-MAL/gfxEncyclopedia/issues/33) in [theNewbieClub-MAL/gfxEncyclopedia](https://github.com/theNewbieClub-MAL/gfxEncyclopedia)
-3. 🗣 Commented on [#33](https://github.com/theNewbieClub-MAL/gfxEncyclopedia/issues/33) in [theNewbieClub-MAL/gfxEncyclopedia](https://github.com/theNewbieClub-MAL/gfxEncyclopedia)
-4. 🗣 Commented on [#5](https://github.com/RhythmLunatic/aliucord-plugins/issues/5) in [RhythmLunatic/aliucord-plugins](https://github.com/RhythmLunatic/aliucord-plugins)
-5. 🗣 Commented on [#277](https://github.com/Aliucord/plugin-requests/issues/277) in [Aliucord/plugin-requests](https://github.com/Aliucord/plugin-requests)
+1. ❗️ Closed issue [#4](https://github.com/nattadasu/emergencyWebPage-template/issues/4) in [nattadasu/emergencyWebPage-template](https://github.com/nattadasu/emergencyWebPage-template)
+2. ❗️ Closed issue [#3](https://github.com/nattadasu/emergencyWebPage-template/issues/3) in [nattadasu/emergencyWebPage-template](https://github.com/nattadasu/emergencyWebPage-template)
+3. ❗️ Closed issue [#2](https://github.com/nattadasu/emergencyWebPage-template/issues/2) in [nattadasu/emergencyWebPage-template](https://github.com/nattadasu/emergencyWebPage-template)
+4. ❗️ Closed issue [#1](https://github.com/nattadasu/emergencyWebPage-template/issues/1) in [nattadasu/emergencyWebPage-template](https://github.com/nattadasu/emergencyWebPage-template)
+5. ❗️ Closed issue [#33](https://github.com/theNewbieClub-MAL/gfxEncyclopedia/issues/33) in [theNewbieClub-MAL/gfxEncyclopedia](https://github.com/theNewbieClub-MAL/gfxEncyclopedia)
 <!--END_SECTION:activity-->
