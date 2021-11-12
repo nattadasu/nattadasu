@@ -175,9 +175,9 @@ Try to sign on my guestbook at [nattadasu/nattadasu#1](https://github.com/nattad
 
 ## GitHub Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#14](https://github.com/nattadasu/emergencyWebPage-template/issues/14) in [nattadasu/emergencyWebPage-template](https://github.com/nattadasu/emergencyWebPage-template)
-2. ❗️ Closed issue [#15](https://github.com/nattadasu/emergencyWebPage-template/issues/15) in [nattadasu/emergencyWebPage-template](https://github.com/nattadasu/emergencyWebPage-template)
-3. 🎉 Merged PR [#13](https://github.com/nattadasu/emergencyWebPage-template/pull/13) in [nattadasu/emergencyWebPage-template](https://github.com/nattadasu/emergencyWebPage-template)
-4. ❗️ Closed issue [#12](https://github.com/nattadasu/emergencyWebPage-template/issues/12) in [nattadasu/emergencyWebPage-template](https://github.com/nattadasu/emergencyWebPage-template)
-5. ❗️ Closed issue [#36](https://github.com/theNewbieClub-MAL/gfxEncyclopedia/issues/36) in [theNewbieClub-MAL/gfxEncyclopedia](https://github.com/theNewbieClub-MAL/gfxEncyclopedia)
+1. 🗣 Commented on [#16](https://github.com/nattadasu/emergencyWebPage-template/issues/16) in [nattadasu/emergencyWebPage-template](https://github.com/nattadasu/emergencyWebPage-template)
+2. ❗️ Closed issue [#14](https://github.com/nattadasu/emergencyWebPage-template/issues/14) in [nattadasu/emergencyWebPage-template](https://github.com/nattadasu/emergencyWebPage-template)
+3. ❗️ Closed issue [#15](https://github.com/nattadasu/emergencyWebPage-template/issues/15) in [nattadasu/emergencyWebPage-template](https://github.com/nattadasu/emergencyWebPage-template)
+4. 🎉 Merged PR [#13](https://github.com/nattadasu/emergencyWebPage-template/pull/13) in [nattadasu/emergencyWebPage-template](https://github.com/nattadasu/emergencyWebPage-template)
+5. ❗️ Closed issue [#12](https://github.com/nattadasu/emergencyWebPage-template/issues/12) in [nattadasu/emergencyWebPage-template](https://github.com/nattadasu/emergencyWebPage-template)
 <!--END_SECTION:activity-->
