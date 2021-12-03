@@ -175,9 +175,9 @@ Try to sign on my guestbook at [nattadasu/nattadasu#1](https://github.com/nattad
 
 ## GitHub Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#21](https://github.com/nattadasu/emergencyWebPage-template/issues/21) in [nattadasu/emergencyWebPage-template](https://github.com/nattadasu/emergencyWebPage-template)
-2. 🗣 Commented on [#21](https://github.com/nattadasu/emergencyWebPage-template/issues/21) in [nattadasu/emergencyWebPage-template](https://github.com/nattadasu/emergencyWebPage-template)
-3. ❗️ Closed issue [#23](https://github.com/ryuuganime/ryuuganime-db/issues/23) in [ryuuganime/ryuuganime-db](https://github.com/ryuuganime/ryuuganime-db)
-4. 🗣 Commented on [#23](https://github.com/ryuuganime/ryuuganime-db/issues/23) in [ryuuganime/ryuuganime-db](https://github.com/ryuuganime/ryuuganime-db)
-5. 🗣 Commented on [#28](https://github.com/Anarios/return-youtube-dislike/issues/28) in [Anarios/return-youtube-dislike](https://github.com/Anarios/return-youtube-dislike)
+1. 💪 Opened PR [#106](https://github.com/me-shaon/GLWTPL/pull/106) in [me-shaon/GLWTPL](https://github.com/me-shaon/GLWTPL)
+2. ❗️ Closed issue [#21](https://github.com/nattadasu/emergencyWebPage-template/issues/21) in [nattadasu/emergencyWebPage-template](https://github.com/nattadasu/emergencyWebPage-template)
+3. 🗣 Commented on [#21](https://github.com/nattadasu/emergencyWebPage-template/issues/21) in [nattadasu/emergencyWebPage-template](https://github.com/nattadasu/emergencyWebPage-template)
+4. ❗️ Closed issue [#23](https://github.com/ryuuganime/ryuuganime-db/issues/23) in [ryuuganime/ryuuganime-db](https://github.com/ryuuganime/ryuuganime-db)
+5. 🗣 Commented on [#23](https://github.com/ryuuganime/ryuuganime-db/issues/23) in [ryuuganime/ryuuganime-db](https://github.com/ryuuganime/ryuuganime-db)
 <!--END_SECTION:activity-->
