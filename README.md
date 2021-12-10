@@ -175,9 +175,9 @@ Try to sign on my guestbook at [nattadasu/nattadasu#1](https://github.com/nattad
 
 ## GitHub Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#26](https://github.com/nattadasu/emergencyWebPage-template/issues/26) in [nattadasu/emergencyWebPage-template](https://github.com/nattadasu/emergencyWebPage-template)
-2. 🎉 Merged PR [#25](https://github.com/nattadasu/emergencyWebPage-template/pull/25) in [nattadasu/emergencyWebPage-template](https://github.com/nattadasu/emergencyWebPage-template)
-3. ❗️ Closed issue [#24](https://github.com/nattadasu/emergencyWebPage-template/issues/24) in [nattadasu/emergencyWebPage-template](https://github.com/nattadasu/emergencyWebPage-template)
-4. ❗️ Closed issue [#23](https://github.com/nattadasu/emergencyWebPage-template/issues/23) in [nattadasu/emergencyWebPage-template](https://github.com/nattadasu/emergencyWebPage-template)
-5. ❗️ Closed issue [#22](https://github.com/nattadasu/emergencyWebPage-template/issues/22) in [nattadasu/emergencyWebPage-template](https://github.com/nattadasu/emergencyWebPage-template)
+1. 🎉 Merged PR [#28](https://github.com/nattadasu/emergencyWebPage-template/pull/28) in [nattadasu/emergencyWebPage-template](https://github.com/nattadasu/emergencyWebPage-template)
+2. 💪 Opened PR [#28](https://github.com/nattadasu/emergencyWebPage-template/pull/28) in [nattadasu/emergencyWebPage-template](https://github.com/nattadasu/emergencyWebPage-template)
+3. 🗣 Commented on [#2](https://github.com/nattadasu/kaiOSHosts-ID/issues/2) in [nattadasu/kaiOSHosts-ID](https://github.com/nattadasu/kaiOSHosts-ID)
+4. ❗️ Closed issue [#26](https://github.com/nattadasu/emergencyWebPage-template/issues/26) in [nattadasu/emergencyWebPage-template](https://github.com/nattadasu/emergencyWebPage-template)
+5. 🎉 Merged PR [#25](https://github.com/nattadasu/emergencyWebPage-template/pull/25) in [nattadasu/emergencyWebPage-template](https://github.com/nattadasu/emergencyWebPage-template)
 <!--END_SECTION:activity-->
