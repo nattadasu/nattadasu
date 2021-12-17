@@ -175,9 +175,9 @@ Try to sign on my guestbook at [nattadasu/nattadasu#1](https://github.com/nattad
 
 ## GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/nattadasu/kaiOSHosts-ID/pull/1) in [nattadasu/kaiOSHosts-ID](https://github.com/nattadasu/kaiOSHosts-ID)
-2. 🗣 Commented on [#29](https://github.com/nattadasu/emergencyWebPage-template/issues/29) in [nattadasu/emergencyWebPage-template](https://github.com/nattadasu/emergencyWebPage-template)
-3. ❗️ Closed issue [#27](https://github.com/nattadasu/emergencyWebPage-template/issues/27) in [nattadasu/emergencyWebPage-template](https://github.com/nattadasu/emergencyWebPage-template)
-4. 🎉 Merged PR [#28](https://github.com/nattadasu/emergencyWebPage-template/pull/28) in [nattadasu/emergencyWebPage-template](https://github.com/nattadasu/emergencyWebPage-template)
-5. 💪 Opened PR [#28](https://github.com/nattadasu/emergencyWebPage-template/pull/28) in [nattadasu/emergencyWebPage-template](https://github.com/nattadasu/emergencyWebPage-template)
+1. 🎉 Merged PR [#1](https://github.com/nattadasu/ryuuganime-db/pull/1) in [nattadasu/ryuuganime-db](https://github.com/nattadasu/ryuuganime-db)
+2. 💪 Opened PR [#1](https://github.com/nattadasu/ryuuganime-db/pull/1) in [nattadasu/ryuuganime-db](https://github.com/nattadasu/ryuuganime-db)
+3. 🎉 Merged PR [#1](https://github.com/nattadasu/kaiOSHosts-ID/pull/1) in [nattadasu/kaiOSHosts-ID](https://github.com/nattadasu/kaiOSHosts-ID)
+4. 🗣 Commented on [#29](https://github.com/nattadasu/emergencyWebPage-template/issues/29) in [nattadasu/emergencyWebPage-template](https://github.com/nattadasu/emergencyWebPage-template)
+5. ❗️ Closed issue [#27](https://github.com/nattadasu/emergencyWebPage-template/issues/27) in [nattadasu/emergencyWebPage-template](https://github.com/nattadasu/emergencyWebPage-template)
 <!--END_SECTION:activity-->
