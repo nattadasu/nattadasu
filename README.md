@@ -175,9 +175,9 @@ Try to sign on my guestbook at [nattadasu/nattadasu#1](https://github.com/nattad
 
 ## GitHub Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#3](https://github.com/theNewbieClub-MAL/cardfaq/issues/3) in [theNewbieClub-MAL/cardfaq](https://github.com/theNewbieClub-MAL/cardfaq)
-2. ❗️ Closed issue [#2](https://github.com/theNewbieClub-MAL/cardfaq/issues/2) in [theNewbieClub-MAL/cardfaq](https://github.com/theNewbieClub-MAL/cardfaq)
-3. ❌ Closed PR [#1](https://github.com/theNewbieClub-MAL/cardfaq/pull/1) in [theNewbieClub-MAL/cardfaq](https://github.com/theNewbieClub-MAL/cardfaq)
-4. 🗣 Commented on [#475](https://github.com/CoenraadS/Bracket-Pair-Colorizer-2/issues/475) in [CoenraadS/Bracket-Pair-Colorizer-2](https://github.com/CoenraadS/Bracket-Pair-Colorizer-2)
-5. 🎉 Merged PR [#1](https://github.com/nattadasu/ryuuganime-db/pull/1) in [nattadasu/ryuuganime-db](https://github.com/nattadasu/ryuuganime-db)
+1. ❗️ Closed issue [#4](https://github.com/theNewbieClub-MAL/cardfaq/issues/4) in [theNewbieClub-MAL/cardfaq](https://github.com/theNewbieClub-MAL/cardfaq)
+2. ❗️ Closed issue [#3](https://github.com/theNewbieClub-MAL/cardfaq/issues/3) in [theNewbieClub-MAL/cardfaq](https://github.com/theNewbieClub-MAL/cardfaq)
+3. ❗️ Closed issue [#2](https://github.com/theNewbieClub-MAL/cardfaq/issues/2) in [theNewbieClub-MAL/cardfaq](https://github.com/theNewbieClub-MAL/cardfaq)
+4. ❌ Closed PR [#1](https://github.com/theNewbieClub-MAL/cardfaq/pull/1) in [theNewbieClub-MAL/cardfaq](https://github.com/theNewbieClub-MAL/cardfaq)
+5. 🗣 Commented on [#475](https://github.com/CoenraadS/Bracket-Pair-Colorizer-2/issues/475) in [CoenraadS/Bracket-Pair-Colorizer-2](https://github.com/CoenraadS/Bracket-Pair-Colorizer-2)
 <!--END_SECTION:activity-->
