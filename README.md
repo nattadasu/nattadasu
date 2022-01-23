@@ -175,9 +175,9 @@ Try to sign on my guestbook at [nattadasu/nattadasu#1](https://github.com/nattad
 
 ## GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#13](https://github.com/theNewbieClub-MAL/cardfaq/pull/13) in [theNewbieClub-MAL/cardfaq](https://github.com/theNewbieClub-MAL/cardfaq)
-2. 🎉 Merged PR [#11](https://github.com/theNewbieClub-MAL/cardfaq/pull/11) in [theNewbieClub-MAL/cardfaq](https://github.com/theNewbieClub-MAL/cardfaq)
-3. ❗️ Closed issue [#33](https://github.com/nattadasu/emergencyWebPage-template/issues/33) in [nattadasu/emergencyWebPage-template](https://github.com/nattadasu/emergencyWebPage-template)
-4. 🗣 Commented on [#7](https://github.com/nattadasu/kaiOSHosts-ID/issues/7) in [nattadasu/kaiOSHosts-ID](https://github.com/nattadasu/kaiOSHosts-ID)
-5. ❗️ Closed issue [#3](https://github.com/nattadasu/kaiOSHosts-ID/issues/3) in [nattadasu/kaiOSHosts-ID](https://github.com/nattadasu/kaiOSHosts-ID)
+1. ❗️ Opened issue [#52](https://github.com/Vendicated/AliucordPlugins/issues/52) in [Vendicated/AliucordPlugins](https://github.com/Vendicated/AliucordPlugins)
+2. 🎉 Merged PR [#13](https://github.com/theNewbieClub-MAL/cardfaq/pull/13) in [theNewbieClub-MAL/cardfaq](https://github.com/theNewbieClub-MAL/cardfaq)
+3. 🎉 Merged PR [#11](https://github.com/theNewbieClub-MAL/cardfaq/pull/11) in [theNewbieClub-MAL/cardfaq](https://github.com/theNewbieClub-MAL/cardfaq)
+4. ❗️ Closed issue [#33](https://github.com/nattadasu/emergencyWebPage-template/issues/33) in [nattadasu/emergencyWebPage-template](https://github.com/nattadasu/emergencyWebPage-template)
+5. 🗣 Commented on [#7](https://github.com/nattadasu/kaiOSHosts-ID/issues/7) in [nattadasu/kaiOSHosts-ID](https://github.com/nattadasu/kaiOSHosts-ID)
 <!--END_SECTION:activity-->
