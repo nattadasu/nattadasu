@@ -175,9 +175,9 @@ Try to sign on my guestbook at [nattadasu/nattadasu#1](https://github.com/nattad
 
 ## GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#52](https://github.com/Vendicated/AliucordPlugins/issues/52) in [Vendicated/AliucordPlugins](https://github.com/Vendicated/AliucordPlugins)
-2. ❗️ Opened issue [#52](https://github.com/Vendicated/AliucordPlugins/issues/52) in [Vendicated/AliucordPlugins](https://github.com/Vendicated/AliucordPlugins)
-3. 🎉 Merged PR [#13](https://github.com/theNewbieClub-MAL/cardfaq/pull/13) in [theNewbieClub-MAL/cardfaq](https://github.com/theNewbieClub-MAL/cardfaq)
-4. 🎉 Merged PR [#11](https://github.com/theNewbieClub-MAL/cardfaq/pull/11) in [theNewbieClub-MAL/cardfaq](https://github.com/theNewbieClub-MAL/cardfaq)
-5. ❗️ Closed issue [#33](https://github.com/nattadasu/emergencyWebPage-template/issues/33) in [nattadasu/emergencyWebPage-template](https://github.com/nattadasu/emergencyWebPage-template)
+1. 🎉 Merged PR [#34](https://github.com/nattadasu/emergencyWebPage-template/pull/34) in [nattadasu/emergencyWebPage-template](https://github.com/nattadasu/emergencyWebPage-template)
+2. 🗣 Commented on [#52](https://github.com/Vendicated/AliucordPlugins/issues/52) in [Vendicated/AliucordPlugins](https://github.com/Vendicated/AliucordPlugins)
+3. ❗️ Opened issue [#52](https://github.com/Vendicated/AliucordPlugins/issues/52) in [Vendicated/AliucordPlugins](https://github.com/Vendicated/AliucordPlugins)
+4. 🎉 Merged PR [#13](https://github.com/theNewbieClub-MAL/cardfaq/pull/13) in [theNewbieClub-MAL/cardfaq](https://github.com/theNewbieClub-MAL/cardfaq)
+5. 🎉 Merged PR [#11](https://github.com/theNewbieClub-MAL/cardfaq/pull/11) in [theNewbieClub-MAL/cardfaq](https://github.com/theNewbieClub-MAL/cardfaq)
 <!--END_SECTION:activity-->
