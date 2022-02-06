@@ -175,9 +175,9 @@ Try to sign on my guestbook at [nattadasu/nattadasu#1](https://github.com/nattad
 
 ## GitHub Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#32](https://github.com/infanf/myanili/issues/32) in [infanf/myanili](https://github.com/infanf/myanili)
-2. 🗣 Commented on [#35](https://github.com/nattadasu/emergencyWebPage-template/issues/35) in [nattadasu/emergencyWebPage-template](https://github.com/nattadasu/emergencyWebPage-template)
-3. 🎉 Merged PR [#34](https://github.com/nattadasu/emergencyWebPage-template/pull/34) in [nattadasu/emergencyWebPage-template](https://github.com/nattadasu/emergencyWebPage-template)
-4. 🗣 Commented on [#52](https://github.com/Vendicated/AliucordPlugins/issues/52) in [Vendicated/AliucordPlugins](https://github.com/Vendicated/AliucordPlugins)
-5. ❗️ Opened issue [#52](https://github.com/Vendicated/AliucordPlugins/issues/52) in [Vendicated/AliucordPlugins](https://github.com/Vendicated/AliucordPlugins)
+1. 🎉 Merged PR [#24](https://github.com/ryuuganime/anime-db/pull/24) in [ryuuganime/anime-db](https://github.com/ryuuganime/anime-db)
+2. 💪 Opened PR [#24](https://github.com/ryuuganime/anime-db/pull/24) in [ryuuganime/anime-db](https://github.com/ryuuganime/anime-db)
+3. ❗️ Opened issue [#32](https://github.com/infanf/myanili/issues/32) in [infanf/myanili](https://github.com/infanf/myanili)
+4. 🗣 Commented on [#35](https://github.com/nattadasu/emergencyWebPage-template/issues/35) in [nattadasu/emergencyWebPage-template](https://github.com/nattadasu/emergencyWebPage-template)
+5. 🎉 Merged PR [#34](https://github.com/nattadasu/emergencyWebPage-template/pull/34) in [nattadasu/emergencyWebPage-template](https://github.com/nattadasu/emergencyWebPage-template)
 <!--END_SECTION:activity-->
