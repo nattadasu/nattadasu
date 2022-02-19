@@ -175,9 +175,9 @@ Try to sign on my guestbook at [nattadasu/nattadasu#1](https://github.com/nattad
 
 ## GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#24](https://github.com/ryuuganime/anime-db/pull/24) in [ryuuganime/anime-db](https://github.com/ryuuganime/anime-db)
-2. 💪 Opened PR [#24](https://github.com/ryuuganime/anime-db/pull/24) in [ryuuganime/anime-db](https://github.com/ryuuganime/anime-db)
-3. ❗️ Opened issue [#32](https://github.com/infanf/myanili/issues/32) in [infanf/myanili](https://github.com/infanf/myanili)
-4. 🗣 Commented on [#35](https://github.com/nattadasu/emergencyWebPage-template/issues/35) in [nattadasu/emergencyWebPage-template](https://github.com/nattadasu/emergencyWebPage-template)
-5. 🎉 Merged PR [#34](https://github.com/nattadasu/emergencyWebPage-template/pull/34) in [nattadasu/emergencyWebPage-template](https://github.com/nattadasu/emergencyWebPage-template)
+1. 🎉 Merged PR [#1](https://github.com/theNewbieClub-MAL/cardArchive/pull/1) in [theNewbieClub-MAL/cardArchive](https://github.com/theNewbieClub-MAL/cardArchive)
+2. 💪 Opened PR [#1](https://github.com/theNewbieClub-MAL/cardArchive/pull/1) in [theNewbieClub-MAL/cardArchive](https://github.com/theNewbieClub-MAL/cardArchive)
+3. 🎉 Merged PR [#24](https://github.com/ryuuganime/anime-db/pull/24) in [ryuuganime/anime-db](https://github.com/ryuuganime/anime-db)
+4. 💪 Opened PR [#24](https://github.com/ryuuganime/anime-db/pull/24) in [ryuuganime/anime-db](https://github.com/ryuuganime/anime-db)
+5. ❗️ Opened issue [#32](https://github.com/infanf/myanili/issues/32) in [infanf/myanili](https://github.com/infanf/myanili)
 <!--END_SECTION:activity-->
