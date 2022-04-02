@@ -175,9 +175,9 @@ Try to sign on my guestbook at [nattadasu/nattadasu#1](https://github.com/nattad
 
 ## GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/theNewbieClub-MAL/cardArchive/pull/1) in [theNewbieClub-MAL/cardArchive](https://github.com/theNewbieClub-MAL/cardArchive)
-2. 💪 Opened PR [#1](https://github.com/theNewbieClub-MAL/cardArchive/pull/1) in [theNewbieClub-MAL/cardArchive](https://github.com/theNewbieClub-MAL/cardArchive)
-3. 🎉 Merged PR [#24](https://github.com/ryuuganime/anime-db/pull/24) in [ryuuganime/anime-db](https://github.com/ryuuganime/anime-db)
-4. 💪 Opened PR [#24](https://github.com/ryuuganime/anime-db/pull/24) in [ryuuganime/anime-db](https://github.com/ryuuganime/anime-db)
-5. ❗️ Opened issue [#32](https://github.com/infanf/myanili/issues/32) in [infanf/myanili](https://github.com/infanf/myanili)
+1. 🎉 Merged PR [#8](https://github.com/nattadasu/kaiOSHosts-ID/pull/8) in [nattadasu/kaiOSHosts-ID](https://github.com/nattadasu/kaiOSHosts-ID)
+2. 🎉 Merged PR [#9](https://github.com/nattadasu/kaiOSHosts-ID/pull/9) in [nattadasu/kaiOSHosts-ID](https://github.com/nattadasu/kaiOSHosts-ID)
+3. 🎉 Merged PR [#10](https://github.com/nattadasu/kaiOSHosts-ID/pull/10) in [nattadasu/kaiOSHosts-ID](https://github.com/nattadasu/kaiOSHosts-ID)
+4. 🗣 Commented on [#32](https://github.com/infanf/myanili/issues/32) in [infanf/myanili](https://github.com/infanf/myanili)
+5. 🎉 Merged PR [#1](https://github.com/theNewbieClub-MAL/cardArchive/pull/1) in [theNewbieClub-MAL/cardArchive](https://github.com/theNewbieClub-MAL/cardArchive)
 <!--END_SECTION:activity-->
