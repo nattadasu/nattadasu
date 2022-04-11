@@ -175,9 +175,9 @@ Try to sign on my guestbook at [nattadasu/nattadasu#1](https://github.com/nattad
 
 ## GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#49](https://github.com/TehNut/AniMouto/issues/49) in [TehNut/AniMouto](https://github.com/TehNut/AniMouto)
-2. 🎉 Merged PR [#8](https://github.com/nattadasu/kaiOSHosts-ID/pull/8) in [nattadasu/kaiOSHosts-ID](https://github.com/nattadasu/kaiOSHosts-ID)
-3. 🎉 Merged PR [#9](https://github.com/nattadasu/kaiOSHosts-ID/pull/9) in [nattadasu/kaiOSHosts-ID](https://github.com/nattadasu/kaiOSHosts-ID)
-4. 🎉 Merged PR [#10](https://github.com/nattadasu/kaiOSHosts-ID/pull/10) in [nattadasu/kaiOSHosts-ID](https://github.com/nattadasu/kaiOSHosts-ID)
-5. 🗣 Commented on [#32](https://github.com/infanf/myanili/issues/32) in [infanf/myanili](https://github.com/infanf/myanili)
+1. ❗️ Closed issue [#45](https://github.com/nattadasu/emergencyWebPage-template/issues/45) in [nattadasu/emergencyWebPage-template](https://github.com/nattadasu/emergencyWebPage-template)
+2. 🗣 Commented on [#49](https://github.com/TehNut/AniMouto/issues/49) in [TehNut/AniMouto](https://github.com/TehNut/AniMouto)
+3. 🎉 Merged PR [#8](https://github.com/nattadasu/kaiOSHosts-ID/pull/8) in [nattadasu/kaiOSHosts-ID](https://github.com/nattadasu/kaiOSHosts-ID)
+4. 🎉 Merged PR [#9](https://github.com/nattadasu/kaiOSHosts-ID/pull/9) in [nattadasu/kaiOSHosts-ID](https://github.com/nattadasu/kaiOSHosts-ID)
+5. 🎉 Merged PR [#10](https://github.com/nattadasu/kaiOSHosts-ID/pull/10) in [nattadasu/kaiOSHosts-ID](https://github.com/nattadasu/kaiOSHosts-ID)
 <!--END_SECTION:activity-->
