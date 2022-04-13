@@ -175,9 +175,9 @@ Try to sign on my guestbook at [nattadasu/nattadasu#1](https://github.com/nattad
 
 ## GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#11](https://github.com/nattadasu/kaiOSHosts-ID/issues/11) in [nattadasu/kaiOSHosts-ID](https://github.com/nattadasu/kaiOSHosts-ID)
-2. 🎉 Merged PR [#3](https://github.com/theNewbieClub-MAL/cardArchive/pull/3) in [theNewbieClub-MAL/cardArchive](https://github.com/theNewbieClub-MAL/cardArchive)
-3. 🎉 Merged PR [#2](https://github.com/theNewbieClub-MAL/cardArchive/pull/2) in [theNewbieClub-MAL/cardArchive](https://github.com/theNewbieClub-MAL/cardArchive)
-4. ❗️ Closed issue [#45](https://github.com/nattadasu/emergencyWebPage-template/issues/45) in [nattadasu/emergencyWebPage-template](https://github.com/nattadasu/emergencyWebPage-template)
-5. 🗣 Commented on [#49](https://github.com/TehNut/AniMouto/issues/49) in [TehNut/AniMouto](https://github.com/TehNut/AniMouto)
+1. 🎉 Merged PR [#4](https://github.com/theNewbieClub-MAL/cardArchive/pull/4) in [theNewbieClub-MAL/cardArchive](https://github.com/theNewbieClub-MAL/cardArchive)
+2. 🗣 Commented on [#43](https://github.com/nattadasu/emergencyWebPage-template/issues/43) in [nattadasu/emergencyWebPage-template](https://github.com/nattadasu/emergencyWebPage-template)
+3. ❗️ Closed issue [#50](https://github.com/nattadasu/emergencyWebPage-template/issues/50) in [nattadasu/emergencyWebPage-template](https://github.com/nattadasu/emergencyWebPage-template)
+4. ❗️ Closed issue [#49](https://github.com/nattadasu/emergencyWebPage-template/issues/49) in [nattadasu/emergencyWebPage-template](https://github.com/nattadasu/emergencyWebPage-template)
+5. ❗️ Closed issue [#48](https://github.com/nattadasu/emergencyWebPage-template/issues/48) in [nattadasu/emergencyWebPage-template](https://github.com/nattadasu/emergencyWebPage-template)
 <!--END_SECTION:activity-->
