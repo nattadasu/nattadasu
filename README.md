@@ -175,9 +175,9 @@ Try to sign on my guestbook at [nattadasu/nattadasu#1](https://github.com/nattad
 
 ## GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/theNewbieClub-MAL/cardArchive/pull/4) in [theNewbieClub-MAL/cardArchive](https://github.com/theNewbieClub-MAL/cardArchive)
-2. 🗣 Commented on [#43](https://github.com/nattadasu/emergencyWebPage-template/issues/43) in [nattadasu/emergencyWebPage-template](https://github.com/nattadasu/emergencyWebPage-template)
-3. ❗️ Closed issue [#50](https://github.com/nattadasu/emergencyWebPage-template/issues/50) in [nattadasu/emergencyWebPage-template](https://github.com/nattadasu/emergencyWebPage-template)
-4. ❗️ Closed issue [#49](https://github.com/nattadasu/emergencyWebPage-template/issues/49) in [nattadasu/emergencyWebPage-template](https://github.com/nattadasu/emergencyWebPage-template)
-5. ❗️ Closed issue [#48](https://github.com/nattadasu/emergencyWebPage-template/issues/48) in [nattadasu/emergencyWebPage-template](https://github.com/nattadasu/emergencyWebPage-template)
+1. ❗️ Opened issue [#971](https://github.com/daattali/beautiful-jekyll/issues/971) in [daattali/beautiful-jekyll](https://github.com/daattali/beautiful-jekyll)
+2. 🎉 Merged PR [#4](https://github.com/theNewbieClub-MAL/cardArchive/pull/4) in [theNewbieClub-MAL/cardArchive](https://github.com/theNewbieClub-MAL/cardArchive)
+3. 🗣 Commented on [#43](https://github.com/nattadasu/emergencyWebPage-template/issues/43) in [nattadasu/emergencyWebPage-template](https://github.com/nattadasu/emergencyWebPage-template)
+4. ❗️ Closed issue [#50](https://github.com/nattadasu/emergencyWebPage-template/issues/50) in [nattadasu/emergencyWebPage-template](https://github.com/nattadasu/emergencyWebPage-template)
+5. ❗️ Closed issue [#49](https://github.com/nattadasu/emergencyWebPage-template/issues/49) in [nattadasu/emergencyWebPage-template](https://github.com/nattadasu/emergencyWebPage-template)
 <!--END_SECTION:activity-->
