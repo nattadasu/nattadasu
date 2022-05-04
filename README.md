@@ -175,9 +175,9 @@ Try to sign on my guestbook at [nattadasu/nattadasu#1](https://github.com/nattad
 
 ## GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#971](https://github.com/daattali/beautiful-jekyll/issues/971) in [daattali/beautiful-jekyll](https://github.com/daattali/beautiful-jekyll)
-2. ❗️ Closed issue [#971](https://github.com/daattali/beautiful-jekyll/issues/971) in [daattali/beautiful-jekyll](https://github.com/daattali/beautiful-jekyll)
-3. 🎉 Merged PR [#2](https://github.com/nattadasu/nattadasu.github.io/pull/2) in [nattadasu/nattadasu.github.io](https://github.com/nattadasu/nattadasu.github.io)
-4. ❗️ Opened issue [#971](https://github.com/daattali/beautiful-jekyll/issues/971) in [daattali/beautiful-jekyll](https://github.com/daattali/beautiful-jekyll)
-5. 🎉 Merged PR [#4](https://github.com/theNewbieClub-MAL/cardArchive/pull/4) in [theNewbieClub-MAL/cardArchive](https://github.com/theNewbieClub-MAL/cardArchive)
+1. 🗣 Commented on [#51](https://github.com/nattadasu/emergencyWebPage-template/issues/51) in [nattadasu/emergencyWebPage-template](https://github.com/nattadasu/emergencyWebPage-template)
+2. 🗣 Commented on [#971](https://github.com/daattali/beautiful-jekyll/issues/971) in [daattali/beautiful-jekyll](https://github.com/daattali/beautiful-jekyll)
+3. ❗️ Closed issue [#971](https://github.com/daattali/beautiful-jekyll/issues/971) in [daattali/beautiful-jekyll](https://github.com/daattali/beautiful-jekyll)
+4. 🎉 Merged PR [#2](https://github.com/nattadasu/nattadasu.github.io/pull/2) in [nattadasu/nattadasu.github.io](https://github.com/nattadasu/nattadasu.github.io)
+5. ❗️ Opened issue [#971](https://github.com/daattali/beautiful-jekyll/issues/971) in [daattali/beautiful-jekyll](https://github.com/daattali/beautiful-jekyll)
 <!--END_SECTION:activity-->
