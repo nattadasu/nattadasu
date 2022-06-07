@@ -175,9 +175,9 @@ Try to sign on my guestbook at [nattadasu/nattadasu#1](https://github.com/nattad
 
 ## GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/theNewbieClub-MAL/layoutSet/pull/2) in [theNewbieClub-MAL/layoutSet](https://github.com/theNewbieClub-MAL/layoutSet)
-2. 🎉 Merged PR [#1](https://github.com/theNewbieClub-MAL/layoutSet/pull/1) in [theNewbieClub-MAL/layoutSet](https://github.com/theNewbieClub-MAL/layoutSet)
-3. 💪 Opened PR [#1](https://github.com/theNewbieClub-MAL/layoutSet/pull/1) in [theNewbieClub-MAL/layoutSet](https://github.com/theNewbieClub-MAL/layoutSet)
-4. ❗️ Closed issue [#3](https://github.com/theNewbieClub-MAL/editionThreadGenerator-ps1/issues/3) in [theNewbieClub-MAL/editionThreadGenerator-ps1](https://github.com/theNewbieClub-MAL/editionThreadGenerator-ps1)
-5. 🗣 Commented on [#3](https://github.com/theNewbieClub-MAL/editionThreadGenerator-ps1/issues/3) in [theNewbieClub-MAL/editionThreadGenerator-ps1](https://github.com/theNewbieClub-MAL/editionThreadGenerator-ps1)
+1. 🎉 Merged PR [#3](https://github.com/theNewbieClub-MAL/layoutSet/pull/3) in [theNewbieClub-MAL/layoutSet](https://github.com/theNewbieClub-MAL/layoutSet)
+2. 🎉 Merged PR [#2](https://github.com/theNewbieClub-MAL/layoutSet/pull/2) in [theNewbieClub-MAL/layoutSet](https://github.com/theNewbieClub-MAL/layoutSet)
+3. 🎉 Merged PR [#1](https://github.com/theNewbieClub-MAL/layoutSet/pull/1) in [theNewbieClub-MAL/layoutSet](https://github.com/theNewbieClub-MAL/layoutSet)
+4. 💪 Opened PR [#1](https://github.com/theNewbieClub-MAL/layoutSet/pull/1) in [theNewbieClub-MAL/layoutSet](https://github.com/theNewbieClub-MAL/layoutSet)
+5. ❗️ Closed issue [#3](https://github.com/theNewbieClub-MAL/editionThreadGenerator-ps1/issues/3) in [theNewbieClub-MAL/editionThreadGenerator-ps1](https://github.com/theNewbieClub-MAL/editionThreadGenerator-ps1)
 <!--END_SECTION:activity-->
