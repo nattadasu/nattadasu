@@ -175,9 +175,9 @@ Try to sign on my guestbook at [nattadasu/nattadasu#1](https://github.com/nattad
 
 ## GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10959](https://github.com/tachiyomiorg/tachiyomi-extensions/issues/10959) in [tachiyomiorg/tachiyomi-extensions](https://github.com/tachiyomiorg/tachiyomi-extensions)
-2. ❗️ Closed issue [#4](https://github.com/theNewbieClub-MAL/editionThreadGenerator-ps1/issues/4) in [theNewbieClub-MAL/editionThreadGenerator-ps1](https://github.com/theNewbieClub-MAL/editionThreadGenerator-ps1)
-3. ❗️ Opened issue [#5](https://github.com/theNewbieClub-MAL/cardArchive/issues/5) in [theNewbieClub-MAL/cardArchive](https://github.com/theNewbieClub-MAL/cardArchive)
-4. ❗️ Opened issue [#4](https://github.com/theNewbieClub-MAL/editionThreadGenerator-ps1/issues/4) in [theNewbieClub-MAL/editionThreadGenerator-ps1](https://github.com/theNewbieClub-MAL/editionThreadGenerator-ps1)
-5. ❗️ Closed issue [#54](https://github.com/nattadasu/emergencyWebPage-template/issues/54) in [nattadasu/emergencyWebPage-template](https://github.com/nattadasu/emergencyWebPage-template)
+1. ❗️ Opened issue [#1114](https://github.com/ILIYANGERMANOV/ivy-wallet/issues/1114) in [ILIYANGERMANOV/ivy-wallet](https://github.com/ILIYANGERMANOV/ivy-wallet)
+2. 🗣 Commented on [#10959](https://github.com/tachiyomiorg/tachiyomi-extensions/issues/10959) in [tachiyomiorg/tachiyomi-extensions](https://github.com/tachiyomiorg/tachiyomi-extensions)
+3. ❗️ Closed issue [#4](https://github.com/theNewbieClub-MAL/editionThreadGenerator-ps1/issues/4) in [theNewbieClub-MAL/editionThreadGenerator-ps1](https://github.com/theNewbieClub-MAL/editionThreadGenerator-ps1)
+4. ❗️ Opened issue [#5](https://github.com/theNewbieClub-MAL/cardArchive/issues/5) in [theNewbieClub-MAL/cardArchive](https://github.com/theNewbieClub-MAL/cardArchive)
+5. ❗️ Opened issue [#4](https://github.com/theNewbieClub-MAL/editionThreadGenerator-ps1/issues/4) in [theNewbieClub-MAL/editionThreadGenerator-ps1](https://github.com/theNewbieClub-MAL/editionThreadGenerator-ps1)
 <!--END_SECTION:activity-->
