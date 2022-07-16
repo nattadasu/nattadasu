@@ -175,9 +175,9 @@ Try to sign on my guestbook at [nattadasu/nattadasu#1](https://github.com/nattad
 
 ## GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/theNewbieClub-MAL/editionThreadGenerator-ps1/pull/5) in [theNewbieClub-MAL/editionThreadGenerator-ps1](https://github.com/theNewbieClub-MAL/editionThreadGenerator-ps1)
-2. 🎉 Merged PR [#6](https://github.com/theNewbieClub-MAL/cardArchive/pull/6) in [theNewbieClub-MAL/cardArchive](https://github.com/theNewbieClub-MAL/cardArchive)
-3. ❗️ Opened issue [#1114](https://github.com/ILIYANGERMANOV/ivy-wallet/issues/1114) in [ILIYANGERMANOV/ivy-wallet](https://github.com/ILIYANGERMANOV/ivy-wallet)
-4. 🗣 Commented on [#10959](https://github.com/tachiyomiorg/tachiyomi-extensions/issues/10959) in [tachiyomiorg/tachiyomi-extensions](https://github.com/tachiyomiorg/tachiyomi-extensions)
-5. ❗️ Closed issue [#4](https://github.com/theNewbieClub-MAL/editionThreadGenerator-ps1/issues/4) in [theNewbieClub-MAL/editionThreadGenerator-ps1](https://github.com/theNewbieClub-MAL/editionThreadGenerator-ps1)
+1. 🎉 Merged PR [#6](https://github.com/theNewbieClub-MAL/editionThreadGenerator-ps1/pull/6) in [theNewbieClub-MAL/editionThreadGenerator-ps1](https://github.com/theNewbieClub-MAL/editionThreadGenerator-ps1)
+2. 🎉 Merged PR [#5](https://github.com/theNewbieClub-MAL/editionThreadGenerator-ps1/pull/5) in [theNewbieClub-MAL/editionThreadGenerator-ps1](https://github.com/theNewbieClub-MAL/editionThreadGenerator-ps1)
+3. 🎉 Merged PR [#6](https://github.com/theNewbieClub-MAL/cardArchive/pull/6) in [theNewbieClub-MAL/cardArchive](https://github.com/theNewbieClub-MAL/cardArchive)
+4. ❗️ Opened issue [#1114](https://github.com/ILIYANGERMANOV/ivy-wallet/issues/1114) in [ILIYANGERMANOV/ivy-wallet](https://github.com/ILIYANGERMANOV/ivy-wallet)
+5. 🗣 Commented on [#10959](https://github.com/tachiyomiorg/tachiyomi-extensions/issues/10959) in [tachiyomiorg/tachiyomi-extensions](https://github.com/tachiyomiorg/tachiyomi-extensions)
 <!--END_SECTION:activity-->
