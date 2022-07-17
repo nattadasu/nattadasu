@@ -175,9 +175,9 @@ Try to sign on my guestbook at [nattadasu/nattadasu#1](https://github.com/nattad
 
 ## GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/theNewbieClub-MAL/editionThreadGenerator-ps1/pull/7) in [theNewbieClub-MAL/editionThreadGenerator-ps1](https://github.com/theNewbieClub-MAL/editionThreadGenerator-ps1)
-2. 🎉 Merged PR [#6](https://github.com/theNewbieClub-MAL/editionThreadGenerator-ps1/pull/6) in [theNewbieClub-MAL/editionThreadGenerator-ps1](https://github.com/theNewbieClub-MAL/editionThreadGenerator-ps1)
-3. 🎉 Merged PR [#5](https://github.com/theNewbieClub-MAL/editionThreadGenerator-ps1/pull/5) in [theNewbieClub-MAL/editionThreadGenerator-ps1](https://github.com/theNewbieClub-MAL/editionThreadGenerator-ps1)
-4. 🎉 Merged PR [#6](https://github.com/theNewbieClub-MAL/cardArchive/pull/6) in [theNewbieClub-MAL/cardArchive](https://github.com/theNewbieClub-MAL/cardArchive)
-5. ❗️ Opened issue [#1114](https://github.com/ILIYANGERMANOV/ivy-wallet/issues/1114) in [ILIYANGERMANOV/ivy-wallet](https://github.com/ILIYANGERMANOV/ivy-wallet)
+1. 🎉 Merged PR [#8](https://github.com/theNewbieClub-MAL/editionThreadGenerator-ps1/pull/8) in [theNewbieClub-MAL/editionThreadGenerator-ps1](https://github.com/theNewbieClub-MAL/editionThreadGenerator-ps1)
+2. 🎉 Merged PR [#7](https://github.com/theNewbieClub-MAL/editionThreadGenerator-ps1/pull/7) in [theNewbieClub-MAL/editionThreadGenerator-ps1](https://github.com/theNewbieClub-MAL/editionThreadGenerator-ps1)
+3. 🎉 Merged PR [#6](https://github.com/theNewbieClub-MAL/editionThreadGenerator-ps1/pull/6) in [theNewbieClub-MAL/editionThreadGenerator-ps1](https://github.com/theNewbieClub-MAL/editionThreadGenerator-ps1)
+4. 🎉 Merged PR [#5](https://github.com/theNewbieClub-MAL/editionThreadGenerator-ps1/pull/5) in [theNewbieClub-MAL/editionThreadGenerator-ps1](https://github.com/theNewbieClub-MAL/editionThreadGenerator-ps1)
+5. 🎉 Merged PR [#6](https://github.com/theNewbieClub-MAL/cardArchive/pull/6) in [theNewbieClub-MAL/cardArchive](https://github.com/theNewbieClub-MAL/cardArchive)
 <!--END_SECTION:activity-->
