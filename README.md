@@ -175,9 +175,9 @@ Try to sign on my guestbook at [nattadasu/nattadasu#1](https://github.com/nattad
 
 ## GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/theNewbieClub-MAL/cardArchive/issues/5) in [theNewbieClub-MAL/cardArchive](https://github.com/theNewbieClub-MAL/cardArchive)
-2. ❗️ Closed issue [#5](https://github.com/theNewbieClub-MAL/cardArchive/issues/5) in [theNewbieClub-MAL/cardArchive](https://github.com/theNewbieClub-MAL/cardArchive)
-3. 🎉 Merged PR [#9](https://github.com/theNewbieClub-MAL/editionThreadGenerator-ps1/pull/9) in [theNewbieClub-MAL/editionThreadGenerator-ps1](https://github.com/theNewbieClub-MAL/editionThreadGenerator-ps1)
-4. 🎉 Merged PR [#8](https://github.com/theNewbieClub-MAL/editionThreadGenerator-ps1/pull/8) in [theNewbieClub-MAL/editionThreadGenerator-ps1](https://github.com/theNewbieClub-MAL/editionThreadGenerator-ps1)
-5. 🎉 Merged PR [#7](https://github.com/theNewbieClub-MAL/editionThreadGenerator-ps1/pull/7) in [theNewbieClub-MAL/editionThreadGenerator-ps1](https://github.com/theNewbieClub-MAL/editionThreadGenerator-ps1)
+1. 🎉 Merged PR [#10](https://github.com/theNewbieClub-MAL/editionThreadGenerator-ps1/pull/10) in [theNewbieClub-MAL/editionThreadGenerator-ps1](https://github.com/theNewbieClub-MAL/editionThreadGenerator-ps1)
+2. 🗣 Commented on [#5](https://github.com/theNewbieClub-MAL/cardArchive/issues/5) in [theNewbieClub-MAL/cardArchive](https://github.com/theNewbieClub-MAL/cardArchive)
+3. ❗️ Closed issue [#5](https://github.com/theNewbieClub-MAL/cardArchive/issues/5) in [theNewbieClub-MAL/cardArchive](https://github.com/theNewbieClub-MAL/cardArchive)
+4. 🎉 Merged PR [#9](https://github.com/theNewbieClub-MAL/editionThreadGenerator-ps1/pull/9) in [theNewbieClub-MAL/editionThreadGenerator-ps1](https://github.com/theNewbieClub-MAL/editionThreadGenerator-ps1)
+5. 🎉 Merged PR [#8](https://github.com/theNewbieClub-MAL/editionThreadGenerator-ps1/pull/8) in [theNewbieClub-MAL/editionThreadGenerator-ps1](https://github.com/theNewbieClub-MAL/editionThreadGenerator-ps1)
 <!--END_SECTION:activity-->
