@@ -175,9 +175,9 @@ Try to sign on my guestbook at [nattadasu/nattadasu#1](https://github.com/nattad
 
 ## GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#18](https://github.com/theNewbieClub-MAL/cardfaq/pull/18) in [theNewbieClub-MAL/cardfaq](https://github.com/theNewbieClub-MAL/cardfaq)
-2. 🎉 Merged PR [#58](https://github.com/nattadasu/emergencyWebPage-template/pull/58) in [nattadasu/emergencyWebPage-template](https://github.com/nattadasu/emergencyWebPage-template)
-3. 🎉 Merged PR [#10](https://github.com/theNewbieClub-MAL/editionThreadGenerator-ps1/pull/10) in [theNewbieClub-MAL/editionThreadGenerator-ps1](https://github.com/theNewbieClub-MAL/editionThreadGenerator-ps1)
-4. 🗣 Commented on [#5](https://github.com/theNewbieClub-MAL/cardArchive/issues/5) in [theNewbieClub-MAL/cardArchive](https://github.com/theNewbieClub-MAL/cardArchive)
-5. ❗️ Closed issue [#5](https://github.com/theNewbieClub-MAL/cardArchive/issues/5) in [theNewbieClub-MAL/cardArchive](https://github.com/theNewbieClub-MAL/cardArchive)
+1. 🎉 Merged PR [#59](https://github.com/nattadasu/emergencyWebPage-template/pull/59) in [nattadasu/emergencyWebPage-template](https://github.com/nattadasu/emergencyWebPage-template)
+2. 🎉 Merged PR [#18](https://github.com/theNewbieClub-MAL/cardfaq/pull/18) in [theNewbieClub-MAL/cardfaq](https://github.com/theNewbieClub-MAL/cardfaq)
+3. 🎉 Merged PR [#58](https://github.com/nattadasu/emergencyWebPage-template/pull/58) in [nattadasu/emergencyWebPage-template](https://github.com/nattadasu/emergencyWebPage-template)
+4. 🎉 Merged PR [#10](https://github.com/theNewbieClub-MAL/editionThreadGenerator-ps1/pull/10) in [theNewbieClub-MAL/editionThreadGenerator-ps1](https://github.com/theNewbieClub-MAL/editionThreadGenerator-ps1)
+5. 🗣 Commented on [#5](https://github.com/theNewbieClub-MAL/cardArchive/issues/5) in [theNewbieClub-MAL/cardArchive](https://github.com/theNewbieClub-MAL/cardArchive)
 <!--END_SECTION:activity-->
