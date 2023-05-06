@@ -20,9 +20,9 @@ Try to sign on my guestbook at [nattadasu/nattadasu#1](https://github.com/nattad
 
 ## GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7](https://github.com/PKBeam/AMWin-RP/issues/7) in [PKBeam/AMWin-RP](https://github.com/PKBeam/AMWin-RP)
-2. ❗️ Opened issue [#96](https://github.com/jeffshee/hidamari/issues/96) in [jeffshee/hidamari](https://github.com/jeffshee/hidamari)
-3. ❗️ Opened issue [#4900](https://github.com/starship/starship/issues/4900) in [starship/starship](https://github.com/starship/starship)
-4. 🗣 Commented on [#298](https://github.com/ferdium/ferdium-recipes/issues/298) in [ferdium/ferdium-recipes](https://github.com/ferdium/ferdium-recipes)
-5. 🎉 Merged PR [#10](https://github.com/theNewbieClub-MAL/editionThreadGenerator-ps1/pull/10) in [theNewbieClub-MAL/editionThreadGenerator-ps1](https://github.com/theNewbieClub-MAL/editionThreadGenerator-ps1)
+1. 🎉 Merged PR [#41](https://github.com/nattadasu/ryuuRyuusei/pull/41) in [nattadasu/ryuuRyuusei](https://github.com/nattadasu/ryuuRyuusei)
+2. ❌ Closed PR [#53](https://github.com/nattadasu/ryuuRyuusei/pull/53) in [nattadasu/ryuuRyuusei](https://github.com/nattadasu/ryuuRyuusei)
+3. ❌ Closed PR [#56](https://github.com/nattadasu/ryuuRyuusei/pull/56) in [nattadasu/ryuuRyuusei](https://github.com/nattadasu/ryuuRyuusei)
+4. ❌ Closed PR [#57](https://github.com/nattadasu/ryuuRyuusei/pull/57) in [nattadasu/ryuuRyuusei](https://github.com/nattadasu/ryuuRyuusei)
+5. 🎉 Merged PR [#58](https://github.com/nattadasu/ryuuRyuusei/pull/58) in [nattadasu/ryuuRyuusei](https://github.com/nattadasu/ryuuRyuusei)
 <!--END_SECTION:activity-->
