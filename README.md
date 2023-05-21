@@ -20,9 +20,9 @@ Try to sign on my guestbook at [nattadasu/nattadasu#1](https://github.com/nattad
 
 ## GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#89](https://github.com/nattadasu/ryuuRyuusei/pull/89) in [nattadasu/ryuuRyuusei](https://github.com/nattadasu/ryuuRyuusei)
-2. 🗣 Commented on [#6171](https://github.com/discord/discord-api-docs/issues/6171) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
-3. 🎉 Merged PR [#88](https://github.com/nattadasu/ryuuRyuusei/pull/88) in [nattadasu/ryuuRyuusei](https://github.com/nattadasu/ryuuRyuusei)
-4. 🎉 Merged PR [#87](https://github.com/nattadasu/ryuuRyuusei/pull/87) in [nattadasu/ryuuRyuusei](https://github.com/nattadasu/ryuuRyuusei)
-5. 🎉 Merged PR [#86](https://github.com/nattadasu/ryuuRyuusei/pull/86) in [nattadasu/ryuuRyuusei](https://github.com/nattadasu/ryuuRyuusei)
+1. 🎉 Merged PR [#90](https://github.com/nattadasu/ryuuRyuusei/pull/90) in [nattadasu/ryuuRyuusei](https://github.com/nattadasu/ryuuRyuusei)
+2. 🎉 Merged PR [#89](https://github.com/nattadasu/ryuuRyuusei/pull/89) in [nattadasu/ryuuRyuusei](https://github.com/nattadasu/ryuuRyuusei)
+3. 🗣 Commented on [#6171](https://github.com/discord/discord-api-docs/issues/6171) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
+4. 🎉 Merged PR [#88](https://github.com/nattadasu/ryuuRyuusei/pull/88) in [nattadasu/ryuuRyuusei](https://github.com/nattadasu/ryuuRyuusei)
+5. 🎉 Merged PR [#87](https://github.com/nattadasu/ryuuRyuusei/pull/87) in [nattadasu/ryuuRyuusei](https://github.com/nattadasu/ryuuRyuusei)
 <!--END_SECTION:activity-->
