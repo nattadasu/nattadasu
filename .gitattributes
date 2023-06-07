@@ -1,2 +1,7 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+assets/mal-list-style/**  linguist-vendored
+assets/scripts/bbcode-for-mal.js  linguist-vendored
+assets/shikimori-css/**  linguist-vendored
+*.md  linguist-detectable
+*.wiki  linguist-detectable
