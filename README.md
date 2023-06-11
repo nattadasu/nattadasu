@@ -20,9 +20,9 @@ Try to sign on my guestbook at [nattadasu/nattadasu#1](https://github.com/nattad
 
 ## GitHub Activity
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#163](https://github.com/nattadasu/ryuuRyuusei/issues/163) in [nattadasu/ryuuRyuusei](https://github.com/nattadasu/ryuuRyuusei)
-2. 🎉 Merged PR [#165](https://github.com/nattadasu/ryuuRyuusei/pull/165) in [nattadasu/ryuuRyuusei](https://github.com/nattadasu/ryuuRyuusei)
-3. 💪 Opened PR [#165](https://github.com/nattadasu/ryuuRyuusei/pull/165) in [nattadasu/ryuuRyuusei](https://github.com/nattadasu/ryuuRyuusei)
-4. ❗ Opened issue [#164](https://github.com/nattadasu/ryuuRyuusei/issues/164) in [nattadasu/ryuuRyuusei](https://github.com/nattadasu/ryuuRyuusei)
-5. ❗ Opened issue [#163](https://github.com/nattadasu/ryuuRyuusei/issues/163) in [nattadasu/ryuuRyuusei](https://github.com/nattadasu/ryuuRyuusei)
+1. 🔒 Closed issue [#164](https://github.com/nattadasu/ryuuRyuusei/issues/164) in [nattadasu/ryuuRyuusei](https://github.com/nattadasu/ryuuRyuusei)
+2. 🗣 Commented on [#164](https://github.com/nattadasu/ryuuRyuusei/issues/164) in [nattadasu/ryuuRyuusei](https://github.com/nattadasu/ryuuRyuusei)
+3. 🔒 Closed issue [#163](https://github.com/nattadasu/ryuuRyuusei/issues/163) in [nattadasu/ryuuRyuusei](https://github.com/nattadasu/ryuuRyuusei)
+4. 🎉 Merged PR [#165](https://github.com/nattadasu/ryuuRyuusei/pull/165) in [nattadasu/ryuuRyuusei](https://github.com/nattadasu/ryuuRyuusei)
+5. 💪 Opened PR [#165](https://github.com/nattadasu/ryuuRyuusei/pull/165) in [nattadasu/ryuuRyuusei](https://github.com/nattadasu/ryuuRyuusei)
 <!--END_SECTION:activity-->
