@@ -20,9 +20,9 @@ Try to sign on my guestbook at [nattadasu/nattadasu#1](https://github.com/nattad
 
 ## GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#185](https://github.com/nattadasu/ryuuRyuusei/pull/185) in [nattadasu/ryuuRyuusei](https://github.com/nattadasu/ryuuRyuusei)
-2. 🎉 Merged PR [#5](https://github.com/nattadasu/nattadasu/pull/5) in [nattadasu/nattadasu](https://github.com/nattadasu/nattadasu)
-3. 🎉 Merged PR [#184](https://github.com/nattadasu/ryuuRyuusei/pull/184) in [nattadasu/ryuuRyuusei](https://github.com/nattadasu/ryuuRyuusei)
-4. 🎉 Merged PR [#183](https://github.com/nattadasu/ryuuRyuusei/pull/183) in [nattadasu/ryuuRyuusei](https://github.com/nattadasu/ryuuRyuusei)
-5. ❗ Opened issue [#182](https://github.com/nattadasu/ryuuRyuusei/issues/182) in [nattadasu/ryuuRyuusei](https://github.com/nattadasu/ryuuRyuusei)
+1. 🎉 Merged PR [#1](https://github.com/Animanga-Initiative/animeManga-autoBackup/pull/1) in [Animanga-Initiative/animeManga-autoBackup](https://github.com/Animanga-Initiative/animeManga-autoBackup)
+2. 💪 Opened PR [#1](https://github.com/Animanga-Initiative/animeManga-autoBackup/pull/1) in [Animanga-Initiative/animeManga-autoBackup](https://github.com/Animanga-Initiative/animeManga-autoBackup)
+3. 🎉 Merged PR [#185](https://github.com/nattadasu/ryuuRyuusei/pull/185) in [nattadasu/ryuuRyuusei](https://github.com/nattadasu/ryuuRyuusei)
+4. 🎉 Merged PR [#5](https://github.com/nattadasu/nattadasu/pull/5) in [nattadasu/nattadasu](https://github.com/nattadasu/nattadasu)
+5. 🎉 Merged PR [#184](https://github.com/nattadasu/ryuuRyuusei/pull/184) in [nattadasu/ryuuRyuusei](https://github.com/nattadasu/ryuuRyuusei)
 <!--END_SECTION:activity-->
