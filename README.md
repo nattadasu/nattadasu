@@ -20,9 +20,9 @@ Try to sign on my guestbook at [nattadasu/nattadasu#1](https://github.com/nattad
 
 ## GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#189](https://github.com/nattadasu/ryuuRyuusei/pull/189) in [nattadasu/ryuuRyuusei](https://github.com/nattadasu/ryuuRyuusei)
-2. 🔒 Closed issue [#156](https://github.com/nattadasu/ryuuRyuusei/issues/156) in [nattadasu/ryuuRyuusei](https://github.com/nattadasu/ryuuRyuusei)
-3. ❗ Opened issue [#188](https://github.com/nattadasu/ryuuRyuusei/issues/188) in [nattadasu/ryuuRyuusei](https://github.com/nattadasu/ryuuRyuusei)
-4. ❗ Opened issue [#187](https://github.com/nattadasu/ryuuRyuusei/issues/187) in [nattadasu/ryuuRyuusei](https://github.com/nattadasu/ryuuRyuusei)
-5. 🎉 Merged PR [#186](https://github.com/nattadasu/ryuuRyuusei/pull/186) in [nattadasu/ryuuRyuusei](https://github.com/nattadasu/ryuuRyuusei)
+1. 🎉 Merged PR [#190](https://github.com/nattadasu/ryuuRyuusei/pull/190) in [nattadasu/ryuuRyuusei](https://github.com/nattadasu/ryuuRyuusei)
+2. ❗ Opened issue [#411](https://github.com/jikan-me/jikan-rest/issues/411) in [jikan-me/jikan-rest](https://github.com/jikan-me/jikan-rest)
+3. 🎉 Merged PR [#189](https://github.com/nattadasu/ryuuRyuusei/pull/189) in [nattadasu/ryuuRyuusei](https://github.com/nattadasu/ryuuRyuusei)
+4. 🔒 Closed issue [#156](https://github.com/nattadasu/ryuuRyuusei/issues/156) in [nattadasu/ryuuRyuusei](https://github.com/nattadasu/ryuuRyuusei)
+5. ❗ Opened issue [#188](https://github.com/nattadasu/ryuuRyuusei/issues/188) in [nattadasu/ryuuRyuusei](https://github.com/nattadasu/ryuuRyuusei)
 <!--END_SECTION:activity-->
