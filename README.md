@@ -20,9 +20,9 @@ Try to sign on my guestbook at [nattadasu/nattadasu#1](https://github.com/nattad
 
 ## GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/nattadasu/nattadasu/pull/6) in [nattadasu/nattadasu](https://github.com/nattadasu/nattadasu)
-2. 💪 Opened PR [#1](https://github.com/ryuuganime/animanga-wordlist/pull/1) in [ryuuganime/animanga-wordlist](https://github.com/ryuuganime/animanga-wordlist)
-3. ❗ Opened issue [#192](https://github.com/nattadasu/ryuuRyuusei/issues/192) in [nattadasu/ryuuRyuusei](https://github.com/nattadasu/ryuuRyuusei)
-4. ❗ Opened issue [#191](https://github.com/nattadasu/ryuuRyuusei/issues/191) in [nattadasu/ryuuRyuusei](https://github.com/nattadasu/ryuuRyuusei)
-5. 🎉 Merged PR [#190](https://github.com/nattadasu/ryuuRyuusei/pull/190) in [nattadasu/ryuuRyuusei](https://github.com/nattadasu/ryuuRyuusei)
+1. 🔒 Closed issue [#1](https://github.com/ryuuganime/docuwiki/issues/1) in [ryuuganime/docuwiki](https://github.com/ryuuganime/docuwiki)
+2. 🔒 Closed issue [#2](https://github.com/nattadasu/cardscollection/issues/2) in [nattadasu/cardscollection](https://github.com/nattadasu/cardscollection)
+3. 🎉 Merged PR [#6](https://github.com/nattadasu/nattadasu/pull/6) in [nattadasu/nattadasu](https://github.com/nattadasu/nattadasu)
+4. 💪 Opened PR [#1](https://github.com/ryuuganime/animanga-wordlist/pull/1) in [ryuuganime/animanga-wordlist](https://github.com/ryuuganime/animanga-wordlist)
+5. ❗ Opened issue [#192](https://github.com/nattadasu/ryuuRyuusei/issues/192) in [nattadasu/ryuuRyuusei](https://github.com/nattadasu/ryuuRyuusei)
 <!--END_SECTION:activity-->
