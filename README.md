@@ -20,9 +20,9 @@ Try to sign on my guestbook at [nattadasu/nattadasu#1](https://github.com/nattad
 
 ## GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#202](https://github.com/nattadasu/ryuuRyuusei/pull/202) in [nattadasu/ryuuRyuusei](https://github.com/nattadasu/ryuuRyuusei)
-2. 🎉 Merged PR [#201](https://github.com/nattadasu/ryuuRyuusei/pull/201) in [nattadasu/ryuuRyuusei](https://github.com/nattadasu/ryuuRyuusei)
-3. 🎉 Merged PR [#200](https://github.com/nattadasu/ryuuRyuusei/pull/200) in [nattadasu/ryuuRyuusei](https://github.com/nattadasu/ryuuRyuusei)
-4. 🎉 Merged PR [#199](https://github.com/nattadasu/ryuuRyuusei/pull/199) in [nattadasu/ryuuRyuusei](https://github.com/nattadasu/ryuuRyuusei)
-5. 🗣 Commented on [#411](https://github.com/jikan-me/jikan-rest/issues/411#issuecomment-1628686714) in [jikan-me/jikan-rest](https://github.com/jikan-me/jikan-rest)
+1. 💪 Opened PR [#303](https://github.com/farizdotid/DAFTAR-API-LOKAL-INDONESIA/pull/303) in [farizdotid/DAFTAR-API-LOKAL-INDONESIA](https://github.com/farizdotid/DAFTAR-API-LOKAL-INDONESIA)
+2. 🎉 Merged PR [#202](https://github.com/nattadasu/ryuuRyuusei/pull/202) in [nattadasu/ryuuRyuusei](https://github.com/nattadasu/ryuuRyuusei)
+3. 🎉 Merged PR [#201](https://github.com/nattadasu/ryuuRyuusei/pull/201) in [nattadasu/ryuuRyuusei](https://github.com/nattadasu/ryuuRyuusei)
+4. 🎉 Merged PR [#200](https://github.com/nattadasu/ryuuRyuusei/pull/200) in [nattadasu/ryuuRyuusei](https://github.com/nattadasu/ryuuRyuusei)
+5. 🎉 Merged PR [#199](https://github.com/nattadasu/ryuuRyuusei/pull/199) in [nattadasu/ryuuRyuusei](https://github.com/nattadasu/ryuuRyuusei)
 <!--END_SECTION:activity-->
