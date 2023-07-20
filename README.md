@@ -2,8 +2,7 @@
 
 # Natsu Tadama (@nattadasu)
 
-[<img width="400" src="https://spotify.nattadeploy.my.id/api?theme=dark&scan=true">](https://open.spotify.com/user/nattadasu)<br>
-[![My Last.fm](https://lastfm.nattadeploy.my.id/api?user=nattadasu&loved=true)](https://www.last.fm/user/nattadasu)
+![Github Metrics](github-metrics.svg)
 </div>
 
 ## Guestbook
