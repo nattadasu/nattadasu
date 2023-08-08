@@ -19,9 +19,9 @@ Try to sign on my guestbook at [nattadasu/nattadasu#1](https://github.com/nattad
 
 ## GitHub Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v3.0.1 - Minor documentation fix](https://github.com/nattadasu/animeapi-py/releases/tag/v3.0.1) in [nattadasu/animeapi-py](https://github.com/nattadasu/animeapi-py)
-2. 🚀 Published release [v3.0.0 - Initial Release](https://github.com/nattadasu/animeapi-py/releases/tag/v3.0.0) in [nattadasu/animeapi-py](https://github.com/nattadasu/animeapi-py)
-3. 🎉 Merged PR [#217](https://github.com/nattadasu/ryuuRyuusei/pull/217) in [nattadasu/ryuuRyuusei](https://github.com/nattadasu/ryuuRyuusei)
-4. ❌ Closed PR [#216](https://github.com/nattadasu/ryuuRyuusei/pull/216) in [nattadasu/ryuuRyuusei](https://github.com/nattadasu/ryuuRyuusei)
-5. 🎉 Merged PR [#215](https://github.com/nattadasu/ryuuRyuusei/pull/215) in [nattadasu/ryuuRyuusei](https://github.com/nattadasu/ryuuRyuusei)
+1. 🎉 Merged PR [#218](https://github.com/nattadasu/ryuuRyuusei/pull/218) in [nattadasu/ryuuRyuusei](https://github.com/nattadasu/ryuuRyuusei)
+2. 🚀 Published release [v3.0.1 - Minor documentation fix](https://github.com/nattadasu/animeapi-py/releases/tag/v3.0.1) in [nattadasu/animeapi-py](https://github.com/nattadasu/animeapi-py)
+3. 🚀 Published release [v3.0.0 - Initial Release](https://github.com/nattadasu/animeapi-py/releases/tag/v3.0.0) in [nattadasu/animeapi-py](https://github.com/nattadasu/animeapi-py)
+4. 🎉 Merged PR [#217](https://github.com/nattadasu/ryuuRyuusei/pull/217) in [nattadasu/ryuuRyuusei](https://github.com/nattadasu/ryuuRyuusei)
+5. ❌ Closed PR [#216](https://github.com/nattadasu/ryuuRyuusei/pull/216) in [nattadasu/ryuuRyuusei](https://github.com/nattadasu/ryuuRyuusei)
 <!--END_SECTION:activity-->
