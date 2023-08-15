@@ -19,9 +19,9 @@ Try to sign on my guestbook at [nattadasu/nattadasu#1](https://github.com/nattad
 
 ## GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/nattadasu/animeapi-py/pull/2) in [nattadasu/animeapi-py](https://github.com/nattadasu/animeapi-py)
-2. 🎉 Merged PR [#1](https://github.com/nattadasu/animeapi-py/pull/1) in [nattadasu/animeapi-py](https://github.com/nattadasu/animeapi-py)
-3. 🚀 Published release [v3.2.1: Bugs squash and Documentation update](https://github.com/nattadasu/animeapi-py/releases/tag/v3.2.1) in [nattadasu/animeapi-py](https://github.com/nattadasu/animeapi-py)
-4. 🚀 Published release [v3.2.0: Featuring models.Updated and drop use_datetime param](https://github.com/nattadasu/animeapi-py/releases/tag/v3.2.0) in [nattadasu/animeapi-py](https://github.com/nattadasu/animeapi-py)
-5. 🚀 Published release [v3.1.0: Better Exceptions and Hinting](https://github.com/nattadasu/animeapi-py/releases/tag/v3.1.0) in [nattadasu/animeapi-py](https://github.com/nattadasu/animeapi-py)
+1. 🎉 Merged PR [#3](https://github.com/nattadasu/animeapi-py/pull/3) in [nattadasu/animeapi-py](https://github.com/nattadasu/animeapi-py)
+2. 🎉 Merged PR [#2](https://github.com/nattadasu/animeapi-py/pull/2) in [nattadasu/animeapi-py](https://github.com/nattadasu/animeapi-py)
+3. 🎉 Merged PR [#1](https://github.com/nattadasu/animeapi-py/pull/1) in [nattadasu/animeapi-py](https://github.com/nattadasu/animeapi-py)
+4. 🚀 Published release [v3.2.1: Bugs squash and Documentation update](https://github.com/nattadasu/animeapi-py/releases/tag/v3.2.1) in [nattadasu/animeapi-py](https://github.com/nattadasu/animeapi-py)
+5. 🚀 Published release [v3.2.0: Featuring models.Updated and drop use_datetime param](https://github.com/nattadasu/animeapi-py/releases/tag/v3.2.0) in [nattadasu/animeapi-py](https://github.com/nattadasu/animeapi-py)
 <!--END_SECTION:activity-->
