@@ -19,9 +19,9 @@ Try to sign on my guestbook at [nattadasu/nattadasu#1](https://github.com/nattad
 
 ## GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#29](https://github.com/zuzumi-f/Discord-11/issues/29#issuecomment-1686959891) in [zuzumi-f/Discord-11](https://github.com/zuzumi-f/Discord-11)
-2. 🚀 Published release [v3.4.0 - Nautiljon Support](https://github.com/nattadasu/animeapi-py/releases/tag/v3.4.0) in [nattadasu/animeapi-py](https://github.com/nattadasu/animeapi-py)
-3. 🎉 Merged PR [#3](https://github.com/nattadasu/animeapi-py/pull/3) in [nattadasu/animeapi-py](https://github.com/nattadasu/animeapi-py)
-4. 🎉 Merged PR [#2](https://github.com/nattadasu/animeapi-py/pull/2) in [nattadasu/animeapi-py](https://github.com/nattadasu/animeapi-py)
-5. 🎉 Merged PR [#1](https://github.com/nattadasu/animeapi-py/pull/1) in [nattadasu/animeapi-py](https://github.com/nattadasu/animeapi-py)
+1. ❗ Opened issue [#42](https://github.com/FireCubeStudios/Run/issues/42) in [FireCubeStudios/Run](https://github.com/FireCubeStudios/Run)
+2. 🗣 Commented on [#29](https://github.com/zuzumi-f/Discord-11/issues/29#issuecomment-1686959891) in [zuzumi-f/Discord-11](https://github.com/zuzumi-f/Discord-11)
+3. 🚀 Published release [v3.4.0 - Nautiljon Support](https://github.com/nattadasu/animeapi-py/releases/tag/v3.4.0) in [nattadasu/animeapi-py](https://github.com/nattadasu/animeapi-py)
+4. 🎉 Merged PR [#3](https://github.com/nattadasu/animeapi-py/pull/3) in [nattadasu/animeapi-py](https://github.com/nattadasu/animeapi-py)
+5. 🎉 Merged PR [#2](https://github.com/nattadasu/animeapi-py/pull/2) in [nattadasu/animeapi-py](https://github.com/nattadasu/animeapi-py)
 <!--END_SECTION:activity-->
