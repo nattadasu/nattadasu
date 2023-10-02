@@ -19,9 +19,9 @@ Try to sign on my guestbook at [nattadasu/nattadasu#1](https://github.com/nattad
 
 ## GitHub Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#286](https://github.com/justfoolingaround/animdl/issues/286) in [justfoolingaround/animdl](https://github.com/justfoolingaround/animdl)
-2. 🎉 Merged PR [#1](https://github.com/ryuuRyuusei/cutlet-pure/pull/1) in [ryuuRyuusei/cutlet-pure](https://github.com/ryuuRyuusei/cutlet-pure)
-3. 💪 Opened PR [#1](https://github.com/ryuuRyuusei/cutlet-pure/pull/1) in [ryuuRyuusei/cutlet-pure](https://github.com/ryuuRyuusei/cutlet-pure)
-4. 🎉 Merged PR [#2](https://github.com/Animanga-Initiative/animeManga-autoBackup/pull/2) in [Animanga-Initiative/animeManga-autoBackup](https://github.com/Animanga-Initiative/animeManga-autoBackup)
-5. ❌ Closed PR [#1](https://github.com/ryuuganime/animanga-wordlist/pull/1) in [ryuuganime/animanga-wordlist](https://github.com/ryuuganime/animanga-wordlist)
+1. 🗣 Commented on [#38](https://github.com/PKBeam/AMWin-RP/issues/38#issuecomment-1742506099) in [PKBeam/AMWin-RP](https://github.com/PKBeam/AMWin-RP)
+2. ❗ Opened issue [#286](https://github.com/justfoolingaround/animdl/issues/286) in [justfoolingaround/animdl](https://github.com/justfoolingaround/animdl)
+3. 🎉 Merged PR [#1](https://github.com/ryuuRyuusei/cutlet-pure/pull/1) in [ryuuRyuusei/cutlet-pure](https://github.com/ryuuRyuusei/cutlet-pure)
+4. 💪 Opened PR [#1](https://github.com/ryuuRyuusei/cutlet-pure/pull/1) in [ryuuRyuusei/cutlet-pure](https://github.com/ryuuRyuusei/cutlet-pure)
+5. 🎉 Merged PR [#2](https://github.com/Animanga-Initiative/animeManga-autoBackup/pull/2) in [Animanga-Initiative/animeManga-autoBackup](https://github.com/Animanga-Initiative/animeManga-autoBackup)
 <!--END_SECTION:activity-->
