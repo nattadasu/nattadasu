@@ -19,9 +19,9 @@ Try to sign on my guestbook at [nattadasu/nattadasu#1](https://github.com/nattad
 
 ## GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#26](https://github.com/tranxuanthang/lrcget/issues/26#issuecomment-1784038457) in [tranxuanthang/lrcget](https://github.com/tranxuanthang/lrcget)
-2. ❗ Opened issue [#26](https://github.com/tranxuanthang/lrcget/issues/26) in [tranxuanthang/lrcget](https://github.com/tranxuanthang/lrcget)
-3. 🎉 Merged PR [#18](https://github.com/nattadasu/kaiOSHosts-ID/pull/18) in [nattadasu/kaiOSHosts-ID](https://github.com/nattadasu/kaiOSHosts-ID)
-4. 🎉 Merged PR [#19](https://github.com/nattadasu/kaiOSHosts-ID/pull/19) in [nattadasu/kaiOSHosts-ID](https://github.com/nattadasu/kaiOSHosts-ID)
-5. ❗ Opened issue [#53](https://github.com/PKBeam/AMWin-RP/issues/53) in [PKBeam/AMWin-RP](https://github.com/PKBeam/AMWin-RP)
+1. 🗣 Commented on [#26](https://github.com/tranxuanthang/lrcget/issues/26#issuecomment-1787651102) in [tranxuanthang/lrcget](https://github.com/tranxuanthang/lrcget)
+2. 🗣 Commented on [#26](https://github.com/tranxuanthang/lrcget/issues/26#issuecomment-1784038457) in [tranxuanthang/lrcget](https://github.com/tranxuanthang/lrcget)
+3. ❗ Opened issue [#26](https://github.com/tranxuanthang/lrcget/issues/26) in [tranxuanthang/lrcget](https://github.com/tranxuanthang/lrcget)
+4. 🎉 Merged PR [#18](https://github.com/nattadasu/kaiOSHosts-ID/pull/18) in [nattadasu/kaiOSHosts-ID](https://github.com/nattadasu/kaiOSHosts-ID)
+5. 🎉 Merged PR [#19](https://github.com/nattadasu/kaiOSHosts-ID/pull/19) in [nattadasu/kaiOSHosts-ID](https://github.com/nattadasu/kaiOSHosts-ID)
 <!--END_SECTION:activity-->
