@@ -19,9 +19,9 @@ Try to sign on my guestbook at [nattadasu/nattadasu#1](https://github.com/nattad
 
 ## GitHub Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/nattadasu/animeApi/pull/1) in [nattadasu/animeApi](https://github.com/nattadasu/animeApi)
-2. 🔒 Closed issue [#191](https://github.com/nattadasu/ryuuRyuusei/issues/191) in [nattadasu/ryuuRyuusei](https://github.com/nattadasu/ryuuRyuusei)
-3. 🗣 Commented on [#191](https://github.com/nattadasu/ryuuRyuusei/issues/191#issuecomment-1807283755) in [nattadasu/ryuuRyuusei](https://github.com/nattadasu/ryuuRyuusei)
-4. 🗣 Commented on [#289](https://github.com/justfoolingaround/animdl/issues/289#issuecomment-1794512032) in [justfoolingaround/animdl](https://github.com/justfoolingaround/animdl)
-5. 🗣 Commented on [#26](https://github.com/tranxuanthang/lrcget/issues/26#issuecomment-1787651102) in [tranxuanthang/lrcget](https://github.com/tranxuanthang/lrcget)
+1. 💪 Opened PR [#2](https://github.com/ryuuRyuusei/cutlet-pure/pull/2) in [ryuuRyuusei/cutlet-pure](https://github.com/ryuuRyuusei/cutlet-pure)
+2. 🎉 Merged PR [#223](https://github.com/nattadasu/ryuuRyuusei/pull/223) in [nattadasu/ryuuRyuusei](https://github.com/nattadasu/ryuuRyuusei)
+3. ❌ Closed PR [#1](https://github.com/nattadasu/animeApi/pull/1) in [nattadasu/animeApi](https://github.com/nattadasu/animeApi)
+4. 🔒 Closed issue [#191](https://github.com/nattadasu/ryuuRyuusei/issues/191) in [nattadasu/ryuuRyuusei](https://github.com/nattadasu/ryuuRyuusei)
+5. 🗣 Commented on [#191](https://github.com/nattadasu/ryuuRyuusei/issues/191#issuecomment-1807283755) in [nattadasu/ryuuRyuusei](https://github.com/nattadasu/ryuuRyuusei)
 <!--END_SECTION:activity-->
