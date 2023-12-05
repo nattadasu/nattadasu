@@ -19,9 +19,9 @@ Try to sign on my guestbook at [nattadasu/nattadasu#1](https://github.com/nattad
 
 ## GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#232](https://github.com/nattadasu/ryuuRyuusei/pull/232) in [nattadasu/ryuuRyuusei](https://github.com/nattadasu/ryuuRyuusei)
-2. 🗣 Commented on [#19165](https://github.com/tachiyomiorg/tachiyomi-extensions/issues/19165#issuecomment-1837686429) in [tachiyomiorg/tachiyomi-extensions](https://github.com/tachiyomiorg/tachiyomi-extensions)
-3. 🎉 Merged PR [#231](https://github.com/nattadasu/ryuuRyuusei/pull/231) in [nattadasu/ryuuRyuusei](https://github.com/nattadasu/ryuuRyuusei)
-4. 🎉 Merged PR [#230](https://github.com/nattadasu/ryuuRyuusei/pull/230) in [nattadasu/ryuuRyuusei](https://github.com/nattadasu/ryuuRyuusei)
-5. 🎉 Merged PR [#229](https://github.com/nattadasu/ryuuRyuusei/pull/229) in [nattadasu/ryuuRyuusei](https://github.com/nattadasu/ryuuRyuusei)
+1. 💪 Opened PR [#19202](https://github.com/tachiyomiorg/tachiyomi-extensions/pull/19202) in [tachiyomiorg/tachiyomi-extensions](https://github.com/tachiyomiorg/tachiyomi-extensions)
+2. 🎉 Merged PR [#232](https://github.com/nattadasu/ryuuRyuusei/pull/232) in [nattadasu/ryuuRyuusei](https://github.com/nattadasu/ryuuRyuusei)
+3. 🗣 Commented on [#19165](https://github.com/tachiyomiorg/tachiyomi-extensions/issues/19165#issuecomment-1837686429) in [tachiyomiorg/tachiyomi-extensions](https://github.com/tachiyomiorg/tachiyomi-extensions)
+4. 🎉 Merged PR [#231](https://github.com/nattadasu/ryuuRyuusei/pull/231) in [nattadasu/ryuuRyuusei](https://github.com/nattadasu/ryuuRyuusei)
+5. 🎉 Merged PR [#230](https://github.com/nattadasu/ryuuRyuusei/pull/230) in [nattadasu/ryuuRyuusei](https://github.com/nattadasu/ryuuRyuusei)
 <!--END_SECTION:activity-->
