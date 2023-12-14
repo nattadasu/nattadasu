@@ -19,9 +19,9 @@ Try to sign on my guestbook at [nattadasu/nattadasu#1](https://github.com/nattad
 
 ## GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#233](https://github.com/nattadasu/ryuuRyuusei/pull/233) in [nattadasu/ryuuRyuusei](https://github.com/nattadasu/ryuuRyuusei)
-2. 🗣 Commented on [#1](https://github.com/ryuuganime/aniTrakt-IndexParser/issues/1#issuecomment-1848304920) in [ryuuganime/aniTrakt-IndexParser](https://github.com/ryuuganime/aniTrakt-IndexParser)
-3. 🔒 Closed issue [#1](https://github.com/ryuuganime/aniTrakt-IndexParser/issues/1) in [ryuuganime/aniTrakt-IndexParser](https://github.com/ryuuganime/aniTrakt-IndexParser)
-4. 🗣 Commented on [#19189](https://github.com/tachiyomiorg/tachiyomi-extensions/issues/19189#issuecomment-1841266137) in [tachiyomiorg/tachiyomi-extensions](https://github.com/tachiyomiorg/tachiyomi-extensions)
-5. 🗣 Commented on [#19189](https://github.com/tachiyomiorg/tachiyomi-extensions/issues/19189#issuecomment-1840534759) in [tachiyomiorg/tachiyomi-extensions](https://github.com/tachiyomiorg/tachiyomi-extensions)
+1. 🔒 Closed issue [#3](https://github.com/Animanga-Initiative/animeManga-autoBackup/issues/3) in [Animanga-Initiative/animeManga-autoBackup](https://github.com/Animanga-Initiative/animeManga-autoBackup)
+2. 🔒 Closed issue [#4](https://github.com/Animanga-Initiative/animeManga-autoBackup/issues/4) in [Animanga-Initiative/animeManga-autoBackup](https://github.com/Animanga-Initiative/animeManga-autoBackup)
+3. 🗣 Commented on [#4](https://github.com/Animanga-Initiative/animeManga-autoBackup/issues/4#issuecomment-1855975013) in [Animanga-Initiative/animeManga-autoBackup](https://github.com/Animanga-Initiative/animeManga-autoBackup)
+4. 🎉 Merged PR [#233](https://github.com/nattadasu/ryuuRyuusei/pull/233) in [nattadasu/ryuuRyuusei](https://github.com/nattadasu/ryuuRyuusei)
+5. 🗣 Commented on [#1](https://github.com/ryuuganime/aniTrakt-IndexParser/issues/1#issuecomment-1848304920) in [ryuuganime/aniTrakt-IndexParser](https://github.com/ryuuganime/aniTrakt-IndexParser)
 <!--END_SECTION:activity-->
