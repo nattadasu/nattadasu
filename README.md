@@ -19,9 +19,9 @@ Try to sign on my guestbook at [nattadasu/nattadasu#1](https://github.com/nattad
 
 ## GitHub Activity
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#3](https://github.com/Animanga-Initiative/animeManga-autoBackup/issues/3) in [Animanga-Initiative/animeManga-autoBackup](https://github.com/Animanga-Initiative/animeManga-autoBackup)
-2. 🔒 Closed issue [#4](https://github.com/Animanga-Initiative/animeManga-autoBackup/issues/4) in [Animanga-Initiative/animeManga-autoBackup](https://github.com/Animanga-Initiative/animeManga-autoBackup)
-3. 🗣 Commented on [#4](https://github.com/Animanga-Initiative/animeManga-autoBackup/issues/4#issuecomment-1855975013) in [Animanga-Initiative/animeManga-autoBackup](https://github.com/Animanga-Initiative/animeManga-autoBackup)
-4. 🎉 Merged PR [#233](https://github.com/nattadasu/ryuuRyuusei/pull/233) in [nattadasu/ryuuRyuusei](https://github.com/nattadasu/ryuuRyuusei)
-5. 🗣 Commented on [#1](https://github.com/ryuuganime/aniTrakt-IndexParser/issues/1#issuecomment-1848304920) in [ryuuganime/aniTrakt-IndexParser](https://github.com/ryuuganime/aniTrakt-IndexParser)
+1. 🗣 Commented on [#4](https://github.com/nattadasu/animeapi-py/issues/4#issuecomment-1857211011) in [nattadasu/animeapi-py](https://github.com/nattadasu/animeapi-py)
+2. 🔒 Closed issue [#3](https://github.com/Animanga-Initiative/animeManga-autoBackup/issues/3) in [Animanga-Initiative/animeManga-autoBackup](https://github.com/Animanga-Initiative/animeManga-autoBackup)
+3. 🔒 Closed issue [#4](https://github.com/Animanga-Initiative/animeManga-autoBackup/issues/4) in [Animanga-Initiative/animeManga-autoBackup](https://github.com/Animanga-Initiative/animeManga-autoBackup)
+4. 🗣 Commented on [#4](https://github.com/Animanga-Initiative/animeManga-autoBackup/issues/4#issuecomment-1855975013) in [Animanga-Initiative/animeManga-autoBackup](https://github.com/Animanga-Initiative/animeManga-autoBackup)
+5. 🎉 Merged PR [#233](https://github.com/nattadasu/ryuuRyuusei/pull/233) in [nattadasu/ryuuRyuusei](https://github.com/nattadasu/ryuuRyuusei)
 <!--END_SECTION:activity-->
