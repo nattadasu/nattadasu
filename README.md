@@ -19,9 +19,9 @@ Try to sign on my guestbook at [nattadasu/nattadasu#1](https://github.com/nattad
 
 ## GitHub Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#3](https://github.com/Emplexx/Aluminium/issues/3) in [Emplexx/Aluminium](https://github.com/Emplexx/Aluminium)
-2. 🎉 Merged PR [#234](https://github.com/nattadasu/ryuuRyuusei/pull/234) in [nattadasu/ryuuRyuusei](https://github.com/nattadasu/ryuuRyuusei)
-3. 💪 Opened PR [#234](https://github.com/nattadasu/ryuuRyuusei/pull/234) in [nattadasu/ryuuRyuusei](https://github.com/nattadasu/ryuuRyuusei)
-4. 🔒 Closed issue [#2](https://github.com/nattadasu/animeApi/issues/2) in [nattadasu/animeApi](https://github.com/nattadasu/animeApi)
-5. 🗣 Commented on [#73](https://github.com/infanf/myanili/issues/73#issuecomment-1858652039) in [infanf/myanili](https://github.com/infanf/myanili)
+1. 🗣 Commented on [#32](https://github.com/infanf/myanili/issues/32#issuecomment-1928660716) in [infanf/myanili](https://github.com/infanf/myanili)
+2. ❗ Opened issue [#3](https://github.com/Emplexx/Aluminium/issues/3) in [Emplexx/Aluminium](https://github.com/Emplexx/Aluminium)
+3. 🎉 Merged PR [#234](https://github.com/nattadasu/ryuuRyuusei/pull/234) in [nattadasu/ryuuRyuusei](https://github.com/nattadasu/ryuuRyuusei)
+4. 💪 Opened PR [#234](https://github.com/nattadasu/ryuuRyuusei/pull/234) in [nattadasu/ryuuRyuusei](https://github.com/nattadasu/ryuuRyuusei)
+5. 🔒 Closed issue [#2](https://github.com/nattadasu/animeApi/issues/2) in [nattadasu/animeApi](https://github.com/nattadasu/animeApi)
 <!--END_SECTION:activity-->
