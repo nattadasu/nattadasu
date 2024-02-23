@@ -22,9 +22,9 @@ Try to sign on my guestbook at [nattadasu/nattadasu#1](https://github.com/nattad
 
 ## GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/Animanga-Initiative/bokusu/issues/3#issuecomment-1951984185) in [Animanga-Initiative/bokusu](https://github.com/Animanga-Initiative/bokusu)
-2. 🗣 Commented on [#3](https://github.com/Animanga-Initiative/bokusu/issues/3#issuecomment-1951980629) in [Animanga-Initiative/bokusu](https://github.com/Animanga-Initiative/bokusu)
-3. 🗣 Commented on [#3](https://github.com/Animanga-Initiative/bokusu/issues/3#issuecomment-1951955259) in [Animanga-Initiative/bokusu](https://github.com/Animanga-Initiative/bokusu)
-4. 🎉 Merged PR [#2](https://github.com/Animanga-Initiative/bokusu/pull/2) in [Animanga-Initiative/bokusu](https://github.com/Animanga-Initiative/bokusu)
-5. 🗣 Commented on [#32](https://github.com/infanf/myanili/issues/32#issuecomment-1928660716) in [infanf/myanili](https://github.com/infanf/myanili)
+1. ❗ Opened issue [#80](https://github.com/infanf/myanili/issues/80) in [infanf/myanili](https://github.com/infanf/myanili)
+2. 🗣 Commented on [#3](https://github.com/Animanga-Initiative/bokusu/issues/3#issuecomment-1951984185) in [Animanga-Initiative/bokusu](https://github.com/Animanga-Initiative/bokusu)
+3. 🗣 Commented on [#3](https://github.com/Animanga-Initiative/bokusu/issues/3#issuecomment-1951980629) in [Animanga-Initiative/bokusu](https://github.com/Animanga-Initiative/bokusu)
+4. 🗣 Commented on [#3](https://github.com/Animanga-Initiative/bokusu/issues/3#issuecomment-1951955259) in [Animanga-Initiative/bokusu](https://github.com/Animanga-Initiative/bokusu)
+5. 🎉 Merged PR [#2](https://github.com/Animanga-Initiative/bokusu/pull/2) in [Animanga-Initiative/bokusu](https://github.com/Animanga-Initiative/bokusu)
 <!--END_SECTION:activity-->
