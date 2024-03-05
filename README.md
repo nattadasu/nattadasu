@@ -22,9 +22,9 @@ Try to sign on my guestbook at [nattadasu/nattadasu#1](https://github.com/nattad
 
 ## GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/Animanga-Initiative/bokusu/issues/3#issuecomment-1978787256) in [Animanga-Initiative/bokusu](https://github.com/Animanga-Initiative/bokusu)
-2. 🗣 Commented on [#3](https://github.com/Animanga-Initiative/bokusu/issues/3#issuecomment-1964700684) in [Animanga-Initiative/bokusu](https://github.com/Animanga-Initiative/bokusu)
-3. 🗣 Commented on [#26](https://github.com/tranxuanthang/lrcget/issues/26#issuecomment-1963872587) in [tranxuanthang/lrcget](https://github.com/tranxuanthang/lrcget)
-4. 🔒 Closed issue [#26](https://github.com/tranxuanthang/lrcget/issues/26) in [tranxuanthang/lrcget](https://github.com/tranxuanthang/lrcget)
-5. ❗ Opened issue [#9302](https://github.com/yt-dlp/yt-dlp/issues/9302) in [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)
+1. 🗣 Commented on [#3](https://github.com/Animanga-Initiative/bokusu/issues/3#issuecomment-1979530383) in [Animanga-Initiative/bokusu](https://github.com/Animanga-Initiative/bokusu)
+2. 🗣 Commented on [#3](https://github.com/Animanga-Initiative/bokusu/issues/3#issuecomment-1978787256) in [Animanga-Initiative/bokusu](https://github.com/Animanga-Initiative/bokusu)
+3. 🗣 Commented on [#3](https://github.com/Animanga-Initiative/bokusu/issues/3#issuecomment-1964700684) in [Animanga-Initiative/bokusu](https://github.com/Animanga-Initiative/bokusu)
+4. 🗣 Commented on [#26](https://github.com/tranxuanthang/lrcget/issues/26#issuecomment-1963872587) in [tranxuanthang/lrcget](https://github.com/tranxuanthang/lrcget)
+5. 🔒 Closed issue [#26](https://github.com/tranxuanthang/lrcget/issues/26) in [tranxuanthang/lrcget](https://github.com/tranxuanthang/lrcget)
 <!--END_SECTION:activity-->
