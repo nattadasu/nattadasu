@@ -22,9 +22,9 @@ Try to sign on my guestbook at [nattadasu/nattadasu#1](https://github.com/nattad
 
 ## GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#235](https://github.com/nattadasu/ryuuRyuusei/pull/235) in [nattadasu/ryuuRyuusei](https://github.com/nattadasu/ryuuRyuusei)
-2. 🎉 Merged PR [#2](https://github.com/rensetsu/aniTrakt-IndexParser/pull/2) in [rensetsu/aniTrakt-IndexParser](https://github.com/rensetsu/aniTrakt-IndexParser)
-3. ❌ Closed PR [#2](https://github.com/ryuuRyuusei/cutlet-pure/pull/2) in [ryuuRyuusei/cutlet-pure](https://github.com/ryuuRyuusei/cutlet-pure)
-4. ❗ Opened issue [#84](https://github.com/infanf/myanili/issues/84) in [infanf/myanili](https://github.com/infanf/myanili)
-5. ❗ Opened issue [#82](https://github.com/infanf/myanili/issues/82) in [infanf/myanili](https://github.com/infanf/myanili)
+1. 🎉 Merged PR [#1](https://github.com/rensetsu/core.scraper.template/pull/1) in [rensetsu/core.scraper.template](https://github.com/rensetsu/core.scraper.template)
+2. 🎉 Merged PR [#235](https://github.com/nattadasu/ryuuRyuusei/pull/235) in [nattadasu/ryuuRyuusei](https://github.com/nattadasu/ryuuRyuusei)
+3. 🎉 Merged PR [#2](https://github.com/rensetsu/aniTrakt-IndexParser/pull/2) in [rensetsu/aniTrakt-IndexParser](https://github.com/rensetsu/aniTrakt-IndexParser)
+4. ❌ Closed PR [#2](https://github.com/ryuuRyuusei/cutlet-pure/pull/2) in [ryuuRyuusei/cutlet-pure](https://github.com/ryuuRyuusei/cutlet-pure)
+5. ❗ Opened issue [#84](https://github.com/infanf/myanili/issues/84) in [infanf/myanili](https://github.com/infanf/myanili)
 <!--END_SECTION:activity-->
