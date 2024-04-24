@@ -22,9 +22,9 @@ Try to sign on my guestbook at [nattadasu/nattadasu#1](https://github.com/nattad
 
 ## GitHub Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#737](https://github.com/jarnedemeulemeester/findroid/issues/737) in [jarnedemeulemeester/findroid](https://github.com/jarnedemeulemeester/findroid)
-2. 🗣 Commented on [#73](https://github.com/infanf/myanili/issues/73#issuecomment-2067171318) in [infanf/myanili](https://github.com/infanf/myanili)
-3. 🎉 Merged PR [#1](https://github.com/rensetsu/core.scraper.template/pull/1) in [rensetsu/core.scraper.template](https://github.com/rensetsu/core.scraper.template)
-4. 🎉 Merged PR [#235](https://github.com/nattadasu/ryuuRyuusei/pull/235) in [nattadasu/ryuuRyuusei](https://github.com/nattadasu/ryuuRyuusei)
-5. 🎉 Merged PR [#2](https://github.com/rensetsu/aniTrakt-IndexParser/pull/2) in [rensetsu/aniTrakt-IndexParser](https://github.com/rensetsu/aniTrakt-IndexParser)
+1. 🔒 Closed issue [#26](https://github.com/ryuuganime/anime-db/issues/26) in [ryuuganime/anime-db](https://github.com/ryuuganime/anime-db)
+2. ❗ Opened issue [#737](https://github.com/jarnedemeulemeester/findroid/issues/737) in [jarnedemeulemeester/findroid](https://github.com/jarnedemeulemeester/findroid)
+3. 🗣 Commented on [#73](https://github.com/infanf/myanili/issues/73#issuecomment-2067171318) in [infanf/myanili](https://github.com/infanf/myanili)
+4. 🎉 Merged PR [#1](https://github.com/rensetsu/core.scraper.template/pull/1) in [rensetsu/core.scraper.template](https://github.com/rensetsu/core.scraper.template)
+5. 🎉 Merged PR [#235](https://github.com/nattadasu/ryuuRyuusei/pull/235) in [nattadasu/ryuuRyuusei](https://github.com/nattadasu/ryuuRyuusei)
 <!--END_SECTION:activity-->
