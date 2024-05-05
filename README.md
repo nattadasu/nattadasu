@@ -22,9 +22,9 @@ Try to sign on my guestbook at [nattadasu/nattadasu#1](https://github.com/nattad
 
 ## GitHub Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#159](https://github.com/erengy/anime-relations/pull/159) in [erengy/anime-relations](https://github.com/erengy/anime-relations)
-2. 🔒 Closed issue [#26](https://github.com/ryuuganime/anime-db/issues/26) in [ryuuganime/anime-db](https://github.com/ryuuganime/anime-db)
-3. ❗ Opened issue [#737](https://github.com/jarnedemeulemeester/findroid/issues/737) in [jarnedemeulemeester/findroid](https://github.com/jarnedemeulemeester/findroid)
-4. 🗣 Commented on [#73](https://github.com/infanf/myanili/issues/73#issuecomment-2067171318) in [infanf/myanili](https://github.com/infanf/myanili)
-5. 🎉 Merged PR [#1](https://github.com/rensetsu/core.scraper.template/pull/1) in [rensetsu/core.scraper.template](https://github.com/rensetsu/core.scraper.template)
+1. 🎉 Merged PR [#237](https://github.com/nattadasu/ryuuRyuusei/pull/237) in [nattadasu/ryuuRyuusei](https://github.com/nattadasu/ryuuRyuusei)
+2. 🎉 Merged PR [#236](https://github.com/nattadasu/ryuuRyuusei/pull/236) in [nattadasu/ryuuRyuusei](https://github.com/nattadasu/ryuuRyuusei)
+3. 💪 Opened PR [#159](https://github.com/erengy/anime-relations/pull/159) in [erengy/anime-relations](https://github.com/erengy/anime-relations)
+4. 🔒 Closed issue [#26](https://github.com/ryuuganime/anime-db/issues/26) in [ryuuganime/anime-db](https://github.com/ryuuganime/anime-db)
+5. ❗ Opened issue [#737](https://github.com/jarnedemeulemeester/findroid/issues/737) in [jarnedemeulemeester/findroid](https://github.com/jarnedemeulemeester/findroid)
 <!--END_SECTION:activity-->
