@@ -11,13 +11,13 @@ Try to sign on my guestbook at [nattadasu/nattadasu#1](https://github.com/nattad
 
 <!--START:guestbook-->
 > Tutturu~  here is my sign.. :smiley_cat: 
-> -[@yezki](https://github.com/yezki)
+-[@yezki](https://github.com/yezki)
 
 > Signed by barbarbar338 :D
-> -[@barbarbar338](https://github.com/barbarbar338)
+-[@barbarbar338](https://github.com/barbarbar338)
 
 > uwaaaaa
-> -[@pampampam999](https://github.com/pampampam999)
+-[@pampampam999](https://github.com/pampampam999)
 <!--END:guestbook-->
 
 ## GitHub Activity
