@@ -19,9 +19,9 @@ Try to sign on my guestbook at [nattadasu/nattadasu#1](https://github.com/nattad
 
 ## GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/nattadasu/animeApi/issues/3#issuecomment-2323222390) in [nattadasu/animeApi](https://github.com/nattadasu/animeApi)
-2. 🗣 Commented on [#3](https://github.com/nattadasu/animeApi/issues/3#issuecomment-2323204019) in [nattadasu/animeApi](https://github.com/nattadasu/animeApi)
-3. 🗣 Commented on [#3](https://github.com/nattadasu/animeApi/issues/3#issuecomment-2323202973) in [nattadasu/animeApi](https://github.com/nattadasu/animeApi)
-4. 🗣 Commented on [#116](https://github.com/tranxuanthang/lrcget/issues/116#issuecomment-2307484837) in [tranxuanthang/lrcget](https://github.com/tranxuanthang/lrcget)
-5. ❗ Opened issue [#30](https://github.com/jellyfin/jellyfin-plugin-kitsu/issues/30) in [jellyfin/jellyfin-plugin-kitsu](https://github.com/jellyfin/jellyfin-plugin-kitsu)
+1. ❗ Opened issue [#89](https://github.com/infanf/myanili/issues/89) in [infanf/myanili](https://github.com/infanf/myanili)
+2. 🗣 Commented on [#3](https://github.com/nattadasu/animeApi/issues/3#issuecomment-2323222390) in [nattadasu/animeApi](https://github.com/nattadasu/animeApi)
+3. 🗣 Commented on [#3](https://github.com/nattadasu/animeApi/issues/3#issuecomment-2323204019) in [nattadasu/animeApi](https://github.com/nattadasu/animeApi)
+4. 🗣 Commented on [#3](https://github.com/nattadasu/animeApi/issues/3#issuecomment-2323202973) in [nattadasu/animeApi](https://github.com/nattadasu/animeApi)
+5. 🗣 Commented on [#116](https://github.com/tranxuanthang/lrcget/issues/116#issuecomment-2307484837) in [tranxuanthang/lrcget](https://github.com/tranxuanthang/lrcget)
 <!--END_SECTION:activity-->
