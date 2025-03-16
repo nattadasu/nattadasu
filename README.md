@@ -19,8 +19,8 @@ Try to sign on my guestbook at [nattadasu/nattadasu#1](https://github.com/nattad
 
 ## GitHub Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#662](https://github.com/bebasid/bebasid/issues/662) in [bebasid/bebasid](https://github.com/bebasid/bebasid)
-2. 🗣 Commented on [#12013](https://github.com/yt-dlp/yt-dlp/issues/12013#issuecomment-2577700101) in [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)
+1. 🚀 Published release [v.3.5.0: SIMKL Support](https://github.com/nattadasu/animeapi-py/releases/tag/v3.5.0) in [nattadasu/animeapi-py](https://github.com/nattadasu/animeapi-py)
+2. ❗ Opened issue [#662](https://github.com/bebasid/bebasid/issues/662) in [bebasid/bebasid](https://github.com/bebasid/bebasid)
 3. ❗ Opened issue [#92](https://github.com/infanf/myanili/issues/92) in [infanf/myanili](https://github.com/infanf/myanili)
 4. 💪 Opened PR [#91](https://github.com/infanf/myanili/pull/91) in [infanf/myanili](https://github.com/infanf/myanili)
 5. ❌ Closed PR [#253](https://github.com/nattadasu/ryuuRyuusei/pull/253) in [nattadasu/ryuuRyuusei](https://github.com/nattadasu/ryuuRyuusei)
