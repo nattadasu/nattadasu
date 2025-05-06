@@ -19,9 +19,9 @@ Try to sign on my guestbook at [nattadasu/nattadasu#1](https://github.com/nattad
 
 ## GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#93](https://github.com/infanf/myanili/pull/93#issuecomment-2851655992) in [infanf/myanili](https://github.com/infanf/myanili)
-2. 💪 Opened PR [#93](https://github.com/infanf/myanili/pull/93) in [infanf/myanili](https://github.com/infanf/myanili)
-3. ❗ Opened issue [#92](https://github.com/infanf/myanili/issues/92) in [infanf/myanili](https://github.com/infanf/myanili)
+1. 💪 Opened PR [#254](https://github.com/nattadasu/ryuuRyuusei/pull/254) in [nattadasu/ryuuRyuusei](https://github.com/nattadasu/ryuuRyuusei)
+2. 🗣 Commented on [#93](https://github.com/infanf/myanili/pull/93#issuecomment-2851655992) in [infanf/myanili](https://github.com/infanf/myanili)
+3. 💪 Opened PR [#93](https://github.com/infanf/myanili/pull/93) in [infanf/myanili](https://github.com/infanf/myanili)
 4. 💪 Opened PR [#91](https://github.com/infanf/myanili/pull/91) in [infanf/myanili](https://github.com/infanf/myanili)
 5. ❌ Closed PR [#253](https://github.com/nattadasu/ryuuRyuusei/pull/253) in [nattadasu/ryuuRyuusei](https://github.com/nattadasu/ryuuRyuusei)
 <!--END_SECTION:activity-->
