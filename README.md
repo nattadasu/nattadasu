@@ -22,9 +22,9 @@ Try to sign on my guestbook at [nattadasu/nattadasu#1](https://github.com/nattad
 
 ## GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#34](https://github.com/shy1132/VacuumTube/issues/34#issuecomment-3011720621) in [shy1132/VacuumTube](https://github.com/shy1132/VacuumTube)
-2. ❗ Opened issue [#34](https://github.com/shy1132/VacuumTube/issues/34) in [shy1132/VacuumTube](https://github.com/shy1132/VacuumTube)
-3. 💪 Opened PR [#2](https://github.com/ryuuganime/metadataCreator-anime/pull/2) in [ryuuganime/metadataCreator-anime](https://github.com/ryuuganime/metadataCreator-anime)
-4. 🚀 Published release [v.3.6.0: ANN Support](https://github.com/nattadasu/animeapi-py/releases/tag/v3.6.0) in [nattadasu/animeapi-py](https://github.com/nattadasu/animeapi-py)
+1. ❗ Opened issue [#100](https://github.com/infanf/myanili/issues/100) in [infanf/myanili](https://github.com/infanf/myanili)
+2. 🗣 Commented on [#34](https://github.com/shy1132/VacuumTube/issues/34#issuecomment-3011720621) in [shy1132/VacuumTube](https://github.com/shy1132/VacuumTube)
+3. ❗ Opened issue [#34](https://github.com/shy1132/VacuumTube/issues/34) in [shy1132/VacuumTube](https://github.com/shy1132/VacuumTube)
+4. 💪 Opened PR [#2](https://github.com/ryuuganime/metadataCreator-anime/pull/2) in [ryuuganime/metadataCreator-anime](https://github.com/ryuuganime/metadataCreator-anime)
 5. 🗣 Commented on [#93](https://github.com/infanf/myanili/pull/93#issuecomment-2851655992) in [infanf/myanili](https://github.com/infanf/myanili)
 <!--END_SECTION:activity-->
