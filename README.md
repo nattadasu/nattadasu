@@ -22,9 +22,9 @@ Try to sign on my guestbook at [nattadasu/nattadasu#1](https://github.com/nattad
 
 ## GitHub Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#100](https://github.com/infanf/myanili/issues/100) in [infanf/myanili](https://github.com/infanf/myanili)
-2. 🗣 Commented on [#34](https://github.com/shy1132/VacuumTube/issues/34#issuecomment-3011720621) in [shy1132/VacuumTube](https://github.com/shy1132/VacuumTube)
-3. ❗ Opened issue [#34](https://github.com/shy1132/VacuumTube/issues/34) in [shy1132/VacuumTube](https://github.com/shy1132/VacuumTube)
-4. 💪 Opened PR [#2](https://github.com/ryuuganime/metadataCreator-anime/pull/2) in [ryuuganime/metadataCreator-anime](https://github.com/ryuuganime/metadataCreator-anime)
-5. 🗣 Commented on [#93](https://github.com/infanf/myanili/pull/93#issuecomment-2851655992) in [infanf/myanili](https://github.com/infanf/myanili)
+1. 🗣 Commented on [#4](https://github.com/rensetsu/db.trakt.anitrakt/issues/4#issuecomment-3138064487) in [rensetsu/db.trakt.anitrakt](https://github.com/rensetsu/db.trakt.anitrakt)
+2. 🗣 Commented on [#5](https://github.com/rensetsu/db.trakt.anitrakt/issues/5#issuecomment-3138051305) in [rensetsu/db.trakt.anitrakt](https://github.com/rensetsu/db.trakt.anitrakt)
+3. 🔒 Closed issue [#5](https://github.com/rensetsu/db.trakt.anitrakt/issues/5) in [rensetsu/db.trakt.anitrakt](https://github.com/rensetsu/db.trakt.anitrakt)
+4. ❗ Opened issue [#5](https://github.com/nattadasu/animeApi/issues/5) in [nattadasu/animeApi](https://github.com/nattadasu/animeApi)
+5. ❗ Opened issue [#100](https://github.com/infanf/myanili/issues/100) in [infanf/myanili](https://github.com/infanf/myanili)
 <!--END_SECTION:activity-->
