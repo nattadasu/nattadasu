@@ -22,9 +22,9 @@ Try to sign on my guestbook at [nattadasu/nattadasu#1](https://github.com/nattad
 
 ## GitHub Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#475](https://github.com/ungive/discord-music-presence/issues/475) in [ungive/discord-music-presence](https://github.com/ungive/discord-music-presence)
-2. 🗣 Commented on [#6](https://github.com/nattadasu/animeApi/pull/6#issuecomment-3382587438) in [nattadasu/animeApi](https://github.com/nattadasu/animeApi)
-3. 🗣 Commented on [#6](https://github.com/nattadasu/animeApi/pull/6#issuecomment-3382253168) in [nattadasu/animeApi](https://github.com/nattadasu/animeApi)
-4. 🗣 Commented on [#6](https://github.com/nattadasu/animeApi/pull/6#issuecomment-3382227169) in [nattadasu/animeApi](https://github.com/nattadasu/animeApi)
-5. 🗣 Commented on [#6](https://github.com/nattadasu/animeApi/pull/6#issuecomment-3382180582) in [nattadasu/animeApi](https://github.com/nattadasu/animeApi)
+1. 🗣 Commented on [#7](https://github.com/nattadasu/animeApi/pull/7#issuecomment-3418741806) in [nattadasu/animeApi](https://github.com/nattadasu/animeApi)
+2. ❗ Opened issue [#475](https://github.com/ungive/discord-music-presence/issues/475) in [ungive/discord-music-presence](https://github.com/ungive/discord-music-presence)
+3. 🗣 Commented on [#6](https://github.com/nattadasu/animeApi/pull/6#issuecomment-3382587438) in [nattadasu/animeApi](https://github.com/nattadasu/animeApi)
+4. 🗣 Commented on [#6](https://github.com/nattadasu/animeApi/pull/6#issuecomment-3382253168) in [nattadasu/animeApi](https://github.com/nattadasu/animeApi)
+5. 🗣 Commented on [#6](https://github.com/nattadasu/animeApi/pull/6#issuecomment-3382227169) in [nattadasu/animeApi](https://github.com/nattadasu/animeApi)
 <!--END_SECTION:activity-->
