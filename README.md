@@ -22,9 +22,9 @@ Try to sign on my guestbook at [nattadasu/nattadasu#1](https://github.com/nattad
 
 ## GitHub Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#8](undefined) in [nattadasu/animeApi](https://github.com/nattadasu/animeApi)
-2. 🗣 Commented on [#1](https://github.com/nattadasu/initapper/pull/1#issuecomment-3427853323) in [nattadasu/initapper](https://github.com/nattadasu/initapper)
-3. 🚀 Published release [v3.7.1](https://github.com/nattadasu/animeapi-py/releases/tag/v3.7.1) in [nattadasu/animeapi-py](https://github.com/nattadasu/animeapi-py)
-4. 🗣 Commented on [#7](https://github.com/nattadasu/animeapi-py/pull/7#issuecomment-3427439402) in [nattadasu/animeapi-py](https://github.com/nattadasu/animeapi-py)
-5. 🗣 Commented on [#5](https://github.com/nattadasu/animeApi/issues/5#issuecomment-3425550320) in [nattadasu/animeApi](https://github.com/nattadasu/animeApi)
+1.  Labeled issue [#404](https://github.com/somepaulo/MoreWaita/issues/404) in [somepaulo/MoreWaita](https://github.com/somepaulo/MoreWaita)
+2. ❗ Opened issue [#404](https://github.com/somepaulo/MoreWaita/issues/404) in [somepaulo/MoreWaita](https://github.com/somepaulo/MoreWaita)
+3. 💪 Opened PR [#8](undefined) in [nattadasu/animeApi](https://github.com/nattadasu/animeApi)
+4. 🗣 Commented on [#1](https://github.com/nattadasu/initapper/pull/1#issuecomment-3427853323) in [nattadasu/initapper](https://github.com/nattadasu/initapper)
+5. 🚀 Published release [v3.7.1](https://github.com/nattadasu/animeapi-py/releases/tag/v3.7.1) in [nattadasu/animeapi-py](https://github.com/nattadasu/animeapi-py)
 <!--END_SECTION:activity-->
