@@ -22,9 +22,9 @@ Try to sign on my guestbook at [nattadasu/nattadasu#1](https://github.com/nattad
 
 ## GitHub Activity
 <!--START_SECTION:activity-->
-1.  Labeled issue [#404](https://github.com/somepaulo/MoreWaita/issues/404) in [somepaulo/MoreWaita](https://github.com/somepaulo/MoreWaita)
-2. ❗ Opened issue [#404](https://github.com/somepaulo/MoreWaita/issues/404) in [somepaulo/MoreWaita](https://github.com/somepaulo/MoreWaita)
-3. 💪 Opened PR [#8](undefined) in [nattadasu/animeApi](https://github.com/nattadasu/animeApi)
-4. 🗣 Commented on [#1](https://github.com/nattadasu/initapper/pull/1#issuecomment-3427853323) in [nattadasu/initapper](https://github.com/nattadasu/initapper)
-5. 🚀 Published release [v3.7.1](https://github.com/nattadasu/animeapi-py/releases/tag/v3.7.1) in [nattadasu/animeapi-py](https://github.com/nattadasu/animeapi-py)
+1.  Labeled issue [#1249](https://github.com/komikku-app/komikku/issues/1249) in [komikku-app/komikku](https://github.com/komikku-app/komikku)
+2. ❗ Opened issue [#1249](https://github.com/komikku-app/komikku/issues/1249) in [komikku-app/komikku](https://github.com/komikku-app/komikku)
+3.  Labeled issue [#404](https://github.com/somepaulo/MoreWaita/issues/404) in [somepaulo/MoreWaita](https://github.com/somepaulo/MoreWaita)
+4. ❗ Opened issue [#404](https://github.com/somepaulo/MoreWaita/issues/404) in [somepaulo/MoreWaita](https://github.com/somepaulo/MoreWaita)
+5. 💪 Opened PR [#8](undefined) in [nattadasu/animeApi](https://github.com/nattadasu/animeApi)
 <!--END_SECTION:activity-->
