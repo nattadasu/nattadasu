@@ -22,9 +22,9 @@ Try to sign on my guestbook at [nattadasu/nattadasu#1](https://github.com/nattad
 
 ## GitHub Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v3.7.3](https://github.com/nattadasu/animeapi-py/releases/tag/v3.7.3) in [nattadasu/animeapi-py](https://github.com/nattadasu/animeapi-py)
-2. ❌ Closed PR [#8](undefined) in [nattadasu/animeapi-py](https://github.com/nattadasu/animeapi-py)
-3. 🚀 Published release [v3.7.2](https://github.com/nattadasu/animeapi-py/releases/tag/v3.7.2) in [nattadasu/animeapi-py](https://github.com/nattadasu/animeapi-py)
-4. 🗣 Commented on [#9](https://github.com/nattadasu/animeApi/pull/9#issuecomment-3463187670) in [nattadasu/animeApi](https://github.com/nattadasu/animeApi)
-5. 🗣 Commented on [#9](https://github.com/nattadasu/animeApi/pull/9#issuecomment-3463042095) in [nattadasu/animeApi](https://github.com/nattadasu/animeApi)
+1. 🗣 Commented on [#251](https://github.com/marcosnils/bin/issues/251#issuecomment-3498361278) in [marcosnils/bin](https://github.com/marcosnils/bin)
+2. 🚀 Published release [v3.7.3](https://github.com/nattadasu/animeapi-py/releases/tag/v3.7.3) in [nattadasu/animeapi-py](https://github.com/nattadasu/animeapi-py)
+3. ❌ Closed PR [#8](undefined) in [nattadasu/animeapi-py](https://github.com/nattadasu/animeapi-py)
+4. 🚀 Published release [v3.7.2](https://github.com/nattadasu/animeapi-py/releases/tag/v3.7.2) in [nattadasu/animeapi-py](https://github.com/nattadasu/animeapi-py)
+5. 🗣 Commented on [#9](https://github.com/nattadasu/animeApi/pull/9#issuecomment-3463187670) in [nattadasu/animeApi](https://github.com/nattadasu/animeApi)
 <!--END_SECTION:activity-->
