@@ -22,9 +22,9 @@ Try to sign on my guestbook at [nattadasu/nattadasu#1](https://github.com/nattad
 
 ## GitHub Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#105](https://github.com/infanf/myanili/issues/105) in [infanf/myanili](https://github.com/infanf/myanili)
-2. 🚀 Published release [v0.4.0](https://github.com/nattadasu/ass-to-lrc/releases/tag/v0.4.0) in [nattadasu/ass-to-lrc](https://github.com/nattadasu/ass-to-lrc)
-3. 🗣 Commented on [#251](https://github.com/marcosnils/bin/issues/251#issuecomment-3498361278) in [marcosnils/bin](https://github.com/marcosnils/bin)
+1. 💪 Opened PR [#3](undefined) in [ryuuganime/metadataCreator-anime](https://github.com/ryuuganime/metadataCreator-anime)
+2. ❗ Opened issue [#105](https://github.com/infanf/myanili/issues/105) in [infanf/myanili](https://github.com/infanf/myanili)
+3. 🚀 Published release [v0.4.0](https://github.com/nattadasu/ass-to-lrc/releases/tag/v0.4.0) in [nattadasu/ass-to-lrc](https://github.com/nattadasu/ass-to-lrc)
 4. ❌ Closed PR [#8](undefined) in [nattadasu/animeapi-py](https://github.com/nattadasu/animeapi-py)
 5. 🚀 Published release [v3.7.2](https://github.com/nattadasu/animeapi-py/releases/tag/v3.7.2) in [nattadasu/animeapi-py](https://github.com/nattadasu/animeapi-py)
 <!--END_SECTION:activity-->
