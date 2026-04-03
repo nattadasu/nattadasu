@@ -22,9 +22,9 @@ Try to sign on my guestbook at [nattadasu/nattadasu#1](https://github.com/nattad
 
 ## GitHub Activity
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#2847](https://github.com/ImranR98/Obtainium/issues/2847) in [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium)
-2. ℹ️ Labeled issue [#2847](https://github.com/ImranR98/Obtainium/issues/2847) in [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium)
-3. ❗ Opened issue [#2847](https://github.com/ImranR98/Obtainium/issues/2847) in [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium)
-4. 🚀 Published release [Add Hikka support](https://github.com/nattadasu/animeapi-py/releases/tag/v3.8.0) in [nattadasu/animeapi-py](https://github.com/nattadasu/animeapi-py)
-5. 🚀 Published release [v3.7.2](https://github.com/nattadasu/animeapi-py/releases/tag/v3.7.2) in [nattadasu/animeapi-py](https://github.com/nattadasu/animeapi-py)
+1. 🔒 Closed issue [#2847](https://github.com/ImranR98/Obtainium/issues/2847) in [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium)
+2. 🗣 Commented on [#2847](https://github.com/ImranR98/Obtainium/issues/2847#issuecomment-4184942146) in [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium)
+3. ℹ️ Labeled issue [#2847](https://github.com/ImranR98/Obtainium/issues/2847) in [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium)
+4. ℹ️ Labeled issue [#2847](https://github.com/ImranR98/Obtainium/issues/2847) in [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium)
+5. ❗ Opened issue [#2847](https://github.com/ImranR98/Obtainium/issues/2847) in [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium)
 <!--END_SECTION:activity-->
