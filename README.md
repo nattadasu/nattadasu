@@ -22,9 +22,9 @@ Try to sign on my guestbook at [nattadasu/nattadasu#1](https://github.com/nattad
 
 ## GitHub Activity
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#2847](https://github.com/ImranR98/Obtainium/issues/2847) in [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium)
-2. 🗣 Commented on [#2847](https://github.com/ImranR98/Obtainium/issues/2847#issuecomment-4184942146) in [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium)
-3. ℹ️ Labeled issue [#2847](https://github.com/ImranR98/Obtainium/issues/2847) in [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium)
+1. 💪 Opened PR [#123](https://github.com/smirgol/plugin.video.crunchyroll/pull/123) in [smirgol/plugin.video.crunchyroll](https://github.com/smirgol/plugin.video.crunchyroll)
+2. 🔒 Closed issue [#2847](https://github.com/ImranR98/Obtainium/issues/2847) in [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium)
+3. 🗣 Commented on [#2847](https://github.com/ImranR98/Obtainium/issues/2847#issuecomment-4184942146) in [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium)
 4. ℹ️ Labeled issue [#2847](https://github.com/ImranR98/Obtainium/issues/2847) in [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium)
-5. ❗ Opened issue [#2847](https://github.com/ImranR98/Obtainium/issues/2847) in [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium)
+5. ℹ️ Labeled issue [#2847](https://github.com/ImranR98/Obtainium/issues/2847) in [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium)
 <!--END_SECTION:activity-->
