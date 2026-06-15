@@ -22,9 +22,9 @@ Try to sign on my guestbook at [nattadasu/nattadasu#1](https://github.com/nattad
 
 ## GitHub Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v4.1.1](https://github.com/nattadasu/miribyou/releases/tag/v4.1.1) in [nattadasu/miribyou](https://github.com/nattadasu/miribyou)
-2. 🚀 Published release [v4.1.0](https://github.com/nattadasu/miribyou/releases/tag/v4.1.0) in [nattadasu/miribyou](https://github.com/nattadasu/miribyou)
-3. 🚀 Published release [v4.0.0](https://github.com/nattadasu/miribyou/releases/tag/v4.0.0) in [nattadasu/miribyou](https://github.com/nattadasu/miribyou)
-4. ❗ Opened issue [#46](https://github.com/ThomasTavernier/Improve-Crunchyroll/issues/46) in [ThomasTavernier/Improve-Crunchyroll](https://github.com/ThomasTavernier/Improve-Crunchyroll)
-5. ℹ️ Labeled issue [#2083](https://github.com/topgrade-rs/topgrade/issues/2083) in [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade)
+1. 🚀 Published release [v4.1.3](https://github.com/nattadasu/miribyou/releases/tag/v4.1.3) in [nattadasu/miribyou](https://github.com/nattadasu/miribyou)
+2. 🚀 Published release [v4.1.2](https://github.com/nattadasu/miribyou/releases/tag/v4.1.2) in [nattadasu/miribyou](https://github.com/nattadasu/miribyou)
+3. 🚀 Published release [v4.1.1](https://github.com/nattadasu/miribyou/releases/tag/v4.1.1) in [nattadasu/miribyou](https://github.com/nattadasu/miribyou)
+4. 🚀 Published release [v4.1.0](https://github.com/nattadasu/miribyou/releases/tag/v4.1.0) in [nattadasu/miribyou](https://github.com/nattadasu/miribyou)
+5. 🚀 Published release [v4.0.0](https://github.com/nattadasu/miribyou/releases/tag/v4.0.0) in [nattadasu/miribyou](https://github.com/nattadasu/miribyou)
 <!--END_SECTION:activity-->
