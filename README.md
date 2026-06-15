@@ -22,9 +22,9 @@ Try to sign on my guestbook at [nattadasu/nattadasu#1](https://github.com/nattad
 
 ## GitHub Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#46](https://github.com/ThomasTavernier/Improve-Crunchyroll/issues/46) in [ThomasTavernier/Improve-Crunchyroll](https://github.com/ThomasTavernier/Improve-Crunchyroll)
-2. ℹ️ Labeled issue [#2083](https://github.com/topgrade-rs/topgrade/issues/2083) in [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade)
-3. ❗ Opened issue [#2083](https://github.com/topgrade-rs/topgrade/issues/2083) in [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade)
-4. 🗣 Commented on [#127](https://github.com/smirgol/plugin.video.crunchyroll/issues/127#issuecomment-4548396523) in [smirgol/plugin.video.crunchyroll](https://github.com/smirgol/plugin.video.crunchyroll)
-5. ❗ Opened issue [#825](https://github.com/Sandmann79/xbmc/issues/825) in [Sandmann79/xbmc](https://github.com/Sandmann79/xbmc)
+1. 🚀 Published release [v4.1.1](https://github.com/nattadasu/miribyou/releases/tag/v4.1.1) in [nattadasu/miribyou](https://github.com/nattadasu/miribyou)
+2. 🚀 Published release [v4.1.0](https://github.com/nattadasu/miribyou/releases/tag/v4.1.0) in [nattadasu/miribyou](https://github.com/nattadasu/miribyou)
+3. 🚀 Published release [v4.0.0](https://github.com/nattadasu/miribyou/releases/tag/v4.0.0) in [nattadasu/miribyou](https://github.com/nattadasu/miribyou)
+4. ❗ Opened issue [#46](https://github.com/ThomasTavernier/Improve-Crunchyroll/issues/46) in [ThomasTavernier/Improve-Crunchyroll](https://github.com/ThomasTavernier/Improve-Crunchyroll)
+5. ℹ️ Labeled issue [#2083](https://github.com/topgrade-rs/topgrade/issues/2083) in [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade)
 <!--END_SECTION:activity-->
