@@ -22,9 +22,9 @@ Try to sign on my guestbook at [nattadasu/nattadasu#1](https://github.com/nattad
 
 ## GitHub Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#133](https://github.com/infanf/myanili/issues/133) in [infanf/myanili](https://github.com/infanf/myanili)
-2. 🗣 Commented on [#1](https://github.com/nattadasu/miribyou/issues/1#issuecomment-4714601593) in [nattadasu/miribyou](https://github.com/nattadasu/miribyou)
-3. 🚀 Published release [v4.1.4](https://github.com/nattadasu/miribyou/releases/tag/v4.1.4) in [nattadasu/miribyou](https://github.com/nattadasu/miribyou)
-4. 🔒 Closed issue [#1](https://github.com/nattadasu/miribyou/issues/1) in [nattadasu/miribyou](https://github.com/nattadasu/miribyou)
-5. 🗣 Commented on [#1](https://github.com/nattadasu/miribyou/issues/1#issuecomment-4714566632) in [nattadasu/miribyou](https://github.com/nattadasu/miribyou)
+1. ❗ Opened issue [#174](https://github.com/anlar/tewi/issues/174) in [anlar/tewi](https://github.com/anlar/tewi)
+2. ❗ Opened issue [#133](https://github.com/infanf/myanili/issues/133) in [infanf/myanili](https://github.com/infanf/myanili)
+3. 🗣 Commented on [#1](https://github.com/nattadasu/miribyou/issues/1#issuecomment-4714601593) in [nattadasu/miribyou](https://github.com/nattadasu/miribyou)
+4. 🚀 Published release [v4.1.4](https://github.com/nattadasu/miribyou/releases/tag/v4.1.4) in [nattadasu/miribyou](https://github.com/nattadasu/miribyou)
+5. 🔒 Closed issue [#1](https://github.com/nattadasu/miribyou/issues/1) in [nattadasu/miribyou](https://github.com/nattadasu/miribyou)
 <!--END_SECTION:activity-->
