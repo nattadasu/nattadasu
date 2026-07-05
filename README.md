@@ -22,9 +22,9 @@ Try to sign on my guestbook at [nattadasu/nattadasu#1](https://github.com/nattad
 
 ## GitHub Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v4.4.3](https://github.com/nattadasu/miribyou/releases/tag/v4.4.3) in [nattadasu/miribyou](https://github.com/nattadasu/miribyou)
-2. 🚀 Published release [v4.4.2](https://github.com/nattadasu/miribyou/releases/tag/v4.4.2) in [nattadasu/miribyou](https://github.com/nattadasu/miribyou)
-3. 🚀 Published release [v4.4.1](https://github.com/nattadasu/miribyou/releases/tag/v4.4.1) in [nattadasu/miribyou](https://github.com/nattadasu/miribyou)
-4. 🚀 Published release [v4.4.0](https://github.com/nattadasu/miribyou/releases/tag/v4.4.0) in [nattadasu/miribyou](https://github.com/nattadasu/miribyou)
-5. 🚀 Published release [v4.3.0](https://github.com/nattadasu/miribyou/releases/tag/v4.3.0) in [nattadasu/miribyou](https://github.com/nattadasu/miribyou)
+1. 🗣 Commented on [#5](https://github.com/nattadasu/animeApi/issues/5#issuecomment-4886525336) in [nattadasu/animeApi](https://github.com/nattadasu/animeApi)
+2. 🚀 Published release [v4.4.3](https://github.com/nattadasu/miribyou/releases/tag/v4.4.3) in [nattadasu/miribyou](https://github.com/nattadasu/miribyou)
+3. 🚀 Published release [v4.4.2](https://github.com/nattadasu/miribyou/releases/tag/v4.4.2) in [nattadasu/miribyou](https://github.com/nattadasu/miribyou)
+4. 🚀 Published release [v4.4.1](https://github.com/nattadasu/miribyou/releases/tag/v4.4.1) in [nattadasu/miribyou](https://github.com/nattadasu/miribyou)
+5. 🚀 Published release [v4.4.0](https://github.com/nattadasu/miribyou/releases/tag/v4.4.0) in [nattadasu/miribyou](https://github.com/nattadasu/miribyou)
 <!--END_SECTION:activity-->
