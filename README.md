@@ -22,9 +22,9 @@ Try to sign on my guestbook at [nattadasu/nattadasu#1](https://github.com/nattad
 
 ## GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#825](https://github.com/Sandmann79/xbmc/issues/825#issuecomment-4982180723) in [Sandmann79/xbmc](https://github.com/Sandmann79/xbmc)
-2. 🔒 Closed issue [#825](https://github.com/Sandmann79/xbmc/issues/825) in [Sandmann79/xbmc](https://github.com/Sandmann79/xbmc)
-3. 🗣 Commented on [#825](https://github.com/Sandmann79/xbmc/issues/825#issuecomment-4951435112) in [Sandmann79/xbmc](https://github.com/Sandmann79/xbmc)
-4. ❗ Opened issue [#139](https://github.com/infanf/myanili/issues/139) in [infanf/myanili](https://github.com/infanf/myanili)
-5. 🗣 Commented on [#5](https://github.com/nattadasu/animeApi/issues/5#issuecomment-4886525336) in [nattadasu/animeApi](https://github.com/nattadasu/animeApi)
+1. ❗ Opened issue [#1](https://github.com/subhajeetch-fl/anime-mapper/issues/1) in [subhajeetch-fl/anime-mapper](https://github.com/subhajeetch-fl/anime-mapper)
+2. 🗣 Commented on [#825](https://github.com/Sandmann79/xbmc/issues/825#issuecomment-4982180723) in [Sandmann79/xbmc](https://github.com/Sandmann79/xbmc)
+3. 🔒 Closed issue [#825](https://github.com/Sandmann79/xbmc/issues/825) in [Sandmann79/xbmc](https://github.com/Sandmann79/xbmc)
+4. 🗣 Commented on [#825](https://github.com/Sandmann79/xbmc/issues/825#issuecomment-4951435112) in [Sandmann79/xbmc](https://github.com/Sandmann79/xbmc)
+5. ❗ Opened issue [#139](https://github.com/infanf/myanili/issues/139) in [infanf/myanili](https://github.com/infanf/myanili)
 <!--END_SECTION:activity-->
