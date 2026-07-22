@@ -22,9 +22,9 @@ Try to sign on my guestbook at [nattadasu/nattadasu#1](https://github.com/nattad
 
 ## GitHub Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1](https://github.com/subhajeetch-fl/anime-mapper/issues/1) in [subhajeetch-fl/anime-mapper](https://github.com/subhajeetch-fl/anime-mapper)
-2. 🗣 Commented on [#825](https://github.com/Sandmann79/xbmc/issues/825#issuecomment-4982180723) in [Sandmann79/xbmc](https://github.com/Sandmann79/xbmc)
-3. 🔒 Closed issue [#825](https://github.com/Sandmann79/xbmc/issues/825) in [Sandmann79/xbmc](https://github.com/Sandmann79/xbmc)
-4. 🗣 Commented on [#825](https://github.com/Sandmann79/xbmc/issues/825#issuecomment-4951435112) in [Sandmann79/xbmc](https://github.com/Sandmann79/xbmc)
-5. ❗ Opened issue [#139](https://github.com/infanf/myanili/issues/139) in [infanf/myanili](https://github.com/infanf/myanili)
+1. 🎉 Merged PR [#276](https://github.com/nattadasu/ryuuRyuusei/pull/276) in [nattadasu/ryuuRyuusei](https://github.com/nattadasu/ryuuRyuusei)
+2. 🎉 Merged PR [#278](https://github.com/nattadasu/ryuuRyuusei/pull/278) in [nattadasu/ryuuRyuusei](https://github.com/nattadasu/ryuuRyuusei)
+3. 🎉 Merged PR [#277](https://github.com/nattadasu/ryuuRyuusei/pull/277) in [nattadasu/ryuuRyuusei](https://github.com/nattadasu/ryuuRyuusei)
+4. 🎉 Merged PR [#274](https://github.com/nattadasu/ryuuRyuusei/pull/274) in [nattadasu/ryuuRyuusei](https://github.com/nattadasu/ryuuRyuusei)
+5. ❗ Opened issue [#1](https://github.com/subhajeetch-fl/anime-mapper/issues/1) in [subhajeetch-fl/anime-mapper](https://github.com/subhajeetch-fl/anime-mapper)
 <!--END_SECTION:activity-->
