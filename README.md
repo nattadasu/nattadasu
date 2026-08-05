@@ -22,9 +22,9 @@ Try to sign on my guestbook at [nattadasu/nattadasu#1](https://github.com/nattad
 
 ## GitHub Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#655](https://github.com/screwys/Rufin/issues/655) in [screwys/Rufin](https://github.com/screwys/Rufin)
-2. 🎉 Merged PR [#276](https://github.com/nattadasu/ryuuRyuusei/pull/276) in [nattadasu/ryuuRyuusei](https://github.com/nattadasu/ryuuRyuusei)
-3. 🎉 Merged PR [#278](https://github.com/nattadasu/ryuuRyuusei/pull/278) in [nattadasu/ryuuRyuusei](https://github.com/nattadasu/ryuuRyuusei)
-4. 🎉 Merged PR [#277](https://github.com/nattadasu/ryuuRyuusei/pull/277) in [nattadasu/ryuuRyuusei](https://github.com/nattadasu/ryuuRyuusei)
-5. 🎉 Merged PR [#274](https://github.com/nattadasu/ryuuRyuusei/pull/274) in [nattadasu/ryuuRyuusei](https://github.com/nattadasu/ryuuRyuusei)
+1. 🗣 Commented on [#2](https://github.com/wetrakr/wetrakr-jf/pull/2#issuecomment-5194556739) in [wetrakr/wetrakr-jf](https://github.com/wetrakr/wetrakr-jf)
+2. ❗ Opened issue [#655](https://github.com/screwys/Rufin/issues/655) in [screwys/Rufin](https://github.com/screwys/Rufin)
+3. 🎉 Merged PR [#276](https://github.com/nattadasu/ryuuRyuusei/pull/276) in [nattadasu/ryuuRyuusei](https://github.com/nattadasu/ryuuRyuusei)
+4. 🎉 Merged PR [#278](https://github.com/nattadasu/ryuuRyuusei/pull/278) in [nattadasu/ryuuRyuusei](https://github.com/nattadasu/ryuuRyuusei)
+5. 🎉 Merged PR [#277](https://github.com/nattadasu/ryuuRyuusei/pull/277) in [nattadasu/ryuuRyuusei](https://github.com/nattadasu/ryuuRyuusei)
 <!--END_SECTION:activity-->
