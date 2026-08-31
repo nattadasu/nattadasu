@@ -159,6 +159,9 @@ Coba tandatangani ke buku tamu saya di [nattadasu/nattadasu#1](https://github.co
 
 > uwaaaaa
 -[@pampampam999](https://github.com/pampampam999)
+
+> halowo uiiai
+-[@kiasenolo](https://github.com/kiasenolo)
 <!--END:guestbook-->
 
 ## Aktivitas GitHub
